@@ -1,0 +1,9 @@
+capital = "Cherdyn"
+culture = uralic
+religion = tengri_pagan
+trade_goods = salt
+base_tax = 3
+base_production = 3
+base_manpower = 2
+extra_cost = 8
+center_of_trade = 1

@@ -1,0 +1,112 @@
+graphical_culture = indiangfx
+color = { 36 109 194 }
+revolutionary_colors = { 9 5 9 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	humanist_ideas
+	quantity_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	quality_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ahavamalla #0" = 0
+	"Bhavanaga #0" = -1
+	"Bukka #1" = 10
+	"Dattadevi #0" = -1
+	"Gangambika #0" = -1
+	"Jogama #0" = 0
+	"Kambarasa #2" = 10
+	"Kapilendra #0" = 0
+	"Karka #0" = 0
+	"Kiriyasaga #0" = 0
+	"Obayamma #0" = -1
+	"Permadi #0" = 0
+	"Permanadi #0" = 0
+	"Revakanimmadi #0" = -1
+	"Satyasraya #1" = 10
+	"Singhana #0" = 0
+	"Vijnanavati #0" = -1
+	"Viranarasimha #0" = 0
+}
+leader_names = {
+	"Azad"
+	"Bose"
+	"Chodhury"
+	"Das"
+	"Debshikdar"
+	"Ganesha"
+	"Ganguly"
+	"Ghosh"
+	"Karani"
+	"Khan"
+	"Majumdar"
+	"Mukerjhee"
+	"Pal"
+	"Roy"
+	"Saraswoti"
+	"Sarkar"
+	"Sen"
+	"Shahi"
+	"Shaikh"
+	"Suri"
+	"Thakur"
+	"Waddedar"
+	"Zamindar"
+	"ad-Daula"
+}
+ship_names = {
+	"Abu Bakr"
+	"Ali Khan"
+	"Bhagirathi"
+	"Brahmaputra"
+	"Chingri Mach"
+	"Chittagong"
+	"Durbar"
+	"Durdasha"
+	"Fatima"
+	"Ganga"
+	"Hilsa Mach"
+	"Hooghly"
+	"Ilish Mach"
+	"Jalangi"
+	"Jasmine"
+	"Kali Meghana"
+	"Kali Nauk"
+	"Kolkata"
+	"Lal Nauk"
+	"Machli"
+	"Malda"
+	"Meghna"
+	"Mongla"
+	"Murshidabad"
+	"Nauk-i-Islam"
+	"Nawaber Nauk"
+	"Nil Nauk"
+	"Nil Sagor"
+	"Osman"
+	"Padma"
+	"Rui Mach"
+	"Sagorer Bahini"
+	"Shaheed"
+	"Sheikher Nauk"
+	"Sonar Bangladesh"
+	"Sunderboner Bahini"
+	"Sunderboner Nauk"
+	"Tasleema"
+}

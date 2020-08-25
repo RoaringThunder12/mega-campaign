@@ -1,0 +1,12 @@
+owner = OYO
+controller = OYO
+capital = "Ife Ile"
+is_city = yes
+culture = yorumba
+religion = shamanism
+trade_goods = glass
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = OYO
+discovered_by = sub_saharan

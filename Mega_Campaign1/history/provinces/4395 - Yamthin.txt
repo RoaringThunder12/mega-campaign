@@ -1,0 +1,13 @@
+owner = AVA
+controller = AVA
+capital = "Yamethin"
+is_city = yes
+culture = burmese
+religion = buddhism
+trade_goods = ivory
+base_tax = 2
+base_production = 3
+base_manpower = 2
+add_core = AVA
+discovered_by = chinese
+discovered_by = indian

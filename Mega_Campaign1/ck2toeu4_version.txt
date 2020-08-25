@@ -1,0 +1,7 @@
+
+
+************ -= The Paradox Converters Team =- ********************
+* Converter version 1.0 "Dunbar"
+* Compatible with CK2 3.3 and EU4 1.30
+* Built on Wed Aug 19 18:25:05 2020
+********************** + CK2 To EU4 + *****************************

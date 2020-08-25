@@ -1,0 +1,16 @@
+owner = HND
+controller = HND
+capital = "Datong"
+is_city = yes
+culture = jin
+religion = confucianism
+trade_goods = iron
+fort_15th = yes
+base_tax = 4
+base_production = 4
+base_manpower = 3
+add_core = HND
+add_core = JIN
+add_core = MNG
+discovered_by = chinese
+discovered_by = nomad_group

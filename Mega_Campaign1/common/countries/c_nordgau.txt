@@ -1,0 +1,13 @@
+graphical_culture = westerngfx
+color = { 160 160 210 }
+monarch_names = {
+	"Agostina #0" = -1
+	"Amsha #0" = -1
+	"Arnoul #0" = 0
+	"Averado #0" = 0
+	"Blanca #0" = -1
+	"Guy #0" = 0
+	"Hélie #0" = 0
+	"Mélusine #0" = -1
+	"Édouard #0" = 0
+}

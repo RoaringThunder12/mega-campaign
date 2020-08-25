@@ -1,0 +1,99 @@
+graphical_culture = westerngfx
+color = { 240 167 130 }
+revolutionary_colors = { 13 0 8 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	quantity_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Alain #1" = 10
+	"Andreas #1" = 10
+	"Araslan #1" = 10
+	"Arnolfo #0" = 0
+	"Belisarios #1" = 10
+	"Beloje #1" = 10
+	"Benedetta #0" = -1
+	"Boris #1" = 10
+	"Borna #1" = 10
+	"Bulger #1" = 10
+	"Buzer #1" = 10
+	"Candida #0" = -1
+	"Dobromir #1" = 10
+	"Dragos #1" = 10
+	"Dujam #1" = 10
+	"Eriprando #0" = 0
+	"Flora #0" = -1
+	"Fortunata #0" = -1
+	"Hugues #1" = 10
+	"Khuterkin #1" = 10
+	"Milorad #1" = 10
+	"Petar #1" = 10
+	"Robin #1" = 10
+	"Rolando #0" = 0
+	"Silvana #0" = -1
+	"Slobodan #1" = 10
+	"Stefano #0" = 0
+	"Tarkhan #1" = 10
+	"Tuk #1" = 10
+	"Ugolino #3" = 10
+	"Vladimir #1" = 10
+	"Zoran #1" = 10
+	"Çat #1" = 10
+}
+leader_names = {
+	"Babonic"
+	"Balsic"
+	"Branivojevic"
+	"Dragisic"
+	"Gradascevic"
+	"Hrvatinic"
+	"Isakovic"
+	"Kosaca"
+	"Kotromanic"
+	"Nelipic"
+	"Pavlovic"
+	"Radinovic"
+	"Sankovic"
+	"Santic"
+	"Sokolovic"
+	"Subic"
+	"Tvrtkovic"
+	"Vukasin"
+	"Vukcic"
+	"Vukovic"
+}
+ship_names = {
+	"Bosna"
+	"Bosni"
+	"Dalmacija"
+	"Gazi Husrev-beg"
+	"Kotromanici"
+	"Kulin ban"
+	"Miljacka"
+	"Sarajevo"
+	"Stjepan II"
+	"Tvrtko I"
+}

@@ -1,0 +1,16 @@
+owner = HND
+controller = HND
+capital = "Luzhou"
+is_city = yes
+culture = sichuanese
+religion = confucianism
+trade_goods = grain
+base_tax = 2
+base_production = 2
+base_manpower = 2
+add_core = CXI
+add_core = HND
+add_core = MNG
+add_core = SHU
+discovered_by = chinese
+discovered_by = nomad_group

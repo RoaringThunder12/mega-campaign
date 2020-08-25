@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = sicilian
+capital = 124
+1444.11.11= {
+	monarch = {
+		name = "Gregorio"
+		dynasty = "Kabasilas"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 1424.12.4
+		religion = catholic
+		culture = sicilian
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Fortunata"
+		dynasty = "Ademingi"
+		adm = 2
+		dip = 3
+		mil = 4
+		country_of_origin = Z11
+		birth_date = 1425.6.10
+		death_date = 1485.6.10
+		female = yes
+		religion = catholic
+		culture = ligurian
+	}
+	add_queen_personality = midas_touched_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Eduardo"
+		monarch_name = "Eduardo"
+		dynasty = "Kabasilas"
+		adm = 0
+		dip = 0
+		mil = 1
+		birth_date = 1443.2.20
+		death_date = 1508.2.20
+		claim = 89
+		religion = catholic
+		culture = ligurian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 24
+	add_treasury = 92
+}

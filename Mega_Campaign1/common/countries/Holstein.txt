@@ -1,0 +1,94 @@
+graphical_culture = westerngfx
+color = { 220 150 158 }
+revolutionary_colors = { 5 0 5 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adalberto #0" = 0
+	"Anastasio #1" = 10
+	"Andrea #1" = 10
+	"Antoinette #1" = -1
+	"Beorhtwynn #1" = -1
+	"Berto #2" = 10
+	"Bianca #0" = -1
+	"Claudio #0" = 0
+	"Folki #1" = 10
+	"Frirek #2" = 10
+	"Froði #1" = 10
+	"Gentile #0" = 0
+	"Giovanna #1" = -1
+	"Harold #0" = 0
+	"Haukr #1" = 10
+	"Hesso #2" = 10
+	"Hæsteinn #1" = 10
+	"Jaspert #1" = 10
+	"Karl #1" = 10
+	"Lazzaro #0" = 0
+	"Leofwine #1" = 10
+	"Maria #1" = -1
+	"Marsiglio #1" = 10
+	"Mathilde #1" = -1
+	"Nicola #2" = 10
+	"Olaf #1" = 10
+	"Radgis #0" = 0
+	"Renata #0" = -1
+	"Ricciarda #1" = -1
+	"Sara #1" = -1
+	"Sune #1" = 10
+	"Sven #1" = 10
+	"Tedice #1" = 10
+	"Toke #1" = 10
+	"Waimar #1" = 10
+	"Östen #1" = 10
+}
+leader_names = {
+	"Albert"
+	"Augustenborg"
+	"Günther"
+	"Holstein"
+	"Holstein-Gottorp"
+	"Oldenburg"
+	"Philip"
+	"Rantzau"
+	"von Barner"
+	"von Dellwigh"
+}
+ship_names = {
+	"Dahme"
+	"Grossenbrode"
+	"Grömtz"
+	"Kellenhusen"
+	"Kiel"
+	"Neustadt"
+	"Ostsee"
+	"Scharbeutz"
+	"Sierksdorf"
+	"Wedel"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

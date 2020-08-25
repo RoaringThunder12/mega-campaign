@@ -1,0 +1,13 @@
+owner = ENA
+controller = ENA
+capital = "Illubabor"
+is_city = yes
+culture = sidamo
+religion = coptic
+trade_goods = slaves
+base_tax = 2
+base_production = 3
+base_manpower = 2
+add_core = ENA
+discovered_by = east_african
+discovered_by = muslim

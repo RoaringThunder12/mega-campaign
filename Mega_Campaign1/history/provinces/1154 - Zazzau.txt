@@ -1,0 +1,12 @@
+owner = ZZZ
+controller = ZZZ
+capital = "Turunku"
+is_city = yes
+culture = hausa
+religion = shamanism
+trade_goods = slaves
+base_tax = 3
+base_production = 3
+base_manpower = 3
+add_core = ZZZ
+discovered_by = sub_saharan

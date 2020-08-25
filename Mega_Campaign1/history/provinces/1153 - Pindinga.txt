@@ -1,0 +1,13 @@
+owner = NUP
+controller = NUP
+capital = "Lafia"
+is_city = yes
+culture = nupe
+religion = shamanism
+trade_goods = livestock
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = NUP
+discovered_by = sub_saharan
+native_size = 40

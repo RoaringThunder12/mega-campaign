@@ -1,0 +1,9 @@
+graphical_culture = westerngfx
+color = { 209 170 75 }
+monarch_names = {
+	"Arni #0" = 0
+	"Falki #0" = 0
+	"Hæsteinn #0" = 0
+	"Nils #0" = 0
+	"Þordr #0" = 0
+}

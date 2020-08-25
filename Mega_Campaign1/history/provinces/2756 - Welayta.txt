@@ -1,0 +1,13 @@
+owner = WLY
+controller = WLY
+capital = "Bonga"
+is_city = yes
+culture = sidamo
+religion = shamanism
+trade_goods = coffee
+base_tax = 2
+base_production = 2
+base_manpower = 2
+add_core = WLY
+discovered_by = east_african
+discovered_by = muslim

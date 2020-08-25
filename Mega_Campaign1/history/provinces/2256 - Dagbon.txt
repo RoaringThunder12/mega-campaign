@@ -1,0 +1,15 @@
+owner = DGB
+controller = DGB
+capital = "Yendi"
+is_city = yes
+culture = dagomba
+religion = shamanism
+trade_goods = dyes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = DGB
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

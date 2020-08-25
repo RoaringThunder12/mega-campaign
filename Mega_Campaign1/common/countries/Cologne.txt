@@ -1,0 +1,127 @@
+graphical_culture = westerngfx
+color = { 84 124 48 }
+revolutionary_colors = { 5 1 0 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adalbert #1" = 10
+	"Adalgari #1" = 10
+	"Agalina #1" = -1
+	"Agelmund #3" = 10
+	"Agiulf #1" = 10
+	"Albric #1" = 10
+	"Argentina #0" = -1
+	"Arnaud #1" = 10
+	"Aunepert #1" = 10
+	"Berta #1" = -1
+	"Bertram #1" = 10
+	"Cenfus #0" = 0
+	"Ceslin #1" = 10
+	"Ealdgyth #0" = -1
+	"Eormenred #0" = 0
+	"Ewin #1" = 10
+	"Federigo #2" = 10
+	"Frida #0" = -1
+	"Friedenando #1" = 10
+	"Giberto #1" = 10
+	"Ildégarde #1" = -1
+	"Jeanne #1" = -1
+	"Manfred #0" = 0
+	"Odelric #1" = 10
+	"Osric #1" = 10
+	"Paola #1" = -1
+	"Reinhold #1" = 10
+	"Ricolf #1" = 10
+	"Risiulf #1" = 10
+	"Rodelinda #1" = -1
+	"Sesto #1" = 10
+	"Sicland #1" = 10
+	"Sieciech #1" = 10
+	"Thurcytel #0" = 0
+	"Tiziano #1" = 10
+	"Valdamerca #1" = -1
+	"Violante #0" = -1
+	"Waldipert #2" = 10
+	"Werinbert #1" = 10
+	"Wilbrand #1" = 10
+	"Wistan #0" = 0
+	"Ælflæda #0" = -1
+	"Ælfweard #0" = 0
+	"Æthelweald #0" = 0
+}
+leader_names = {
+	"Baten"
+	"Bombeck"
+	"Boymann"
+	"Bremer"
+	"Breucker"
+	"Buschmann"
+	"Bühmer"
+	"Diekmann"
+	"Eckrath"
+	"Fischedick"
+	"Fortkamp"
+	"Glaser"
+	"Grüter"
+	"Hegemann"
+	"Kappenberg"
+	"Knümann"
+	"Leggewe"
+	"Liesenfeld"
+	"Limberg"
+	"Lochtkemper"
+	"Lohe"
+	"Lohmann"
+	"Nathrath"
+	"Ortmann"
+	"Perdekamp"
+	"Pickenbrock"
+	"Sankühler"
+	"Springmann"
+	"Stenkhoff"
+	"Stratmann"
+	"Wessels"
+	"von Wedich"
+	"von Westerburg"
+}
+ship_names = {
+	"Agger"
+	"Bischof Hildebold"
+	"Engelbert II"
+	"Erbischof Anno"
+	"Erft"
+	"Erzbischof Brun"
+	"Erzbischof Gero"
+	"Erzbischof Gunthar"
+	"Konrad Hochstaden"
+	"Rainald von Dassel"
+	"Rhein"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+	"Erzbischofliche Garde"
+}

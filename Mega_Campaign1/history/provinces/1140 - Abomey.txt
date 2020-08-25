@@ -1,0 +1,15 @@
+owner = DAH
+controller = DAH
+capital = "Allada"
+is_city = yes
+culture = fon
+religion = shamanism
+trade_goods = slaves
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = DAH
+discovered_by = sub_saharan
+native_size = 60
+native_ferocity = 4
+native_hostileness = 9

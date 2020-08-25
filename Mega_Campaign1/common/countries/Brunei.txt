@@ -1,0 +1,90 @@
+graphical_culture = asiangfx
+color = { 41 89 174 }
+revolutionary_colors = { 1 0 8 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	quality_ideas
+	economic_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"'Abd al-Jalîl #0" = 20
+	"'Abd al-Mubin #0" = 20
+	"'Abd al-Qahhar #0" = 20
+	"'Umniya #0" = -1
+	"Ahmad #0" = 20
+	"Aisha #0" = -1
+	"Alâ' ad-Dîn #0" = 20
+	"Azura #0" = -1
+	"Bulkiah #0" = 20
+	"Hafeeza #0" = -1
+	"Hasan #0" = 20
+	"Kamâl ad-Dîn #0" = 20
+	"Muhammad #0" = 20
+	"Muhammad 'Alî #0" = 20
+	"Muhammad Jamâl ad-Dîn #0" = 20
+	"Muhammad Tâj ad-Dîn #0" = 20
+	"Muhyî ad-Dîn #0" = 20
+	"Nasr ad-Dîn #0" = 20
+	"Rim #0" = -1
+	"Sayf ad-Dîn #0" = 20
+	"Sayf ar-Rijal #0" = 20
+	"Sulaymân #0" = 20
+}
+leader_names = {
+	"Abdulfatah"
+	"Ahmad"
+	"Amir"
+	"Anwar"
+	"Azmi"
+	"Batuta"
+	"Chairul"
+	"Hamzah"
+	"Hasanuddin"
+	"Ibnu"
+	"Kyai"
+	"Mahat"
+	"Mukhtar"
+	"Najamuddin"
+	"Natzar"
+	"Nazmizan"
+	"Roem"
+	"Syarifuddin"
+	"Zulkifli"
+}
+ship_names = {
+	"Bangar"
+	"Batang"
+	"Batang Baram"
+	"Batu Danau"
+	"Kuala Baram"
+	"Kuala Belait"
+	"Kuala Medamit"
+	"Labi"
+	"Lumut"
+	"Lungai Limbang"
+	"Penanjong"
+	"Sukang"
+	"Sungai Bakong"
+	"Sungai Belait"
+	"Sungai Pandaruan"
+	"Sungai Tembureng"
+	"Sungai Tinjar"
+	"Sungai Tutoh"
+	"Sungai Tutong"
+	"Telingan"
+	"Trusan"
+}

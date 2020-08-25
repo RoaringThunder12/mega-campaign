@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 3
+technology_group = nomad_group
+religion = hinduism
+primary_culture = uyghur
+capital = 1966
+1444.11.11= {
+	monarch = {
+		name = "Maqaraç"
+		dynasty = "Ilçurid"
+		adm = 2
+		dip = 3
+		mil = 1
+		birth_date = 1401.4.16
+		religion = hinduism
+		culture = uyghur
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Ötüken"
+		dynasty = "Shöñüzid"
+		adm = 5
+		dip = 3
+		mil = 3
+		country_of_origin = KHA
+		birth_date = 1403.5.20
+		death_date = 1463.5.20
+		female = yes
+		religion = hinduism
+		culture = uyghur
+	}
+	add_queen_personality = strict_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Tardush"
+		monarch_name = "Tardush"
+		dynasty = "Ilçurid"
+		adm = 0
+		dip = 1
+		mil = 2
+		birth_date = 1441.1.14
+		death_date = 1506.1.14
+		claim = 89
+		religion = hinduism
+		culture = uyghur
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 71
+	add_treasury = 41
+}

@@ -1,0 +1,149 @@
+graphical_culture = westerngfx
+color = { 61 136 66 }
+revolutionary_colors = { 14 0 14 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	innovativeness_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	quality_ideas
+	administrative_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adalbert #1" = 10
+	"Aleramo #0" = 0
+	"Ansfrid #0" = 0
+	"Astorre #1" = 10
+	"Astrid #1" = -1
+	"Athanasia #0" = -1
+	"Ausilia #0" = -1
+	"Ausilio #0" = 0
+	"Battista #0" = 0
+	"Bavo #1" = 10
+	"Bedrich #1" = 10
+	"Berardo #0" = 0
+	"Berto #1" = 10
+	"Bruno #2" = 10
+	"Cecilia #0" = -1
+	"Christopher #0" = 0
+	"Claudio #1" = 10
+	"Costantino #0" = 0
+	"Dobromil #1" = 10
+	"Durante #4" = 10
+	"Eriprando #0" = 0
+	"Fortunata #0" = -1
+	"Franz #0" = 0
+	"Froði #0" = 0
+	"Grzegorz #0" = 0
+	"Hesso #0" = 0
+	"Ingemar #0" = 0
+	"Jeanne #1" = -1
+	"Karel #1" = 10
+	"Khinialon #0" = 0
+	"Kuno #1" = 10
+	"Landari #0" = 0
+	"Leofwaru #1" = -1
+	"Leopoldo #1" = 10
+	"Lucjan #1" = 10
+	"Maer #0" = -1
+	"Marek #1" = 10
+	"Milyduch #1" = 10
+	"Nikolaus #0" = 0
+	"Nils #1" = 10
+	"Otokar #1" = 10
+	"Ottobono #1" = 10
+	"Pelka #1" = 10
+	"Przemysl #1" = 10
+	"Radomir #0" = 0
+	"Ruggiero #0" = 0
+	"Salinguerra #0" = 0
+	"Sedzimir #0" = 0
+	"Simon #0" = 0
+	"Skuli #0" = 0
+	"Strasz #1" = 10
+	"Sulislaw #0" = 0
+	"Theognosia #0" = -1
+	"Ubaldo #1" = 10
+	"Ute #0" = -1
+	"Vagn #1" = 10
+	"Waclaw #1" = 10
+	"Wladyslaw #0" = 0
+	"Þordis #0" = -1
+	"Þorgil #1" = 10
+}
+leader_names = {
+	"Behm"
+	"Beyse"
+	"Grosch"
+	"Heidmann"
+	"Jürgens"
+	"Krumtum"
+	"Kurzmann"
+	"Meuseling"
+	"Miercke"
+	"Normann"
+	"Rähl"
+	"Stellmacher"
+	"Wessel"
+	"Witt"
+	"von Borcke"
+	"von Cammin"
+	"von Eickstedt"
+	"von Greifswald"
+	"von Kolberg"
+	"von Krockows"
+	"von Lettows"
+	"von Neubrandenburg"
+	"von Neustettin"
+	"von Neustreliz"
+	"von Peglows"
+	"von Prenzlau"
+	"von Ramin"
+	"von Rügen"
+	"von Schwerin"
+	"von Stettin"
+	"von Stolp"
+	"von Stralsund"
+	"von Strelows"
+	"von Szczecin"
+	"von Wolgast"
+	"von Wolgatz"
+	"von Wolin"
+	"von Zitzewitzes"
+	"von und zu Stargard"
+}
+ship_names = {
+	"Anklam"
+	"Cammin"
+	"Demmin"
+	"Fräulein von Rügen"
+	"Greifswald"
+	"Herzog Bogislaw"
+	"Herzog Kasimir"
+	"Herzog Otto"
+	"Neustettin"
+	"Pommern"
+	"Rostock"
+	"Stettin Herzog Barnim"
+	"Stralsund"
+	"Wismar"
+	"Wolgast"
+}

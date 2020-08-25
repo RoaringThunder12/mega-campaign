@@ -1,0 +1,105 @@
+graphical_culture = westerngfx
+color = { 170 43 21 }
+revolutionary_colors = { 0 5 0 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	administrative_ideas
+	religious_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Agostino #0" = 0
+	"Albano #1" = 10
+	"Alberade #1" = -1
+	"Alof #0" = -1
+	"Alois #0" = 0
+	"Beorhtwaru #1" = -1
+	"Berthold #0" = 0
+	"Brunhilde #1" = -1
+	"Cenfus #1" = 10
+	"Ciro #0" = 0
+	"Cornelia #1" = -1
+	"Dietrich #1" = 10
+	"Dobroniega #1" = -1
+	"Elena #0" = -1
+	"Eustathia #0" = -1
+	"Filibert #1" = 10
+	"Franz #1" = 10
+	"Gerlach #1" = 10
+	"Giacomo #2" = 10
+	"Gisela #0" = -1
+	"Giuditta #0" = -1
+	"Gregorio #0" = 0
+	"Halina #1" = -1
+	"Heahberht #1" = 10
+	"Ioustina #0" = -1
+	"Irmgard #1" = -1
+	"Luigi #0" = 0
+	"Maddalena #0" = -1
+	"Mario #0" = 0
+	"Mitrofan #1" = 10
+	"Nestore #0" = 0
+	"Niccolò #0" = 0
+	"Nikolaus #1" = 10
+	"Raimondo #3" = 10
+	"Reinhard #0" = 0
+	"Salvatore #0" = 0
+	"Virginio #0" = 0
+	"Waltheof #1" = 10
+	"Zotto #1" = 10
+}
+leader_names = {
+	"Abenthung"
+	"Aschbacher"
+	"Blattl"
+	"Bucher"
+	"Eisenstecken"
+	"Hagleitner"
+	"Haspinger"
+	"Hofer"
+	"Krismer"
+	"Luger"
+	"Oblasser"
+	"Pfurtscheller"
+	"Rapp"
+	"Santer"
+	"Scholl"
+	"Speckbacher"
+	"Straub"
+	"Thalguter"
+}
+ship_names = {
+	"Bozen"
+	"Brenner"
+	"Brixen"
+	"Inn"
+	"Innsbruck"
+	"Kufstein"
+	"Meran"
+	"Stubaital"
+	"Zillertal"
+	"Öztal"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

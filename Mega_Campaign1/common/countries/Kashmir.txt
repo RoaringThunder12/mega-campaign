@@ -1,0 +1,123 @@
+graphical_culture = indiangfx
+color = { 63 150 30 }
+revolutionary_colors = { 4 0 4 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	reformed_mughal_mansabdar
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ali #0" = 0
+	"Ali Shah #0" = 10
+	"Fath Shah #0" = 10
+	"Ghazi Shah #0" = 10
+	"Gulab #0" = 0
+	"Hamza #0" = 0
+	"Hari #0" = 0
+	"Hasan Shah #0" = 10
+	"Hassan #0" = 0
+	"Haydar Shah #0" = 10
+	"Husayn Shah #0" = 10
+	"Ibrahim #0" = 0
+	"Ibrahim Shah #0" = 30
+	"Ismail #0" = 0
+	"Ismail Shah #0" = 20
+	"Jonaraja #0" = 0
+	"Kishore #0" = 0
+	"Kota #0" = -1
+	"Lohir Shah #0" = 10
+	"Muhammad #0" = 0
+	"Muhammad Shah #0" = 10
+	"Nabib Shah #0" = 10
+	"Nazuk #0" = 0
+	"Nazuk Shah #0" = 10
+	"Prajna #0" = 0
+	"Pratap #0" = 0
+	"Ranbir #0" = 0
+	"Sayyid Hassan #0" = 10
+	"Shams ad-Din #1" = 10
+	"Sibaia #0" = -1
+	"Sikandar #0" = 10
+	"Tara Devi #0" = -1
+	"Ya'qub #0" = 0
+	"Ya'qub Shah #0" = 10
+	"Yusuf #0" = 0
+	"Yusuf Shah #0" = 10
+	"Zayn al-'Abidin #0" = 10
+	"Zorawar #0" = 0
+}
+leader_names = {
+	"Afridi"
+	"Bahadur"
+	"Bakhsh"
+	"Bhangalia"
+	"Bhatta"
+	"Chandral"
+	"Das"
+	"Dev"
+	"Gahunia"
+	"Gami"
+	"Hamadani"
+	"Jamwal"
+	"Jivan"
+	"Kashmiri"
+	"Katoch"
+	"Kisthwaria"
+	"Kralawari"
+	"Lal"
+	"Makhdum"
+	"Malik"
+	"Mehsud"
+	"Mir"
+	"Naga"
+	"Pahore"
+	"Pakhral"
+	"Parmanand"
+	"Pundir"
+	"Rai"
+	"Shergill"
+	"Singh"
+	"Sodhi"
+	"Sohal"
+}
+ship_names = {
+	"Alia"
+	"Alisha"
+	"Aziza"
+	"Beas"
+	"Chenab"
+	"Fatimah"
+	"Guru"
+	"Indus"
+	"Jalsena"
+	"Jhelum"
+	"Khan"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Niloufa"
+	"Ravi"
+	"Sagar"
+	"Sutlej"
+	"Yasmine"
+	"Zahira"
+}

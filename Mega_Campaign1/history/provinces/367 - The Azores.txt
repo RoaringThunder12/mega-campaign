@@ -1,0 +1,7 @@
+capital = "The Azores"
+culture = berber
+religion = animism
+trade_goods = fish
+base_tax = 3
+base_production = 3
+base_manpower = 1

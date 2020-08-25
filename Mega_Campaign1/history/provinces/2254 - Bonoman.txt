@@ -1,0 +1,12 @@
+owner = BON
+controller = BON
+capital = "Bono Manso"
+is_city = yes
+culture = aka
+religion = shamanism
+trade_goods = tropical_wood
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_core = BON
+discovered_by = sub_saharan

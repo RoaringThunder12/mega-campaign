@@ -1,0 +1,13 @@
+owner = KAF
+controller = KAF
+capital = "Gambela"
+is_city = yes
+culture = sidamo
+religion = shamanism
+trade_goods = slaves
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = KAF
+discovered_by = east_african
+discovered_by = muslim

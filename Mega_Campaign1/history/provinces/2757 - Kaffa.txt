@@ -1,0 +1,13 @@
+owner = KAF
+controller = KAF
+capital = "Anderaccha"
+is_city = yes
+culture = sidamo
+religion = coptic
+trade_goods = gold
+base_tax = 4
+base_production = 3
+base_manpower = 4
+add_core = KAF
+discovered_by = east_african
+discovered_by = muslim

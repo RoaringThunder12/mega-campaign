@@ -1,0 +1,16 @@
+owner = MAL
+controller = MAL
+capital = "Tingrela"
+is_city = yes
+culture = dyola
+religion = shamanism
+trade_goods = dyes
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = MAL
+discovered_by = sub_saharan
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9

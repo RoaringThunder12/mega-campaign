@@ -1,0 +1,13 @@
+owner = KAL
+controller = KAL
+capital = "Kale"
+is_city = yes
+culture = chin
+religion = animism
+trade_goods = ivory
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_core = KAL
+discovered_by = chinese
+discovered_by = indian

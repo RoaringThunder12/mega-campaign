@@ -1,0 +1,108 @@
+graphical_culture = easterngfx
+color = { 211 207 173 }
+revolutionary_colors = { 13 16 8 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	religious_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Amasztáz #0" = 0
+	"András #0" = 20
+	"Ardojan #0" = 0
+	"Barnabás #0" = 0
+	"Betalan #0" = 0
+	"Boldiszár #0" = 15
+	"Dorina #0" = -1
+	"Dávid #0" = 0
+	"Dömötör #0" = 0
+	"Edvárd #0" = 0
+	"Elisabeta #0" = -1
+	"Ernö #0" = 0
+	"Ferenc #0" = 40
+	"György #0" = 40
+	"Gábor #0" = 40
+	"Imre #0" = 15
+	"Isabela #0" = -1
+	"István #0" = 60
+	"Iszák #0" = 0
+	"Janos #0" = 60
+	"Jószef #0" = 0
+	"Kelemen #0" = 0
+	"Krisztóf #0" = 20
+	"Kálmán #0" = 0
+	"Kázmér #0" = 0
+	"Lancu #0" = 20
+	"Leopold #0" = 15
+	"Lorand #0" = 20
+	"Lukäcs #0" = 0
+	"Lörinc #0" = 0
+	"Mihály #0" = 50
+	"Miklós #0" = 10
+	"Márk #0" = 0
+	"Oszkár #0" = 0
+	"Péter #0" = 0
+	"Samuel #0" = 15
+	"Simon #0" = 0
+	"Stibor #0" = 20
+	"Sándor #0" = 15
+	"Tamás #0" = 10
+	"Vencel #0" = 0
+	"Zsigmond #0" = 20
+	"Ákos #0" = 20
+}
+leader_names = {
+	"Alvinczy"
+	"Apafi"
+	"Bethlen"
+	"Bocskai"
+	"Báthory"
+	"Dózsa"
+	"Gyulai"
+	"Kemény"
+	"Lackovic"
+	"Lázár"
+	"Rhédey"
+	"Rákóczy"
+	"Sasul"
+	"Thököly"
+	"Zabanius"
+	"Zrinyi"
+	"Zápolya"
+	"von Brukenthal"
+	"von Harteneck"
+}
+ship_names = {
+	"Antal Budai Nagy"
+	"Gyula"
+	"Hunyadi Janos"
+	"Ladislas Kan"
+	"Legforus"
+	"Leustachius"
+	"Mercurius"
+	"Roland Borsza"
+	"Varna"
+	"Vaskapu"
+}

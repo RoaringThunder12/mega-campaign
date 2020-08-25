@@ -1,0 +1,17 @@
+owner = Z04
+controller = Z04
+capital = "Trgoviste"
+is_city = yes
+culture = czech
+religion = catholic
+trade_goods = livestock
+base_tax = 8
+base_production = 3
+base_manpower = 4
+add_core = Z04
+discovered_by = eastern
+discovered_by = indian
+discovered_by = muslim
+discovered_by = nomad_group
+discovered_by = ottoman
+discovered_by = western

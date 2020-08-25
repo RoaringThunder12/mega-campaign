@@ -1,0 +1,13 @@
+owner = BPR
+controller = BPR
+capital = "Prome"
+is_city = yes
+culture = burmese
+religion = buddhism
+trade_goods = ivory
+base_tax = 4
+base_production = 4
+base_manpower = 3
+add_core = BPR
+discovered_by = chinese
+discovered_by = indian

@@ -1,0 +1,19 @@
+owner = HND
+controller = HND
+capital = "Huangzhou"
+is_city = yes
+culture = hubei
+religion = confucianism
+trade_goods = grain
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = CHC
+add_core = CXI
+add_core = HND
+add_core = MNG
+discovered_by = chinese
+discovered_by = nomad_group
+latent_trade_goods = {
+	coal
+}

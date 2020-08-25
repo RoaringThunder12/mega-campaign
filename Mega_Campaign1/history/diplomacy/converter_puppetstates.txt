@@ -1,0 +1,144 @@
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="KOR"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="RYU"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="DAI"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="AYU"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="SYG"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="HMI"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="CHA"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="LXA"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="KHM"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="MMA"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="MLC"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="PGS"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="TDO"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="MJZ"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="MHX"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="HND"
+	second="KHA"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+

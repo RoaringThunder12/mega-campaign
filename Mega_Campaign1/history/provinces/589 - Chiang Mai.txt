@@ -1,0 +1,14 @@
+owner = LNA
+controller = LNA
+capital = "Chiang Mai"
+is_city = yes
+culture = northern_thai
+religion = buddhism
+trade_goods = ivory
+fort_15th = yes
+base_tax = 5
+base_production = 5
+base_manpower = 3
+add_core = LNA
+discovered_by = chinese
+discovered_by = indian
