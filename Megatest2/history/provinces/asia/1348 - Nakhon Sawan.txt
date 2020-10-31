@@ -1,0 +1,8 @@
+owner=MLC
+controller=MLC
+add_core=IDO
+add_core=MLC
+add_core=SIA
+trade_goods = opium
+life_rating = 30
+terrain = jungle

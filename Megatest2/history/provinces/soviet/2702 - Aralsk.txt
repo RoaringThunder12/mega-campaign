@@ -1,0 +1,8 @@
+owner=RUS
+controller=DLH
+add_core=GRH
+add_core=KAZ
+add_core=NOG
+trade_goods = wool
+life_rating = 35
+terrain = steppe

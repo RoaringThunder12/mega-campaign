@@ -1,0 +1,8 @@
+owner=DLH
+controller=DLH
+add_core=ALH
+add_core=ARA
+trade_goods = grain
+life_rating = 35
+terrain = plains
+naval_base = 1

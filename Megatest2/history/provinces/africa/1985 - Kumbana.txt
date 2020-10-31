@@ -1,0 +1,8 @@
+owner=CKW
+controller=CKW
+add_core=CKW
+add_core=KON
+add_core=YKA
+trade_goods = grain
+life_rating = 15
+terrain = jungle

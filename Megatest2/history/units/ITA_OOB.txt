@@ -1,0 +1,572 @@
+#Sphere of Influence
+
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 15
+	level = 2
+}
+BAH = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 57
+	influence_value = 1
+	level = 2
+}
+BRU = {
+	value = -74
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = -83
+	level = 2
+}
+CAT = {
+	value = 42
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 96
+	influence_value = 11
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+EGY = {
+	value = 27
+	level = 2
+}
+ENL = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+ETH = {
+	value = 90
+	influence_value = 10
+	level = 2
+}
+FER = {
+	value = 125
+	influence_value = 18
+	level = 2
+}
+FRA = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -112
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 35
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ING = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = -5
+	level = 2
+}
+KTS = {
+	value = 26
+	level = 2
+}
+LBX = {
+	value = 163
+	military_access = yes
+	influence_value = 78
+	level = 5
+}
+LOR = {
+	value = 110
+	influence_value = 15
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -9
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 80
+	influence_value = 7
+	level = 2
+}
+MOR = {
+	value = -183
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = -46
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 118
+	influence_value = 17
+	level = 3
+}
+SCO = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+SGH = {
+	value = 164
+	military_access = yes
+	influence_value = 78
+	level = 5
+}
+SHY = {
+	value = -5
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = -20
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 8
+	level = 2
+}
+TLC = {
+	value = -91
+	level = 2
+}
+TRI = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = -195
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 62
+	influence_value = 3
+	level = 3
+}
+VEN = {
+	value = 117
+	influence_value = 16
+	level = 2
+}
+VIJ = {
+	value = -88
+	level = 2
+}
+VNZ = {
+	value = -7
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 80
+	influence_value = 7
+	level = 2
+}
+WSI = {
+	value = 99
+	influence_value = 12
+	level = 2
+}
+X07 = {
+	value = -95
+	level = 2
+}
+X08 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X09 = {
+	value = 119
+	military_access = yes
+	influence_value = 67
+	level = 5
+}
+X10 = {
+	value = 159
+	military_access = yes
+	influence_value = 77
+	level = 5
+}
+X11 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Constanzo Grimaldi"
+	date="1806.5.30"
+	type=land
+	personality="chivalrous"
+	background="artillerist"
+}
+
+leader = {
+	name="Gian Gastone Grimaldi"
+	date="1834.9.9"
+	type=land
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Giovanni Chigi"
+	date="1825.8.6"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Constanzo Buonarroti"
+	date="1826.6.8"
+	type=sea
+	personality="disciplined"
+	background="bootlicker"
+}
+
+leader = {
+	name="Matteo Doria-Landi"
+	date="1827.9.4"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ascanio Maria Appiani d'Aragona"
+	date="1829.1.7"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Cosimo Melzi"
+	date="1829.5.12"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Isidoro Doria-Landi"
+	date="1833.6.23"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Giovanni Maria della Torre"
+	date="1835.10.28"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+
+#Armies
+army = {
+	name="Armata di Atakora"
+	location=1958
+	regiment = {
+		name="1st Aquila Infantry"
+		type=infantry
+		home=753
+	}
+	regiment = {
+		name="1st Wa Artillery"
+		type=artillery
+		home=1912
+	}
+	regiment = {
+		name="1st Sekondi Infantry"
+		type=infantry
+		home=1909
+	}
+	regiment = {
+		name="1st Tamale Infantry"
+		type=infantry
+		home=1913
+	}
+	regiment = {
+		name="1st Bamako Artillery"
+		type=artillery
+		home=1794
+	}
+	regiment = {
+		name="1st Milan Artillery"
+		type=artillery
+		home=726
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1444
+	regiment = {
+		name="1st Brindisi Infantry"
+		type=infantry
+		home=758
+	}
+	regiment = {
+		name="1st Ibadan Infantry"
+		type=infantry
+		home=1925
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=752
+	ship = {
+		name="1st Patras Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Aquila Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Missolonghi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Benguela Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Patras Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Naples Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2913
+	ship = {
+		name="1st Messina Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st São Tomé Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Benin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Naples Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lagos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bari Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Inhambane Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aquila Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Lagos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Catanzaro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Aquila Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zadar Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Armata di Cape Coast"
+	location=1909
+	regiment = {
+		name="1st Calabar Artillery"
+		type=artillery
+		home=1934
+	}
+	regiment = {
+		name="1st Cotonou Artillery"
+		type=artillery
+		home=1919
+	}
+	regiment = {
+		name="1st Lome Artillery"
+		type=artillery
+		home=1914
+	}
+}
+
+army = {
+	name="Armata di Beafada"
+	location=1938
+	regiment = {
+		name="1st Bamenda Artillery"
+		type=artillery
+		home=1961
+	}
+	regiment = {
+		name="1st Boffa Artillery"
+		type=artillery
+		home=1879
+	}
+}
+

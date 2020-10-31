@@ -1,0 +1,7 @@
+owner=CKW
+controller=CKW
+add_core=CKW
+add_core=KSJ
+trade_goods = cattle
+life_rating = 15
+terrain = plains

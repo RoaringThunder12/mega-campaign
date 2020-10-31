@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=GRH
+add_core=NOG
+add_core=RUS
+trade_goods = wool
+life_rating = 35
+terrain = woods

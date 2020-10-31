@@ -1,0 +1,8 @@
+owner=DLH
+controller=DLH
+add_core=DLH
+add_core=HND
+add_core=MAW
+trade_goods = grain
+life_rating = 32
+terrain = woods

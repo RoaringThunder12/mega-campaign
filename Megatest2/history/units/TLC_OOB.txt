@@ -1,0 +1,551 @@
+#Sphere of Influence
+
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 126
+	influence_value = 19
+	level = 3
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAH = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -73
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -5
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRH = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ING = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 29
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LIG = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 187
+	influence_value = 34
+	level = 4
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 18
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TRI = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Abu Malek Selmi Mzabi"
+	date="1807.6.4"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Abu Malek Kelkal"
+	date="1818.7.21"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Abul Hadjdjadj Selmi"
+	date="1819.1.2"
+	type=sea
+	personality="persistant"
+	background="war_college"
+}
+
+leader = {
+	name="Wahid Benzine"
+	date="1824.10.6"
+	type=sea
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Abu Muh Ilaes"
+	date="1830.7.10"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=2754
+	ship = {
+		name="1st Wujda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Wujda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Wujda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mustaghanim Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Oran Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Wujda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Balearic Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bougie Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bizerte Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Free Company"
+	location=1709
+	regiment = {
+		name="1st Wujda Irregulars"
+		type=irregular
+		home=1684
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1709
+	regiment = {
+		name="1st Laghwat Irregulars"
+		type=irregular
+		home=1713
+	}
+	regiment = {
+		name="1st Constantine Irregulars"
+		type=irregular
+		home=1708
+	}
+	regiment = {
+		name="1st Wujda Artillery"
+		type=artillery
+		home=1684
+	}
+	regiment = {
+		name="1st Bougie Artillery"
+		type=artillery
+		home=1701
+	}
+	regiment = {
+		name="1st Tlemcen Irregulars"
+		type=irregular
+		home=1705
+	}
+	regiment = {
+		name="1st Bone Artillery"
+		type=artillery
+		home=1709
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2924
+	ship = {
+		name="2nd Mustaghanim Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1707
+	regiment = {
+		name="1st Bone Irregulars"
+		type=irregular
+		home=1709
+	}
+	regiment = {
+		name="1st Mascara Artillery"
+		type=artillery
+		home=1707
+	}
+	regiment = {
+		name="1st Dakhla Artillery"
+		type=artillery
+		home=1774
+	}
+	regiment = {
+		name="2nd Bougie Artillery"
+		type=artillery
+		home=1701
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2921
+	ship = {
+		name="2nd Balearic Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Balearic Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Oran Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2754
+	ship = {
+		name="1st Wujda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mustaghanim Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bougie Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mustaghanim Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bougie Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bougie Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Wujda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dakhla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bougie Clipper Transport"
+		type=clipper_transport
+	}
+}
+

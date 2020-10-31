@@ -1,0 +1,7 @@
+owner=ASM
+controller=ASM
+add_core=TIB
+add_core=UTS
+trade_goods = cattle
+life_rating = 30
+terrain = hills

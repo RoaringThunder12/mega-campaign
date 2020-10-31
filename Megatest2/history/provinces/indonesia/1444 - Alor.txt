@@ -1,0 +1,6 @@
+owner=ITA
+controller=ITA
+trade_goods = tropical_wood
+life_rating = 30
+terrain = plains
+colonial=2

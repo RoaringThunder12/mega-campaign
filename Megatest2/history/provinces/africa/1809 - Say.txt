@@ -1,0 +1,6 @@
+owner=SGH
+controller=MOR
+add_core=SGH
+trade_goods = grain
+life_rating = 15
+terrain = plains

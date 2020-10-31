@@ -1,0 +1,5 @@
+owner=VNZ
+controller=VNZ
+trade_goods = iron
+life_rating = 35
+terrain = mountain

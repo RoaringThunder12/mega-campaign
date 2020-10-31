@@ -1,0 +1,7 @@
+owner=GER
+controller=GER
+add_core=FRI
+add_core=NET
+trade_goods = fish
+life_rating = 40
+terrain = plains

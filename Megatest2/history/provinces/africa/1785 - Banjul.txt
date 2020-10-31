@@ -1,0 +1,7 @@
+owner=BRT
+controller=BRT
+add_core=WOL
+trade_goods = fruit
+life_rating = 30
+terrain = plains
+colonial=2

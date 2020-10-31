@@ -1,0 +1,58 @@
+1954 = {
+	slaves=
+	{
+		culture = afro_italian
+		religion = orthodox
+		size= 3609
+	}
+
+	soldiers=
+	{
+		culture = africano
+		religion = orthodox
+		size= 257
+	}
+
+	artisans=
+	{
+		culture = africano
+		religion = orthodox
+		size= 184
+	}
+
+	clergymen=
+	{
+		culture = africano
+		religion = orthodox
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = africano
+		religion = orthodox
+		size= 9
+	}
+
+	officers=
+	{
+		culture = africano
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = africano
+		religion = orthodox
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = africano
+		religion = orthodox
+		size= 457
+	}
+
+}

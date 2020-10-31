@@ -1,0 +1,8 @@
+owner=CSH
+controller=CSH
+add_core=CMI
+add_core=MNG
+add_core=YUE
+trade_goods = cotton
+life_rating = 32
+terrain = hills

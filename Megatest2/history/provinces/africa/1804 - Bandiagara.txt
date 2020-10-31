@@ -1,0 +1,7 @@
+owner=MOR
+controller=MOR
+add_core=JNN
+add_core=SGU
+trade_goods = cattle
+life_rating = 15
+terrain = plains

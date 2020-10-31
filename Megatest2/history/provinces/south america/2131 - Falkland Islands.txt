@@ -1,0 +1,6 @@
+owner=ENL
+controller=ENL
+trade_goods = wool
+life_rating = 30
+terrain = plains
+colonial=2

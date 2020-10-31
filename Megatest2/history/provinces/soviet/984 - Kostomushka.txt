@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=FIN
+add_core=SCA
+trade_goods = timber
+life_rating = 35
+terrain = arctic
+naval_base = 1

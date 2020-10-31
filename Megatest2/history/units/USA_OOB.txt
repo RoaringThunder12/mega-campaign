@@ -1,0 +1,1410 @@
+#Sphere of Influence
+
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+BAH = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = -19
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = -4
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 9
+	level = 2
+}
+CSH = {
+	value = 150
+	influence_value = 25
+	level = 3
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -10
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -3
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 141
+	influence_value = 22
+	level = 3
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+MEX = {
+	value = -184
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = -5
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = -9
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = -179
+	level = 2
+}
+WAL = {
+	value = 93
+	influence_value = 10
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 111
+	influence_value = 15
+	level = 3
+}
+X07 = {
+	value = -10
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Alexander Selkirk"
+	date="1829.8.30"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Adam Johnstone"
+	date="1827.8.16"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Adolphus Randolph"
+	date="1829.8.21"
+	type=sea
+	personality="earnest"
+	background="aristocrat"
+}
+
+leader = {
+	name="Lawrence Strathbogie"
+	date="1829.8.24"
+	type=sea
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="George William Maitland"
+	date="1829.8.27"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Joseph Alexander"
+	date="1829.8.29"
+	type=sea
+	personality="persistant"
+	background="brownnoser"
+}
+
+leader = {
+	name="Isaac Forbes"
+	date="1829.9.2"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Archibald Hamilton"
+	date="1829.9.4"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Frederick Augustus Gilchrist"
+	date="1829.9.7"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Thomas MacKenzie"
+	date="1829.9.8"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Frederick Augustus Nasmyth"
+	date="1829.9.10"
+	type=land
+	personality="earnest"
+	background="armchair_general"
+}
+
+leader = {
+	name="Lawrence Graham"
+	date="1829.9.11"
+	type=land
+	personality="stalwart"
+	background="brownnoser"
+}
+
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=233
+	ship = {
+		name="1st New Orleans Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Savannah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Providence Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Houston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Fredericksburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tallahassee Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hartford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tallahassee Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Houston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Savannah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Houston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bangor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Boston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Savannah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tampa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Newark Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Baltimore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Houston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Tallahassee Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Biloxi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tampa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Tallahassee Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Tampa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Baltimore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mobile Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Tampa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st San Antonio Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Tampa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Boston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Newark Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st New Bedford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st San Diego Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Charleston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd San Diego Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bangor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bangor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Wilmington Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Providence Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Providence Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lake Charles Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Tampa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Laredo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Greenville Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Washington Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Tampa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Concord Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Tampa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Charleston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Washington Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st St Augustine Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lewiston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Tampa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd San Antonio Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Greenville Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Tampa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lake Charles Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Wilmington Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd San Diego Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Charleston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Bangor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Tampa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st San Francisco Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd San Francisco Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Wilmington Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Hartford Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Tallahassee Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Houston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Biloxi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Washington Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Wilmington Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Savannah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Long Island Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Charleston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Portland Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tallahassee Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Portland Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Seattle Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Monterey Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Houston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Portland Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Newark Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Eureka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Portland Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st San Diego Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st San Francisco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd San Francisco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st San Antonio Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd San Francisco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Baton Rouge Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd San Diego Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Los Angeles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="12th Tampa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Los Angeles Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1569
+	regiment = {
+		name="1st Fort Wayne Infantry"
+		type=infantry
+		home=172
+	}
+	regiment = {
+		name="1st Detroit Infantry"
+		type=infantry
+		home=173
+	}
+	regiment = {
+		name="1st New York Infantry"
+		type=infantry
+		home=232
+	}
+	regiment = {
+		name="1st North Platte Cavalry"
+		type=cavalry
+		home=125
+	}
+	regiment = {
+		name="1st Savannah Artillery"
+		type=artillery
+		home=204
+	}
+	regiment = {
+		name="1st El Paso Artillery"
+		type=artillery
+		home=136
+	}
+	regiment = {
+		name="1st Bowling Green Infantry"
+		type=infantry
+		home=186
+	}
+	regiment = {
+		name="1st Omaha Cavalry"
+		type=cavalry
+		home=123
+	}
+	regiment = {
+		name="1st Roanoke Artillery"
+		type=artillery
+		home=216
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1565
+	regiment = {
+		name="1st Houston Infantry"
+		type=infantry
+		home=132
+	}
+	regiment = {
+		name="1st San Antonio Infantry"
+		type=infantry
+		home=137
+	}
+	regiment = {
+		name="1st Laredo Infantry"
+		type=infantry
+		home=138
+	}
+	regiment = {
+		name="1st New York Artillery"
+		type=artillery
+		home=232
+	}
+	regiment = {
+		name="2nd New York Artillery"
+		type=artillery
+		home=232
+	}
+}
+
+army = {
+	name="154th Army"
+	location=79
+	regiment = {
+		name="1st Montgomery Infantry"
+		type=infantry
+		home=195
+	}
+	regiment = {
+		name="1st Albuquerque Infantry"
+		type=infantry
+		home=104
+	}
+	regiment = {
+		name="2nd Albuquerque Infantry"
+		type=infantry
+		home=104
+	}
+	regiment = {
+		name="1st Los Angeles Cavalry"
+		type=cavalry
+		home=89
+	}
+	regiment = {
+		name="1st Burlington Artillery"
+		type=artillery
+		home=246
+	}
+	regiment = {
+		name="1st Sacramento Artillery"
+		type=artillery
+		home=86
+	}
+	regiment = {
+		name="2nd Montgomery Infantry"
+		type=infantry
+		home=195
+	}
+	regiment = {
+		name="1st Lewiston Cavalry"
+		type=cavalry
+		home=248
+	}
+	regiment = {
+		name="1st Atlanta Artillery"
+		type=artillery
+		home=201
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2827
+	ship = {
+		name="5th Portland Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cork Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=3011
+	ship = {
+		name="2nd Baton Rouge Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tapachula Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bangor Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2953
+	ship = {
+		name="1st Greenville Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Houston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Greenville Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=3011
+	ship = {
+		name="1st Mobile Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mobile Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dunkirk Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=84
+	ship = {
+		name="1st Washington Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fredericksburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Savannah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Savannah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Norfolk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dover Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Savannah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Savannah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Fredericksburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Fredericksburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st New Bedford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Washington Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="16th Fleet"
+	location=3011
+	ship = {
+		name="1st Biloxi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Charleston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tampa Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=151
+	regiment = {
+		name="1st Sioux Falls Infantry"
+		type=infantry
+		home=120
+	}
+	regiment = {
+		name="1st Puerto Rico Infantry"
+		type=infantry
+		home=2222
+	}
+	regiment = {
+		name="1st Bismarck Infantry"
+		type=infantry
+		home=117
+	}
+	regiment = {
+		name="1st Buffalo Cavalry"
+		type=cavalry
+		home=236
+	}
+	regiment = {
+		name="2nd Savannah Artillery"
+		type=artillery
+		home=204
+	}
+	regiment = {
+		name="3rd Savannah Artillery"
+		type=artillery
+		home=204
+	}
+	regiment = {
+		name="2nd Albany Infantry"
+		type=infantry
+		home=234
+	}
+	regiment = {
+		name="2nd Richmond Artillery"
+		type=artillery
+		home=211
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=143
+	regiment = {
+		name="1st Albany Infantry"
+		type=infantry
+		home=234
+	}
+	regiment = {
+		name="1st Tahlequah Infantry"
+		type=infantry
+		home=130
+	}
+	regiment = {
+		name="1st Nashville Infantry"
+		type=infantry
+		home=188
+	}
+	regiment = {
+		name="1st Shreveport Cavalry"
+		type=cavalry
+		home=142
+	}
+	regiment = {
+		name="1st Wichita Artillery"
+		type=artillery
+		home=128
+	}
+	regiment = {
+		name="1st Des Moines Artillery"
+		type=artillery
+		home=151
+	}
+	regiment = {
+		name="2nd Nashville Infantry"
+		type=infantry
+		home=188
+	}
+	regiment = {
+		name="1st Goodland Artillery"
+		type=artillery
+		home=127
+	}
+}
+
+army = {
+	name="4th Army"
+	location=167
+	regiment = {
+		name="1st Wheeling Infantry"
+		type=infantry
+		home=217
+	}
+	regiment = {
+		name="1st Valdosta Infantry"
+		type=infantry
+		home=202
+	}
+	regiment = {
+		name="1st Biloxi Infantry"
+		type=infantry
+		home=194
+	}
+	regiment = {
+		name="1st Lubbock Cavalry"
+		type=cavalry
+		home=135
+	}
+	regiment = {
+		name="1st Richmond Artillery"
+		type=artillery
+		home=211
+	}
+	regiment = {
+		name="1st Billings Artillery"
+		type=artillery
+		home=116
+	}
+	regiment = {
+		name="1st Trenton Infantry"
+		type=infantry
+		home=230
+	}
+	regiment = {
+		name="1st San Francisco Artillery"
+		type=artillery
+		home=84
+	}
+}
+
+army = {
+	name="5th Army"
+	location=150
+	regiment = {
+		name="1st Erie Infantry"
+		type=infantry
+		home=228
+	}
+	regiment = {
+		name="1st Burlington Infantry"
+		type=infantry
+		home=246
+	}
+	regiment = {
+		name="1st Portland Infantry"
+		type=infantry
+		home=81
+	}
+	regiment = {
+		name="1st Cleveland Cavalry"
+		type=cavalry
+		home=178
+	}
+	regiment = {
+		name="1st Mariposa Artillery"
+		type=artillery
+		home=88
+	}
+	regiment = {
+		name="1st Cody Artillery"
+		type=artillery
+		home=111
+	}
+	regiment = {
+		name="1st Pittsburgh Artillery"
+		type=artillery
+		home=227
+	}
+}
+
+army = {
+	name="6th Army"
+	location=148
+	regiment = {
+		name="1st Pittsburgh Infantry"
+		type=infantry
+		home=227
+	}
+	regiment = {
+		name="1st Columbia Infantry"
+		type=infantry
+		home=206
+	}
+	regiment = {
+		name="1st Dupree Infantry"
+		type=infantry
+		home=121
+	}
+	regiment = {
+		name="1st Lexington Cavalry"
+		type=cavalry
+		home=185
+	}
+	regiment = {
+		name="3rd New York Artillery"
+		type=artillery
+		home=232
+	}
+	regiment = {
+		name="1st Pocatello Artillery"
+		type=artillery
+		home=93
+	}
+}
+
+army = {
+	name="8th Army"
+	location=171
+	regiment = {
+		name="1st Jackson Infantry"
+		type=infantry
+		home=192
+	}
+	regiment = {
+		name="1st Indianapolis Infantry"
+		type=infantry
+		home=169
+	}
+	regiment = {
+		name="1st Tallahassee Infantry"
+		type=infantry
+		home=198
+	}
+	regiment = {
+		name="1st Springfield Cavalry"
+		type=cavalry
+		home=167
+	}
+	regiment = {
+		name="1st Cincinnati Artillery"
+		type=artillery
+		home=182
+	}
+	regiment = {
+		name="1st Hot Springs Artillery"
+		type=artillery
+		home=144
+	}
+}
+
+army = {
+	name="9th Army"
+	location=152
+	regiment = {
+		name="1st Seattle Infantry"
+		type=infantry
+		home=78
+	}
+	regiment = {
+		name="1st Scranton Infantry"
+		type=infantry
+		home=224
+	}
+	regiment = {
+		name="1st Savannah Infantry"
+		type=infantry
+		home=204
+	}
+	regiment = {
+		name="1st Augusta Cavalry"
+		type=cavalry
+		home=2555
+	}
+	regiment = {
+		name="1st Concord Artillery"
+		type=artillery
+		home=247
+	}
+	regiment = {
+		name="1st Puerto Rico Artillery"
+		type=artillery
+		home=2222
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=3006
+	ship = {
+		name="1st Tampa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Wilmington Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Tampa Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2977
+	ship = {
+		name="3rd Houston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Houston Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fredericksburg Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2982
+	ship = {
+		name="1st Hartford Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th San Francisco Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=3000
+	ship = {
+		name="5th San Francisco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Portland Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=3008
+	ship = {
+		name="1st Baltimore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Seattle Frigate"
+		type=frigate
+	}
+}
+

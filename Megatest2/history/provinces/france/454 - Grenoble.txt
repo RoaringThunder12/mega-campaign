@@ -1,0 +1,9 @@
+owner=X07
+controller=X07
+add_core=FRA
+add_core=OCC
+add_core=PRO
+add_core=X07
+trade_goods = tobacco
+life_rating = 32
+terrain = woods

@@ -1,0 +1,6 @@
+owner=BRU
+controller=BRU
+add_core=MAL
+trade_goods = fish
+life_rating = 30
+terrain = plains

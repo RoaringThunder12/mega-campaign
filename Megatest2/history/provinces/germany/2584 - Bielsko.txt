@@ -1,0 +1,7 @@
+owner=GER
+controller=GER
+add_core=CZH
+add_core=SLV
+trade_goods = coal
+life_rating = 40
+terrain = hills

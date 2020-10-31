@@ -1,0 +1,8 @@
+owner=DLH
+controller=DLH
+add_core=HND
+add_core=UTS
+add_core=YRK
+trade_goods = grain
+life_rating = 32
+terrain = desert

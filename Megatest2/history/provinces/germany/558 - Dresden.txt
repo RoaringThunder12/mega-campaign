@@ -1,0 +1,19 @@
+owner=GER
+controller=GER
+add_core=GER
+add_core=SAX
+trade_goods = coal
+life_rating = 40
+terrain = woods
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = regular_clothes_factory
+	upgrade = yes
+}

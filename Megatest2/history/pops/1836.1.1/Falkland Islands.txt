@@ -1,0 +1,53 @@
+2131 = {
+	soldiers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 73
+	}
+
+}
+2133 = {
+	artisans=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 14
+	}
+
+}

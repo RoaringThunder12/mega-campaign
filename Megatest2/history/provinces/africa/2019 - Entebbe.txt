@@ -1,0 +1,7 @@
+owner=UBH
+controller=UBH
+add_core=BUG
+add_core=UBH
+trade_goods = cotton
+life_rating = 15
+terrain = plains

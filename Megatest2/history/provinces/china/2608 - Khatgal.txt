@@ -1,0 +1,8 @@
+owner=DLH
+controller=DLH
+add_core=KHA
+add_core=MGL
+add_core=SHY
+trade_goods = iron
+life_rating = 32
+terrain = hills

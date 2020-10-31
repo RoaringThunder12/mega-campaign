@@ -1,0 +1,800 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = -27
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAH = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 157
+	influence_value = 26
+	level = 4
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 2
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRH = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ING = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+KAS = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LIG = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 188
+	influence_value = 34
+	level = 4
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 161
+	influence_value = 27
+	level = 4
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 18
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 49
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 122
+	influence_value = 18
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = -111
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Ala-ud-Din Firuz IV Bolkiah"
+	date="1822.3.17"
+	type=land
+	personality="persistant"
+	background="generals_aide"
+}
+
+leader = {
+	name="Shams-ud-Din Muhammad Chodhury"
+	date="1822.3.28"
+	type=land
+	personality="coolminded"
+	background="bootlicker"
+}
+
+
+#Armies
+army = {
+	name="Company of the Ganges"
+	location=1251
+	regiment = {
+		name="1st Agartala Irregulars"
+		type=irregular
+		home=2566
+	}
+	regiment = {
+		name="2nd Agartala Irregulars"
+		type=irregular
+		home=2566
+	}
+	regiment = {
+		name="3rd Agartala Irregulars"
+		type=irregular
+		home=2566
+	}
+	regiment = {
+		name="7th Agartala Irregulars"
+		type=irregular
+		home=2566
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2798
+	ship = {
+		name="1st Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pegu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Jessore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Cuttack Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2797
+	ship = {
+		name="1st Chittagong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Calcutta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sittwe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chittagong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bengali Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Jessore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Calcutta Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1251
+	regiment = {
+		name="1st Cuttack Artillery"
+		type=artillery
+		home=1261
+	}
+	regiment = {
+		name="4th Darjeeling Artillery"
+		type=artillery
+		home=1252
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2794
+	ship = {
+		name="7th Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Chittagong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Calcutta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sittwe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Calcutta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="11th Cuttack Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1255
+	regiment = {
+		name="1st Bardwan Irregulars"
+		type=irregular
+		home=1253
+	}
+	regiment = {
+		name="1st Chittagong Irregulars"
+		type=irregular
+		home=1257
+	}
+	regiment = {
+		name="1st Darjeeling Artillery"
+		type=artillery
+		home=1252
+	}
+	regiment = {
+		name="1st Dacca Artillery"
+		type=artillery
+		home=1254
+	}
+	regiment = {
+		name="2nd Cuttack Artillery"
+		type=artillery
+		home=1261
+	}
+	regiment = {
+		name="2nd Dacca Artillery"
+		type=artillery
+		home=1254
+	}
+	regiment = {
+		name="1st Jessore Artillery"
+		type=artillery
+		home=1256
+	}
+	regiment = {
+		name="1st Bardwan Artillery"
+		type=artillery
+		home=1253
+	}
+	regiment = {
+		name="3rd Dacca Artillery"
+		type=artillery
+		home=1254
+	}
+	regiment = {
+		name="2nd Bhagalpur Artillery"
+		type=artillery
+		home=1250
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1331
+	regiment = {
+		name="1st Bhagalpur Irregulars"
+		type=irregular
+		home=1250
+	}
+	regiment = {
+		name="1st Jessore Irregulars"
+		type=irregular
+		home=1256
+	}
+	regiment = {
+		name="4th Dacca Artillery"
+		type=artillery
+		home=1254
+	}
+	regiment = {
+		name="2nd Darjeeling Artillery"
+		type=artillery
+		home=1252
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1331
+	regiment = {
+		name="3rd Cuttack Artillery"
+		type=artillery
+		home=1261
+	}
+	regiment = {
+		name="6th Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1256
+	regiment = {
+		name="2nd Bardwan Artillery"
+		type=artillery
+		home=1253
+	}
+	regiment = {
+		name="1st Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1257
+	regiment = {
+		name="1st Darjeeling Irregulars"
+		type=irregular
+		home=1252
+	}
+	regiment = {
+		name="3rd Darjeeling Artillery"
+		type=artillery
+		home=1252
+	}
+	regiment = {
+		name="1st Sittwe Artillery"
+		type=artillery
+		home=1345
+	}
+	regiment = {
+		name="1st Agartala Artillery"
+		type=artillery
+		home=2566
+	}
+	regiment = {
+		name="5th Chittagong Irregulars"
+		type=irregular
+		home=1257
+	}
+}
+
+army = {
+	name="21st Army"
+	location=1256
+	regiment = {
+		name="2nd Bardwan Irregulars"
+		type=irregular
+		home=1253
+	}
+	regiment = {
+		name="4th Agartala Irregulars"
+		type=irregular
+		home=2566
+	}
+	regiment = {
+		name="3rd Bardwan Artillery"
+		type=artillery
+		home=1253
+	}
+	regiment = {
+		name="2nd Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+	regiment = {
+		name="2nd Jessore Irregulars"
+		type=irregular
+		home=1256
+	}
+}
+
+army = {
+	name="20th Army"
+	location=1256
+	regiment = {
+		name="2nd Chittagong Irregulars"
+		type=irregular
+		home=1257
+	}
+	regiment = {
+		name="5th Agartala Irregulars"
+		type=irregular
+		home=2566
+	}
+	regiment = {
+		name="3rd Chittagong Irregulars"
+		type=irregular
+		home=1257
+	}
+	regiment = {
+		name="4th Chittagong Irregulars"
+		type=irregular
+		home=1257
+	}
+	regiment = {
+		name="6th Agartala Irregulars"
+		type=irregular
+		home=2566
+	}
+	regiment = {
+		name="2nd Agartala Artillery"
+		type=artillery
+		home=2566
+	}
+	regiment = {
+		name="3rd Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+	regiment = {
+		name="4th Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+	regiment = {
+		name="2nd Jessore Artillery"
+		type=artillery
+		home=1256
+	}
+	regiment = {
+		name="5th Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+	regiment = {
+		name="3rd Jessore Irregulars"
+		type=irregular
+		home=1256
+	}
+	regiment = {
+		name="5th Darjeeling Artillery"
+		type=artillery
+		home=1252
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1256
+	regiment = {
+		name="3rd Bardwan Irregulars"
+		type=irregular
+		home=1253
+	}
+	regiment = {
+		name="1st Calcutta Artillery"
+		type=artillery
+		home=1251
+	}
+	regiment = {
+		name="1st Bhagalpur Artillery"
+		type=artillery
+		home=1250
+	}
+	regiment = {
+		name="5th Dacca Artillery"
+		type=artillery
+		home=1254
+	}
+}
+

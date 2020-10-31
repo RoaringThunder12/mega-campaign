@@ -1,0 +1,8 @@
+owner=GER
+controller=GER
+add_core=LIT
+add_core=PLC
+trade_goods = fish
+life_rating = 40
+terrain = plains
+fort = 1

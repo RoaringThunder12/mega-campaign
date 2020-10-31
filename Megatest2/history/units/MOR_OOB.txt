@@ -1,0 +1,758 @@
+#Sphere of Influence
+
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAH = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 132
+	influence_value = 20
+	level = 3
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 3
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -93
+	level = 2
+}
+ENL = {
+	value = 46
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -3
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRH = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ING = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = -35
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = -12
+	level = 2
+}
+LBX = {
+	value = -63
+	level = 2
+}
+LIG = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 18
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = -55
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = -95
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 191
+	influence_value = 35
+	level = 4
+}
+TRI = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 80
+	influence_value = 7
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 60
+	influence_value = 2
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="'Abd ar-Rahmân Arazi"
+	date="1818.5.27"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="al-Rashîd Behar"
+	date="1818.7.15"
+	type=sea
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Hishâm Behar"
+	date="1826.10.8"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Sulaymân Lahsini"
+	date="1832.11.3"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Ahmad Sellami"
+	date="1832.11.4"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=1685
+	ship = {
+		name="1st Tangier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tangier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Moroccan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Tangier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Casablanca Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Moroccan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Tangier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ajdir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Safi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Casablanca Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Free Company"
+	location=1776
+	regiment = {
+		name="1st Casablanca Irregulars"
+		type=irregular
+		home=1691
+	}
+	regiment = {
+		name="2nd Casablanca Irregulars"
+		type=irregular
+		home=1691
+	}
+	regiment = {
+		name="1st Algiers Irregulars"
+		type=irregular
+		home=1700
+	}
+}
+
+army = {
+	name="Moorish Battalion"
+	location=1691
+	regiment = {
+		name="3rd Casablanca Irregulars"
+		type=irregular
+		home=1691
+	}
+	regiment = {
+		name="4th Casablanca Irregulars"
+		type=irregular
+		home=1691
+	}
+	regiment = {
+		name="5th Casablanca Irregulars"
+		type=irregular
+		home=1691
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=1777
+	regiment = {
+		name="1st Araouane Irregulars"
+		type=irregular
+		home=2609
+	}
+	regiment = {
+		name="1st Wagadugu Irregulars"
+		type=irregular
+		home=1901
+	}
+	regiment = {
+		name="2nd Wagadugu Irregulars"
+		type=irregular
+		home=1901
+	}
+	regiment = {
+		name="3rd Wagadugu Irregulars"
+		type=irregular
+		home=1901
+	}
+	regiment = {
+		name="1st Wazzan Irregulars"
+		type=irregular
+		home=1681
+	}
+}
+
+army = {
+	name="Dahomey Amazons"
+	location=1690
+	regiment = {
+		name="1st Fez Irregulars"
+		type=irregular
+		home=1680
+	}
+	regiment = {
+		name="1st Marrakesh Irregulars"
+		type=irregular
+		home=1690
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2746
+	ship = {
+		name="1st Rabat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Melilla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ifni Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Agadir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rabat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ifni Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2748
+	ship = {
+		name="1st Ajdir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Silistre Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=2746
+	ship = {
+		name="1st Tangier Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Melilla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Algiers Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="13th Fleet"
+	location=2758
+	ship = {
+		name="1st Brest Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Brest Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Brest Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="17th Army"
+	location=1776
+	regiment = {
+		name="1st Bandiagara Artillery"
+		type=artillery
+		home=1804
+	}
+	regiment = {
+		name="1st Rabat Artillery"
+		type=artillery
+		home=1685
+	}
+	regiment = {
+		name="1st Marrakesh Artillery"
+		type=artillery
+		home=1690
+	}
+	regiment = {
+		name="1st Timbuktu Artillery"
+		type=artillery
+		home=1803
+	}
+	regiment = {
+		name="1st Wahiguya Artillery"
+		type=artillery
+		home=1902
+	}
+	regiment = {
+		name="1st Jenne Artillery"
+		type=artillery
+		home=1802
+	}
+	regiment = {
+		name="1st Fez Artillery"
+		type=artillery
+		home=1680
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2924
+	ship = {
+		name="1st Ifni Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Monrovia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sawira Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Melilla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Moroccan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rosso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Ipoh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Casablanca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Moroccan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dakar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Casablanca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Casablanca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Safi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tangier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tangier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Almería Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tetouan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th La Ceiba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Casablanca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tetouan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ajdir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Casablanca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th La Ceiba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ajdir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Safi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rabat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rabat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ajdir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Rabat Clipper Transport"
+		type=clipper_transport
+	}
+}
+

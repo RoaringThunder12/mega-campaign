@@ -1,0 +1,311 @@
+1879 = {
+	slaves=
+	{
+		culture = afro_italian
+		religion = protestant
+		size= 2896
+	}
+
+	soldiers=
+	{
+		culture = africano
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = africano
+		religion = protestant
+		size= 927
+	}
+
+	clergymen=
+	{
+		culture = africano
+		religion = protestant
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = africano
+		religion = protestant
+		size= 56
+	}
+
+	officers=
+	{
+		culture = africano
+		religion = protestant
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = africano
+		religion = protestant
+		size= 227
+	}
+
+	farmers=
+	{
+		culture = africano
+		religion = protestant
+		size= 17858
+	}
+
+}
+1880 = {
+	slaves=
+	{
+		culture = fulbe
+		religion = protestant
+		size= 3856
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = protestant
+		size= 4858
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = protestant
+		size= 3470
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = protestant
+		size= 564
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = protestant
+		size= 121
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = protestant
+		size= 139
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = protestant
+		size= 729
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = protestant
+		size= 73021
+	}
+
+}
+1881 = {
+	slaves=
+	{
+		culture = mande
+		religion = protestant
+		size= 3867
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = protestant
+		size= 872
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = protestant
+		size= 1744
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = protestant
+		size= 283
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = protestant
+		size= 61
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = protestant
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = protestant
+		size= 366
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = protestant
+		size= 36371
+	}
+
+}
+1882 = {
+	slaves=
+	{
+		culture = mande
+		religion = protestant
+		size= 2900
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = protestant
+		size= 753
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = protestant
+		size= 1506
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = protestant
+		size= 245
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = protestant
+		size= 53
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = protestant
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = protestant
+		size= 316
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = protestant
+		size= 31851
+	}
+
+}
+1883 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 800
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 1650
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = sunni
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = sunni
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 32725
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = sunni
+		size= 4550
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 5000
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 425
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = sunni
+		size= 50
+	}
+
+}

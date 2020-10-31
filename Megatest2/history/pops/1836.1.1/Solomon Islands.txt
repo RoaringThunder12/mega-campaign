@@ -1,0 +1,102 @@
+2534 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 227
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 453
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 23
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 10446
+	}
+
+}
+2536 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 57
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 1305
+	}
+
+}

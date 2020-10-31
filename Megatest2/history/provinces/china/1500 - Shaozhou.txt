@@ -1,0 +1,8 @@
+owner=CSH
+controller=CSH
+add_core=CHI
+add_core=HUA
+add_core=MNG
+trade_goods = tropical_wood
+life_rating = 32
+terrain = hills

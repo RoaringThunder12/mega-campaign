@@ -1,0 +1,7 @@
+owner=CKW
+controller=CKW
+add_core=CKW
+add_core=KON
+trade_goods = iron
+life_rating = 15
+terrain = jungle

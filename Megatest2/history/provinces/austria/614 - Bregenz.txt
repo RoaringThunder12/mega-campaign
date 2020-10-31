@@ -1,0 +1,8 @@
+owner=GER
+controller=GER
+add_core=GER
+add_core=MBZ
+trade_goods = timber
+life_rating = 35
+terrain = mountain
+fort = 1

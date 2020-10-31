@@ -1,0 +1,102 @@
+2219 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 5612
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 924
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 18
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 111
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 894
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+}

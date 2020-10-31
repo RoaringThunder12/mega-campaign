@@ -1,0 +1,510 @@
+#Sphere of Influence
+
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAH = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 147
+	influence_value = 24
+	level = 3
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 48
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 126
+	influence_value = 19
+	level = 3
+}
+FER = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRH = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ING = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = -3
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LIG = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = -2
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 29
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Mcocoma Nyanjagha"
+	date="1814.2.13"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Muzura Karonga"
+	date="1814.2.15"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Mcepera Undi"
+	date="1814.2.17"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Mcocoma I Al-Malindi"
+	date="1831.3.24"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=2070
+	regiment = {
+		name="1st Milange Irregulars"
+		type=irregular
+		home=2065
+	}
+	regiment = {
+		name="1st Mataka Artillery"
+		type=artillery
+		home=2581
+	}
+	regiment = {
+		name="1st Zomba Artillery"
+		type=artillery
+		home=2066
+	}
+	regiment = {
+		name="2nd Milange Irregulars"
+		type=irregular
+		home=2065
+	}
+	regiment = {
+		name="1st Massekisse Artillery"
+		type=artillery
+		home=2052
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2059
+	ship = {
+		name="1st Sofala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Sofala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Angoche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Quelimane Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lindi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ulundi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Darna Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Angoche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sofala Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Quelimane Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Angoche Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2061
+	regiment = {
+		name="1st Masvingo Irregulars"
+		type=irregular
+		home=2073
+	}
+	regiment = {
+		name="1st Quelimane Artillery"
+		type=artillery
+		home=2059
+	}
+	regiment = {
+		name="2nd Quelimane Artillery"
+		type=artillery
+		home=2059
+	}
+	regiment = {
+		name="2nd Zomba Artillery"
+		type=artillery
+		home=2066
+	}
+	regiment = {
+		name="1st Angoche Irregulars"
+		type=irregular
+		home=2061
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2073
+	regiment = {
+		name="1st Quelimane Irregulars"
+		type=irregular
+		home=2059
+	}
+	regiment = {
+		name="3rd Zomba Artillery"
+		type=artillery
+		home=2066
+	}
+	regiment = {
+		name="4th Zomba Artillery"
+		type=artillery
+		home=2066
+	}
+	regiment = {
+		name="1st Angoche Artillery"
+		type=artillery
+		home=2061
+	}
+	regiment = {
+		name="1st Sena Artillery"
+		type=artillery
+		home=2053
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2059
+	regiment = {
+		name="1st Mossurize Irregulars"
+		type=irregular
+		home=2058
+	}
+	regiment = {
+		name="1st Hwange Irregulars"
+		type=irregular
+		home=2072
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2073
+	regiment = {
+		name="1st Mataka Irregulars"
+		type=irregular
+		home=2581
+	}
+	regiment = {
+		name="1st Massekisse Irregulars"
+		type=irregular
+		home=2052
+	}
+}
+

@@ -1,0 +1,7 @@
+owner=FER
+controller=FER
+add_core=FER
+add_core=ITA
+trade_goods = iron
+life_rating = 35
+terrain = plains

@@ -1,0 +1,6 @@
+owner=SIN
+controller=SIN
+add_core=BLC
+trade_goods = wool
+life_rating = 35
+terrain = hills

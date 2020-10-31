@@ -1,0 +1,10 @@
+owner=CSH
+controller=CSH
+add_core=CHC
+add_core=CHI
+add_core=CMI
+add_core=CSH
+add_core=SHU
+trade_goods = timber
+life_rating = 32
+terrain = hills

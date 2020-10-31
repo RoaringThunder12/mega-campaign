@@ -1,0 +1,8 @@
+owner=SCO
+controller=REB
+add_core=ENG
+add_core=IRE
+add_core=SCO
+trade_goods = cattle
+life_rating = 35
+terrain = hills

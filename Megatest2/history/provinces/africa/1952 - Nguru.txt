@@ -1,0 +1,8 @@
+owner=ITA
+controller=ITA
+add_core=KBO
+add_core=KTS
+trade_goods = cattle
+life_rating = 35
+terrain = plains
+colonial=2

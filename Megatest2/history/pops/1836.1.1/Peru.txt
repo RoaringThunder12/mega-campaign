@@ -1,0 +1,1314 @@
+2286 = {
+	soldiers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 316
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 2211
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 205
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 265
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 12752
+	}
+
+}
+2287 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = protestant
+		size= 119
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = protestant
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 4
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 2752
+	}
+
+}
+2288 = {
+	soldiers=
+	{
+		culture = south_andean
+		religion = protestant
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = protestant
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = protestant
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = protestant
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = protestant
+		size= 2744
+	}
+
+}
+2289 = {
+	soldiers=
+	{
+		culture = south_andean
+		religion = protestant
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = protestant
+		size= 57
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = protestant
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = protestant
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = protestant
+		size= 1307
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 63
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 444
+	}
+
+}
+2290 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 823
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = protestant
+		size= 5760
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = protestant
+		size= 535
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 57
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 692
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 33238
+	}
+
+}
+2291 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = catholic
+		size= 338
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = catholic
+		size= 675
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = catholic
+		size= 219
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = catholic
+		size= 142
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = catholic
+		size= 15463
+	}
+
+}
+2292 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 390
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = protestant
+		size= 779
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = protestant
+		size= 253
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 27
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 164
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 17858
+	}
+
+}
+2293 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = protestant
+		size= 385
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = protestant
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 7974
+	}
+
+}
+2294 = {
+	soldiers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 128
+	}
+
+	artisans=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 256
+	}
+
+	clergymen=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 5917
+	}
+
+}
+2295 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 6018
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = protestant
+		size= 15045
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = protestant
+		size= 699
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 107
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 172
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 1354
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 84069
+	}
+
+}
+2296 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 303
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = protestant
+		size= 607
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = protestant
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 21
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 14008
+	}
+
+}
+2297 = {
+	soldiers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 330
+	}
+
+	artisans=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 661
+	}
+
+	clergymen=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 107
+	}
+
+	bureaucrats=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 33
+	}
+
+	officers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 139
+	}
+
+	farmers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 15234
+	}
+
+}
+2298 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 1647
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = protestant
+		size= 1176
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = protestant
+		size= 383
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 41
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 576
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 25531
+	}
+
+}
+2299 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 555
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = protestant
+		size= 1110
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = protestant
+		size= 180
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 39
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 233
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 25616
+	}
+
+}
+2300 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = protestant
+		size= 174
+	}
+
+	artisans=
+	{
+		culture = maranon
+		religion = protestant
+		size= 124
+	}
+
+	clergymen=
+	{
+		culture = maranon
+		religion = protestant
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = maranon
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = maranon
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = maranon
+		religion = protestant
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = protestant
+		size= 2736
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 84
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 1853
+	}
+
+}
+2301 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = protestant
+		size= 93
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = protestant
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 2028
+	}
+
+	soldiers=
+	{
+		culture = aimara
+		religion = protestant
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = protestant
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = protestant
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = protestant
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = protestant
+		size= 763
+	}
+
+}
+2302 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = protestant
+		size= 1768
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = protestant
+		size= 575
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 62
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 557
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 37035
+	}
+
+	soldiers=
+	{
+		culture = aimara
+		religion = protestant
+		size= 930
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = protestant
+		size= 664
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = protestant
+		size= 216
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = protestant
+		size= 23
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = protestant
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = protestant
+		size= 209
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = protestant
+		size= 14543
+	}
+
+}
+2303 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 352
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = protestant
+		size= 252
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = protestant
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 15
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = protestant
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = protestant
+		size= 5530
+	}
+
+	soldiers=
+	{
+		culture = aimara
+		religion = protestant
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = protestant
+		size= 683
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = protestant
+		size= 222
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = protestant
+		size= 41
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = protestant
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = protestant
+		size= 144
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = protestant
+		size= 11830
+	}
+
+	soldiers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 174
+	}
+
+	artisans=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 124
+	}
+
+	clergymen=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 2731
+	}
+
+}
+2304 = {
+	soldiers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 393
+	}
+
+	artisans=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 2751
+	}
+
+	clergymen=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 255
+	}
+
+	bureaucrats=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 39
+	}
+
+	officers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 330
+	}
+
+	farmers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 15864
+	}
+
+}
+2578 = {
+	soldiers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 4032
+	}
+
+	clergymen=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 374
+	}
+
+	bureaucrats=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 58
+	}
+
+	officers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 484
+	}
+
+	farmers=
+	{
+		culture = british_andes_superregion_culture
+		religion = protestant
+		size= 22794
+	}
+
+}

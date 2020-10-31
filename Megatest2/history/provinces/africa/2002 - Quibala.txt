@@ -1,0 +1,6 @@
+owner=CKW
+controller=CKW
+add_core=NDO
+trade_goods = coffee
+life_rating = 25
+terrain = jungle

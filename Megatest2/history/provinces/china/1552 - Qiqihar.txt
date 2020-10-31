@@ -1,0 +1,8 @@
+owner=CSH
+controller=JAP
+add_core=KHA
+add_core=KRC
+add_core=MGL
+trade_goods = coal
+life_rating = 32
+terrain = woods

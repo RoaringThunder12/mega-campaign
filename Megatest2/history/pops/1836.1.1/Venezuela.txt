@@ -1,0 +1,863 @@
+2264 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 2487
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 808
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 124
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 522
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 50897
+	}
+
+}
+2265 = {
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 163
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 2783
+	}
+
+}
+2266 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1603
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 32
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 192
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 2223
+	}
+
+}
+2267 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 848
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1290
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 26
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 6829
+	}
+
+}
+2268 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 501
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 163
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 25
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 105
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 7575
+	}
+
+}
+2269 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 619
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 442
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 144
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 22
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 9708
+	}
+
+}
+2270 = {
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 2627
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 3997
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 371
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 57
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 480
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 20951
+	}
+
+}
+2271 = {
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 704
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1409
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 458
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 70
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 296
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 32241
+	}
+
+}
+2272 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 314
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 785
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 11
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = protestant
+		size= 4319
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 595
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1486
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 138
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 21
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 178
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 8182
+	}
+
+}
+2273 = {
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 521
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1041
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 338
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 52
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 219
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 23838
+	}
+
+}
+2274 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 120
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 240
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 14
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 5442
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 84
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 1901
+	}
+
+}
+2275 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 164
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 328
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 107
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 16
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 69
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 7509
+	}
+
+}
+2276 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1538
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1098
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 357
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 55
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 230
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 24139
+	}
+
+}
+2277 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 161
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 3679
+	}
+
+}
+2278 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 42
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 960
+	}
+
+}

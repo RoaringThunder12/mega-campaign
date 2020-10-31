@@ -1,0 +1,391 @@
+#Sphere of Influence
+
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+BAH = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = -19
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+CAN = {
+	value = 3
+	level = 2
+}
+CAT = {
+	value = -105
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 15
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 147
+	influence_value = 24
+	level = 3
+}
+FRA = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -475
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ING = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = -56
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = -87
+	level = 2
+}
+LOR = {
+	value = 18
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 8
+	level = 2
+}
+SCO = {
+	value = 147
+	influence_value = 24
+	level = 3
+}
+SGH = {
+	value = -57
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = -38
+	level = 2
+}
+TRI = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = -13
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 161
+	influence_value = 27
+	level = 3
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = -68
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 147
+	influence_value = 24
+	level = 3
+}
+X08 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Jules Grüneisen"
+	date="1807.6.19"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Frédéric Luz"
+	date="1821.11.19"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Leonhard Grüneisen"
+	date="1821.11.22"
+	type=land
+	personality="efficient"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Paul Frei"
+	date="1827.5.20"
+	type=land
+	personality="coolminded"
+	background="artillerist"
+}
+
+
+#Armies
+army = {
+	name="Gascon Musket Company"
+	location=608
+	regiment = {
+		name="1st Auxerre Infantry"
+		type=infantry
+		home=429
+	}
+	regiment = {
+		name="2nd Auxerre Infantry"
+		type=infantry
+		home=429
+	}
+	regiment = {
+		name="3rd Auxerre Infantry"
+		type=infantry
+		home=429
+	}
+}
+
+army = {
+	name="Tyrolean Guard"
+	location=607
+	regiment = {
+		name="1st Lille Infantry"
+		type=infantry
+		home=399
+	}
+	regiment = {
+		name="1st Moulins Infantry"
+		type=infantry
+		home=430
+	}
+	regiment = {
+		name="1st Besançon Infantry"
+		type=infantry
+		home=432
+	}
+}
+
+army = {
+	name="4th Army"
+	location=723
+	regiment = {
+		name="1st Annecy Infantry"
+		type=infantry
+		home=465
+	}
+	regiment = {
+		name="1st Chambéry Infantry"
+		type=infantry
+		home=466
+	}
+}
+

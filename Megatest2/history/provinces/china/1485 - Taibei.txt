@@ -1,0 +1,6 @@
+owner=JAP
+controller=JAP
+trade_goods = tea
+life_rating = 32
+terrain = plains
+naval_base = 1

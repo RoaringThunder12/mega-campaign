@@ -1,0 +1,10 @@
+owner=MLC
+controller=CSH
+add_core=BUR
+add_core=HSE
+add_core=IDO
+add_core=MLC
+add_core=SHA
+trade_goods = tea
+life_rating = 32
+terrain = jungle

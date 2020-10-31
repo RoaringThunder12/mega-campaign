@@ -1,0 +1,7 @@
+owner=RUS
+controller=DLH
+add_core=SIB
+trade_goods = sulphur
+life_rating = 35
+terrain = forest
+colonial=2

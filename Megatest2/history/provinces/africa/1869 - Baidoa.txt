@@ -1,0 +1,6 @@
+owner=ETH
+controller=ETH
+add_core=SOM
+trade_goods = cotton
+life_rating = 15
+terrain = farmlands

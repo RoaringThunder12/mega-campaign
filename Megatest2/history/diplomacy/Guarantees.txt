@@ -1,0 +1,40 @@
+guarantee=
+{
+	first="SWI"
+	second="VEN"
+	start_date="1792.5.19"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="SWI"
+	second="FER"
+	start_date="1835.12.3"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="VEN"
+	second="AUS"
+	start_date="1791.2.18"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="DLH"
+	second="ETH"
+	start_date="1823.8.18"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="DLH"
+	second="BNG"
+	start_date="1826.2.3"
+	end_date="1936.1.1"
+}
+

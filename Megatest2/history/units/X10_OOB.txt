@@ -1,0 +1,502 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAH = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = -19
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = -6
+	level = 2
+}
+CAT = {
+	value = -13
+	level = 2
+}
+CKW = {
+	value = 15
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 28
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -19
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRH = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ING = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 108
+	military_access = yes
+	influence_value = 14
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LIG = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = -1
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = -13
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = -43
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Giuseppe Doria-Pamphili"
+	date="1817.2.7"
+	type=sea
+	personality="gallant"
+	background="drillmaster"
+}
+
+leader = {
+	name="Augusto Orsini"
+	date="1827.8.5"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Maurizio Grimaldi"
+	date="1828.5.24"
+	type=sea
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Carlo d'Este"
+	date="1828.12.31"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Pietro Leopoldo Orsini"
+	date="1832.7.4"
+	type=land
+	personality="persistant"
+	background="brownnoser"
+}
+
+leader = {
+	name="Raniero della Rovere"
+	date="1835.3.28"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=2468
+	ship = {
+		name="1st Geraldton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Newcastle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Geraldton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Eden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Geraldton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tauranga Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Newcastle Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Dampier Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Broome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kojonup Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Dampier Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Dampier Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Dampier Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dampier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Eden Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2479
+	regiment = {
+		name="1st Sydney Infantry"
+		type=infantry
+		home=2468
+	}
+	regiment = {
+		name="1st Moree Infantry"
+		type=infantry
+		home=2474
+	}
+	regiment = {
+		name="1st Newcastle Infantry"
+		type=infantry
+		home=2469
+	}
+	regiment = {
+		name="1st Perth Artillery"
+		type=artillery
+		home=2497
+	}
+	regiment = {
+		name="1st Warmambool Artillery"
+		type=artillery
+		home=2477
+	}
+	regiment = {
+		name="1st Ophir Infantry"
+		type=infantry
+		home=2471
+	}
+	regiment = {
+		name="1st Auckland Infantry"
+		type=infantry
+		home=2509
+	}
+	regiment = {
+		name="1st Napier Artillery"
+		type=artillery
+		home=2511
+	}
+}
+

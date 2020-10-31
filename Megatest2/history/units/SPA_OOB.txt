@@ -1,0 +1,656 @@
+#Sphere of Influence
+
+ASM = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+BAH = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = -32
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRT = {
+	value = 75
+	influence_value = 6
+	level = 2
+}
+BRU = {
+	value = -93
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = -54
+	level = 2
+}
+CAT = {
+	value = 29
+	level = 2
+}
+CKW = {
+	value = 152
+	influence_value = 25
+	level = 3
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 14
+	level = 2
+}
+EGY = {
+	value = 28
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -28
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ING = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = -48
+	level = 2
+}
+MOR = {
+	value = -184
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = -102
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = -20
+	level = 2
+}
+SKA = {
+	value = 128
+	influence_value = 19
+	level = 3
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = -87
+	level = 2
+}
+TRI = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 22
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -143
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 54
+	influence_value = 1
+	level = 2
+}
+X07 = {
+	value = 174
+	influence_value = 31
+	level = 4
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 45
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Francisco de la Cerda"
+	date="1820.4.6"
+	type=land
+	personality="disciplined"
+	background="bootlicker"
+}
+
+leader = {
+	name="Fernando VI Enríquez"
+	date="1831.10.5"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Domingo de Ripperdá"
+	date="1830.10.3"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Tomás Álvarez de Toledo"
+	date="1831.10.7"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Francisco de Figueroa"
+	date="1831.10.8"
+	type=land
+	personality="persistant"
+	background="bootlicker"
+}
+
+leader = {
+	name="Lennox de Zúñiga"
+	date="1831.11.8"
+	type=sea
+	personality="disciplined"
+	background="artillerist"
+}
+
+leader = {
+	name="Cameron Folch de Cardona"
+	date="1834.12.11"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+
+#Armies
+navy = {
+	name="Flota de Lisboa"
+	location=521
+	ship = {
+		name="1st Marshall Islands Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Canary Islands Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cádiz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Málaga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Huelva Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Málaga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Vigo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Vigo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Faro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cádiz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Oviedo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Oviedo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Vigo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Málaga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Port Elizabeth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Santander Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Almería Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Cádiz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Huelva Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Cádiz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Port Elizabeth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cartagena Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Almería Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Huelva Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Vigan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Huelva Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Barbados Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=2136
+	regiment = {
+		name="1st Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="2nd Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="3rd Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="4th Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="5th Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="6th Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+}
+
+navy = {
+	name="Flota de Almería"
+	location=2738
+	ship = {
+		name="1st Oviedo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bencoolen Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Flota de Coast of Morocco"
+	location=2921
+	ship = {
+		name="1st Oporto Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Oviedo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Almería Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Durban Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bilbao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tetouan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Coruña Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cartagena Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Tetouan Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=3031
+	ship = {
+		name="3rd Guadeloupe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Guadeloupe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Guadeloupe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Oviedo Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Flota de Asturias"
+	location=2924
+	ship = {
+		name="1st La Coruña Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd La Coruña Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Flota de Cantabria"
+	location=2745
+	ship = {
+		name="1st Vigo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oviedo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Oviedo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Oviedo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Canary Islands Clipper Transport"
+		type=clipper_transport
+	}
+}
+

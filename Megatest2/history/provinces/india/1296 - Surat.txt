@@ -1,0 +1,8 @@
+owner=VIJ
+controller=VIJ
+add_core=GUJ
+add_core=HND
+trade_goods = grain
+life_rating = 32
+terrain = plains
+naval_base = 1

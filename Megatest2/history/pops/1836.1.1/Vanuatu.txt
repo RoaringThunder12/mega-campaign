@@ -1,0 +1,51 @@
+2535 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 132
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 264
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 6094
+	}
+
+}

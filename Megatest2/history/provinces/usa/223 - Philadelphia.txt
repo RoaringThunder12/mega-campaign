@@ -1,0 +1,12 @@
+owner=USA
+controller=USA
+add_core=USA
+trade_goods = iron
+life_rating = 40
+terrain = farmlands
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}
