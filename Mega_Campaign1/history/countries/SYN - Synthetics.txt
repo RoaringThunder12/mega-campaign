@@ -1,6 +1,0 @@
-government = republic
-government_rank = 3
-technology_group = western
-religion = noreligion
-primary_culture = noculture
-capital = 1878

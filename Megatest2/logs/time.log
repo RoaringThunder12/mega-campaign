@@ -1,0 +1,78 @@
+[main.cpp:509]: Loading text.csv took 0.516403 seconds...
+[main.cpp:512]: Loading files took 0.0557899
+[main.cpp:513]: Loading blob took 0.44848
+[main.cpp:579]: 
+***>  Total loadtime before app init 8.82983 seconds.
+[eu3application.cpp:345]: Initiliasing Music & Sound<0.257195>
+[eu3application.cpp:415]: Loading .gfx files <2.02538>
+[eu3application.cpp:428]: Initialise Graphics<2.26928>
+[eu3application.cpp:493]: Loading GUI <0.0902257>
+[eu3application.cpp:1125]: Loading Databases <0.798274>
+[map.cpp:321]: It takes <0.0040552> seconds to generate colorspace.
+[map.cpp:389]: It takes <0.0359906> seconds to load mapfiles.
+[map.cpp:433]: It takes <0.0730276> seconds to generate provinces.
+[map.cpp:438]: It takes <0.0524361> seconds to generate bounding boxes.
+[map.cpp:607]: It takes <2.08616e-007> seconds to calculate paths.
+[map.cpp:615]: It takes <0.00217199> seconds to fix naval distances.
+[map.cpp:646]: It takes <0.257637> in total to init map-logics.
+[eu3application.cpp:1150]: final pass of databases <0.00179195>
+[eu3application.cpp:1177]: units&techh database <0.0101504>
+[eu3application.cpp:1196]: country database <1.54485>
+[eu3application.cpp:1212]: news database <0.324005>
+[eu3application.cpp:1312]: Loading History Database <2.47551>
+[eu3application.cpp:500]: ****> databases was total of <5.57825>
+[eu3application.cpp:507]: Loading Events <0.131433>
+[eu3application.cpp:521]: Loading Soundeffects <12.6448>
+[eu3application.cpp:531]: Loading Flags <4.9188>
+[eu3application.cpp:578]: history execute <0.846018>
+[eu3application.cpp:584]: Idler Initialised <0.0217743>
+[eu3application.cpp:768]: Creating checksum for all files took 6.55176 seconds.
+[main.cpp:586]: 
+***>  Total loadtime after app init 44.1693 seconds.
+[frontend.cpp:447]: Initialising frontend artwork <0.000328064>
+[provincemanager.cpp:494]: CEU3MapCache creation <0.009613>
+[provincemanager.cpp:726]: Finished creating beach manager <0.0321061>
+[provincemanager.cpp:738]: Province collision meshes <0.0041278>
+[bordermanager.cpp:137]:     CBorderManager::FillBitmap() <0.0196495>
+[provincemanager.cpp:751]: Creating borders <0.0200342>
+[provincemanager.cpp:767]: Creating texts <0.0851353>
+[provincemanager.cpp:799]: Creating rivers <0.905844>
+[provincemanager.cpp:1697]: Creating terrain textures <0.0757772>
+[provincemanager.cpp:1705]: Creating visible from <0>
+[provincemanager.cpp:1740]: Creating meshes from <0.999382>
+[provincemanager.cpp:1788]: Creating waves <0.00866437>
+[provincemanager.cpp:812]: Creating the world <1.25604>
+[provincemanager.cpp:822]: Writing timefile for map<0.044312>
+[provincemanager.cpp:833]: Cleaning up provincemanager<9.53674e-005>
+[eu3application.cpp:783]: Initialising Graphical Map <2.90793>
+[eu3application.cpp:788]: Cleaning up after Graphical Map <0.141033>
+[frontend.cpp:480]: Mapflags <3.8147e-006>
+[frontend.cpp:488]: Device objects <0.00082016>
+[frontend.cpp:505]: frontend screens <1.01987>
+[frontend.cpp:511]: 
+
+
+Total loadtime was 54.3198 seconds.
+
+
+[eu3idler.cpp:911]: Moving History to Gamestate<0.0431785>
+[eu3idler.cpp:958]: Knowledge refreshment<0.0002473>
+[eu3idler.cpp:966]: AI Started<0.0228637>
+[eu3idler.cpp:989]: Final idler initialisation<0.172097>
+[eu3idler.cpp:5530]: Countries initialized<0.3873>
+[eu3idler.cpp:5580]: provinces initialised<0.0116742>
+[eu3idler.cpp:5629]: information caches setup<0.0795186>
+[eu3idler.cpp:6017]: graphics objects setup<2.38265>
+[eu3idler.cpp:6026]:  intel update<0.00625849>
+[eu3idler.cpp:6120]: skin loading<0.0145869>
+[eu3idler.cpp:3043]: Timer check for 1864.1.1 at 2.93923 seconds.
+[eu3idler.cpp:3043]: Timer check for 1867.2.14 at 465.609 seconds.
+[eu3idler.cpp:3043]: Timer check for 1886.5.25 at 2317.59 seconds.
+[eu3idler.cpp:3043]: Timer check for 1890.3.6 at 492.916 seconds.
+[eu3idler.cpp:3043]: Timer check for 1893.1.15 at 378.531 seconds.
+[eu3idler.cpp:3043]: Timer check for 1893.1.16 at 1.7959 seconds.
+[eu3idler.cpp:3043]: Timer check for 1896.12.5 at 557.477 seconds.
+[eu3idler.cpp:3043]: Timer check for 1896.12.18 at 4.52197 seconds.
+[eu3idler.cpp:3043]: Timer check for 1897.7.18 at 83.2061 seconds.
+[eu3idler.cpp:3043]: Timer check for 1900.3.24 at 556.472 seconds.
+[eu3idler.cpp:3043]: Timer check for 1900.8.25 at 50.3989 seconds.

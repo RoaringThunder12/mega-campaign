@@ -1,2 +1,0 @@
-discovered_by = CHM
-discovered_by = INC
