@@ -1,0 +1,7 @@
+owner=X22
+controller=X22
+add_core=ITA
+add_core=X22
+trade_goods = grain
+life_rating = 34
+terrain = hills

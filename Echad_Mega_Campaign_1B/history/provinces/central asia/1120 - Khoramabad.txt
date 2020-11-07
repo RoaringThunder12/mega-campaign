@@ -1,0 +1,7 @@
+owner=DLH
+controller=DLH
+add_core=PER
+add_core=X19
+trade_goods = cotton
+life_rating = 35
+terrain = hills

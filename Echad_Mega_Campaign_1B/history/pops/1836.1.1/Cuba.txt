@@ -1,0 +1,358 @@
+2209 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 29939
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 5567
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 402
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 210
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1559
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 13743
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 28714
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 5339
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 386
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 202
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 95
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1495
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 15859
+	}
+
+}
+2210 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 14531
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2889
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 4645
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 336
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 176
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 867
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 10662
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 13817
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1250
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 2009
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 76
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 375
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 4612
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 17415
+	}
+
+}
+2211 = {
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 15714
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1853
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 301
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 139
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 778
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 7059
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 16271
+	}
+
+}
+2212 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 20803
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1962
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1402
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 228
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 105
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 589
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 9891
+	}
+
+}

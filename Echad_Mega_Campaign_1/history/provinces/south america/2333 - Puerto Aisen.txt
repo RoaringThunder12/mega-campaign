@@ -1,8 +1,0 @@
-owner=CHL
-controller=CHL
-add_core=CHL
-add_core=VNZ
-trade_goods = fruit
-life_rating = 25
-terrain = mountain
-naval_base = 1

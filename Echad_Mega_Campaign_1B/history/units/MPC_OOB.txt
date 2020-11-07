@@ -1,0 +1,18 @@
+#Sphere of Influence
+
+MPC = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

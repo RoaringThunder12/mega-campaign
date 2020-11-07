@@ -1,6 +1,0 @@
-owner=VNZ
-controller=VNZ
-add_core=X22
-trade_goods = cattle
-life_rating = 35
-terrain = jungle

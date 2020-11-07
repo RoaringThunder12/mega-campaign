@@ -1,0 +1,10 @@
+owner=RUS
+controller=RUS
+add_core=EST
+add_core=LAT
+add_core=UBD
+add_core=X20
+trade_goods = cattle
+life_rating = 35
+terrain = plains
+naval_base = 1

@@ -1,0 +1,489 @@
+#Sphere of Influence
+
+AND = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = -15
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = -8
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -290
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = -9
+	level = 2
+}
+ING = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 10
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = -15
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = -15
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = -18
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = -14
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -15
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = -15
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = -15
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 158
+	influence_value = 27
+	level = 3
+}
+X24 = {
+	value = -15
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Girolamo Marcello"
+	date="1805.2.16"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Cristoforo San Paulo"
+	date="1808.3.15"
+	type=land
+	personality="chivalrous"
+	background="brownnoser"
+}
+
+leader = {
+	name="Antonio Moro"
+	date="1830.12.30"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ottavio Emo"
+	date="1833.1.29"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Carlo Sugaina"
+	date="1833.1.26"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Pasquale Memmo"
+	date="1833.12.25"
+	type=sea
+	personality="active_p"
+	background="engineer"
+}
+
+leader = {
+	name="Marco Antonio Ruzzini"
+	date="1835.7.2"
+	type=land
+	personality="persistant"
+	background="war_college"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=731
+	ship = {
+		name="1st Split Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Shkoder Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gerona Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Udine Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ferrara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Venetian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Venetian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Savona Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Venetian Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2761
+	ship = {
+		name="1st Leghorn Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Athens Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ferrara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cyclades Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Padua Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Padua Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gallipoli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cyclades Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Armata di Treviso"
+	location=780
+	regiment = {
+		name="1st Verona Artillery"
+		type=artillery
+		home=730
+	}
+	regiment = {
+		name="1st Udine Artillery"
+		type=artillery
+		home=733
+	}
+	regiment = {
+		name="1st Padua Artillery"
+		type=artillery
+		home=731
+	}
+	regiment = {
+		name="2nd Udine Artillery"
+		type=artillery
+		home=733
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=752
+	regiment = {
+		name="1st Udine Infantry"
+		type=infantry
+		home=733
+	}
+	regiment = {
+		name="2nd Udine Infantry"
+		type=infantry
+		home=733
+	}
+	regiment = {
+		name="1st Gorizia Infantry"
+		type=infantry
+		home=737
+	}
+	regiment = {
+		name="4th Udine Infantry"
+		type=infantry
+		home=733
+	}
+}
+
+army = {
+	name="1st Army"
+	location=746
+	regiment = {
+		name="1st Treviso Infantry"
+		type=infantry
+		home=732
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=740
+	regiment = {
+		name="3rd Udine Infantry"
+		type=infantry
+		home=733
+	}
+	regiment = {
+		name="2nd Gorizia Infantry"
+		type=infantry
+		home=737
+	}
+	regiment = {
+		name="3rd Gorizia Infantry"
+		type=infantry
+		home=737
+	}
+}
+
+army = {
+	name="Reisläufer"
+	location=746
+	regiment = {
+		name="1st Verona Infantry"
+		type=infantry
+		home=730
+	}
+}
+
+army = {
+	name="Gascon Musket Company"
+	location=752
+	regiment = {
+		name="2nd Treviso Infantry"
+		type=infantry
+		home=732
+	}
+}
+

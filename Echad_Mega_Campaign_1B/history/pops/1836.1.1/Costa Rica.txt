@@ -1,0 +1,153 @@
+2201 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 551
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 8841
+	}
+
+}
+2202 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 237
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1409
+	}
+
+}
+2203 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 127
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 2889
+	}
+
+}

@@ -1,0 +1,15 @@
+name = "French War for Independence"
+
+1836.1.1 = {
+	add_attacker = FRA
+	add_attacker = NET
+	add_attacker = ENL
+	add_defender = X22
+
+	war_goal = {
+		casus_belli = become_independent
+		actor = FRA
+		receiver = X22
+		country = FRA
+	}
+}

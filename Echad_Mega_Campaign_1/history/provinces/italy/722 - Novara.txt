@@ -1,8 +1,0 @@
-owner=X20
-controller=X20
-add_core=ITA
-add_core=LOM
-add_core=X20
-trade_goods = cattle
-life_rating = 35
-terrain = farmlands

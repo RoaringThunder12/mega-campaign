@@ -1,0 +1,48 @@
+vassal=
+{
+	first="VNZ"
+	second="X07"
+	start_date="1836.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GER"
+	second="ICL"
+	start_date="1685.5.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GER"
+	second="CAT"
+	start_date="1701.2.5"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SPA"
+	second="CUB"
+	start_date="1836.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ITA"
+	second="X24"
+	start_date="1639.6.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="NET"
+	second="ENL"
+	start_date="1787.3.5"
+	end_date="1936.1.1"
+}
+

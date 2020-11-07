@@ -1,8 +1,0 @@
-owner=RUS
-controller=RUS
-add_core=X04
-add_core=XIN
-trade_goods = sulphur
-life_rating = 32
-terrain = mountain
-colonial=2

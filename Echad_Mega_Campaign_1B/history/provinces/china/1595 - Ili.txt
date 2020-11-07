@@ -1,0 +1,10 @@
+owner=CSH
+controller=CSH
+add_core=X04
+add_core=X10
+add_core=X16
+add_core=XIN
+add_core=ZUN
+trade_goods = sulphur
+life_rating = 32
+terrain = mountain

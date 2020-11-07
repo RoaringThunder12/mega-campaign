@@ -1,0 +1,491 @@
+#Sphere of Influence
+
+AND = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -237
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -35
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = -19
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 11
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 7
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Karl XII Drake"
+	date="1820.1.18"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Karl Filip Andersson"
+	date="1820.1.20"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Inge Piper"
+	date="1820.10.2"
+	type=sea
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Karl af Gennäs"
+	date="1820.10.16"
+	type=sea
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+
+#Armies
+army = {
+	name="Kungliga Arméen"
+	location=327
+	regiment = {
+		name="1st Borås Infantry"
+		type=infantry
+		home=330
+	}
+	regiment = {
+		name="1st Gävle Infantry"
+		type=infantry
+		home=317
+	}
+	regiment = {
+		name="2nd Borås Infantry"
+		type=infantry
+		home=330
+	}
+	regiment = {
+		name="1st Norrköping Infantry"
+		type=infantry
+		home=325
+	}
+	regiment = {
+		name="1st Västerås Artillery"
+		type=artillery
+		home=326
+	}
+	regiment = {
+		name="1st Borås Artillery"
+		type=artillery
+		home=330
+	}
+	regiment = {
+		name="1st Christianssand Infantry"
+		type=infantry
+		home=310
+	}
+	regiment = {
+		name="2nd Borås Artillery"
+		type=artillery
+		home=330
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=326
+	ship = {
+		name="1st Norrköping Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Stockholm Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Norrköping Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Stockholm Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Norrköping Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Malmö Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hammerfest Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2705
+	ship = {
+		name="1st Kalmar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Stockholm Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=313
+	ship = {
+		name="1st Swedish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Oulu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Uppsala Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Uppsala Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jan Mayen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kalmar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kalmar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Västerås Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vaasa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sundsvall Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2706
+	ship = {
+		name="1st Stockholm Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Västerås Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Göteborg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kalmar Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Skånska Arméen"
+	location=308
+	regiment = {
+		name="1st Karlstad Infantry"
+		type=infantry
+		home=328
+	}
+	regiment = {
+		name="1st Sundsvall Infantry"
+		type=infantry
+		home=318
+	}
+}
+
+army = {
+	name="1st Army"
+	location=329
+	regiment = {
+		name="1st Malmö Infantry"
+		type=infantry
+		home=334
+	}
+	regiment = {
+		name="3rd Borås Infantry"
+		type=infantry
+		home=330
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=329
+	ship = {
+		name="2nd Göteborg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Göteborg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Göteborg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Göteborg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Göteborg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Göteborg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Göteborg Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=329
+	ship = {
+		name="5th Göteborg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Göteborg Frigate"
+		type=frigate
+	}
+}
+

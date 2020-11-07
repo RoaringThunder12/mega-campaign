@@ -1,0 +1,9 @@
+owner=GER
+controller=GER
+add_core=ANS
+add_core=AUG
+add_core=GER
+add_core=X17
+trade_goods = fruit
+life_rating = 40
+terrain = farmlands

@@ -1,7 +1,0 @@
-owner=X21
-controller=X21
-add_core=ITA
-add_core=X21
-trade_goods = grain
-life_rating = 35
-terrain = hills
