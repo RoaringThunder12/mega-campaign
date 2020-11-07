@@ -1,7 +1,0 @@
-owner=ITA
-controller=ITA
-add_core=NUP
-trade_goods = fish
-life_rating = 15
-terrain = plains
-colonial=2

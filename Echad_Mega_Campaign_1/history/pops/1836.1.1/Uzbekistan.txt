@@ -1,0 +1,434 @@
+1191 = {
+	slaves=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 4473
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 3132
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 2236
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 419
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 106
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 89
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 940
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 44516
+	}
+
+}
+1192 = {
+	slaves=
+	{
+		culture = tatar
+		religion = sunni
+		size= 3179
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 930
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1859
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 302
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 46
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 390
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 39738
+	}
+
+}
+1196 = {
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1149
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 2298
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 431
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 86
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 965
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 52468
+	}
+
+}
+1198 = {
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 12997
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 7335
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1691
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 441
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 371
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 3898
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 203362
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 1950
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 50
+	}
+
+}
+1199 = {
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 9260
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 14883
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1240
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 314
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 265
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1621
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 137780
+	}
+
+}
+1200 = {
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 676
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1352
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 253
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 51
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 568
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 30864
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 814
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 1627
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 305
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 61
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 684
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 37158
+	}
+
+}
+1202 = {
+	soldiers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 4675
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 3339
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 626
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 159
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 701
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 73846
+	}
+
+}

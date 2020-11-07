@@ -1,0 +1,102 @@
+2240 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 129
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1807
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 13
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 217
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 10565
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1809
+	}
+
+}

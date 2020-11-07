@@ -1,0 +1,14 @@
+#Sphere of Influence
+
+MPC = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

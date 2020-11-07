@@ -1,0 +1,9562 @@
+1 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 79
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1824
+	}
+
+}
+2 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 914
+	}
+
+}
+3 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 568
+	}
+
+}
+4 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 481
+	}
+
+}
+5 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 485
+	}
+
+}
+78 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 138
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2187
+	}
+
+}
+79 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 151
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 891
+	}
+
+}
+80 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 968
+	}
+
+}
+81 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 134
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2075
+	}
+
+}
+82 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 151
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 882
+	}
+
+}
+83 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 151
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 882
+	}
+
+}
+84 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 87
+	}
+
+	craftsmen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8171
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 432
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 40
+	}
+
+	clerks=
+	{
+		culture = yankee
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	capitalists=
+	{
+		culture = yankee
+		religion = catholic
+		size= 193
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 78
+	}
+
+}
+85 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 45
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1038
+	}
+
+}
+86 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 459
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1659
+	}
+
+}
+87 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 277
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 587
+	}
+
+}
+88 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 308
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 795
+	}
+
+}
+89 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 507
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1935
+	}
+
+}
+90 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 474
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 85
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2744
+	}
+
+}
+91 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 318
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1880
+	}
+
+}
+92 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 149
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 881
+	}
+
+}
+93 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 487
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2814
+	}
+
+}
+94 = {
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 15
+	}
+
+}
+95 = {
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 15
+	}
+
+}
+96 = {
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 15
+	}
+
+}
+97 = {
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 25
+	}
+
+}
+98 = {
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 15
+	}
+
+}
+99 = {
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 15
+	}
+
+}
+100 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 99
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 499
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2815
+	}
+
+}
+101 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 490
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2830
+	}
+
+}
+102 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 140
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3199
+	}
+
+}
+103 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 87
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1221
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 220
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7065
+	}
+
+}
+104 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 848
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 152
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 819
+	}
+
+}
+105 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 160
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 927
+	}
+
+}
+106 = {
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 25
+	}
+
+}
+107 = {
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 15
+	}
+
+}
+108 = {
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 15
+	}
+
+}
+109 = {
+	aristocrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 15
+	}
+
+}
+110 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 336
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1970
+	}
+
+}
+111 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 453
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2647
+	}
+
+}
+112 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 22
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 309
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1785
+	}
+
+}
+113 = {
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 25
+	}
+
+}
+114 = {
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 15
+	}
+
+}
+115 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 311
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1799
+	}
+
+}
+116 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 504
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1914
+	}
+
+}
+117 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 351
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1060
+	}
+
+}
+118 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 70
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 348
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2008
+	}
+
+}
+119 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 337
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1991
+	}
+
+}
+120 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 331
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 903
+	}
+
+}
+121 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 337
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 982
+	}
+
+}
+122 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 328
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1891
+	}
+
+}
+123 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 349
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2017
+	}
+
+}
+124 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 164
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 945
+	}
+
+}
+125 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 338
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 945
+	}
+
+}
+126 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 318
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 855
+	}
+
+}
+127 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 333
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1956
+	}
+
+}
+128 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 358
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1066
+	}
+
+}
+129 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 110
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 464
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2614
+	}
+
+}
+130 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 220
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 462
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1480
+	}
+
+}
+131 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 86
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 955
+	}
+
+}
+132 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 835
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 223
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3317
+	}
+
+}
+133 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 538
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 695
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2539
+	}
+
+}
+134 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 47
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1044
+	}
+
+}
+135 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 90
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1058
+	}
+
+}
+136 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 356
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1040
+	}
+
+}
+137 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 301
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 600
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2171
+	}
+
+}
+138 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 252
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 436
+	}
+
+}
+139 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 16213
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 412
+	}
+
+	craftsmen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16340
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1597
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 535
+	}
+
+	clerks=
+	{
+		culture = yankee
+		religion = catholic
+		size= 986
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 74
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 33
+	}
+
+	capitalists=
+	{
+		culture = yankee
+		religion = catholic
+		size= 384
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 519
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4026
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = jewish
+		size= 50
+	}
+
+}
+140 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 11610
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 209
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 835
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 271
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 263
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7631
+	}
+
+}
+141 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 5836
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 294
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1471
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 137
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2562
+	}
+
+}
+142 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 6875
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1781
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 165
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2715
+	}
+
+}
+143 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 4514
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2344
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 218
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 281
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8312
+	}
+
+}
+144 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 171
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2979
+	}
+
+}
+145 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 194
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4480
+	}
+
+}
+146 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 3431
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1560
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2229
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 724
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 100
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 89
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 702
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 46883
+	}
+
+}
+147 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 152
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 217
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4930
+	}
+
+}
+148 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 3660
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 488
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 307
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6510
+	}
+
+}
+149 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 3258
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 615
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 200
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 129
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 10092
+	}
+
+}
+150 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 1188
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2329
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 216
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 210
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11615
+	}
+
+}
+151 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 101
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 506
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2917
+	}
+
+}
+152 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 94
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2087
+	}
+
+}
+153 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 659
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2886
+	}
+
+}
+154 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 330
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1934
+	}
+
+}
+155 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 22
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 309
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1823
+	}
+
+}
+156 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 329
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1899
+	}
+
+}
+157 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 68
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 340
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1936
+	}
+
+}
+158 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 304
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1753
+	}
+
+}
+159 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 632
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3712
+	}
+
+}
+160 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 984
+	}
+
+}
+161 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 319
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1881
+	}
+
+}
+162 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 323
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1903
+	}
+
+}
+163 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 510
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2040
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 663
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 92
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1285
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 46358
+	}
+
+}
+164 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 522
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 170
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 329
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11859
+	}
+
+}
+165 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 104
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 416
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 131
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9586
+	}
+
+}
+166 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1054
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 356
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 63
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 885
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23856
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = mormon
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = mormon
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = mormon
+		size= 4000
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = mormon
+		size= 250
+	}
+
+}
+167 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 295
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 422
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 137
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 266
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9392
+	}
+
+}
+168 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 1204
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 205
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2865
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 266
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 344
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15525
+	}
+
+}
+169 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2241
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3202
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1041
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 80
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 128
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 672
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 72678
+	}
+
+}
+170 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 2317
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7947
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 738
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 102
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 715
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 43866
+	}
+
+}
+171 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 123
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 493
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 160
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11411
+	}
+
+}
+172 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 950
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1356
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 441
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 34
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 285
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30792
+	}
+
+}
+173 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 668
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3338
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 310
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 19167
+	}
+
+}
+174 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 185
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 924
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5335
+	}
+
+}
+175 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 605
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3490
+	}
+
+}
+176 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 453
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2618
+	}
+
+}
+177 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 477
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2814
+	}
+
+}
+178 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1636
+	}
+
+	craftsmen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2337
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 760
+	}
+
+	clerks=
+	{
+		culture = yankee
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 58
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 93
+	}
+
+	capitalists=
+	{
+		culture = yankee
+		religion = catholic
+		size= 192
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 736
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 43960
+	}
+
+}
+179 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 874
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 12235
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1136
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 157
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1101
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 71823
+	}
+
+}
+180 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 512
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7175
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 666
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 51
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 430
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 42374
+	}
+
+}
+181 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 730
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 10219
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 949
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 131
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 920
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 59986
+	}
+
+}
+182 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 3219
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2223
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3176
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1032
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 79
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 667
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 68878
+	}
+
+}
+183 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 1073
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1202
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1717
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 558
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 361
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 37896
+	}
+
+}
+184 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 12214
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6062
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 563
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 364
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 22989
+	}
+
+}
+185 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 12876
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2497
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3567
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1159
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 89
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 143
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 749
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 68085
+	}
+
+}
+186 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 11918
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1122
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1604
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 521
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 40
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 337
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24483
+	}
+
+}
+187 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 8517
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 805
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1150
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 374
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 29
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 241
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 17582
+	}
+
+}
+188 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 15936
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2951
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4215
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1370
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 105
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 169
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1771
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 78870
+	}
+
+}
+189 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 8630
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 345
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1381
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 449
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 35
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 580
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23072
+	}
+
+}
+190 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 8713
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 884
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1263
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 411
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 265
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 19965
+	}
+
+}
+191 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 6430
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 966
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1380
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 449
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 35
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 290
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24902
+	}
+
+}
+192 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 21610
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2270
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6908
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 641
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 89
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 118
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1244
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16463
+	}
+
+}
+193 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 16846
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 845
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4228
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 392
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 54
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 761
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7029
+	}
+
+}
+194 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 10756
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 817
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 266
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 343
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7186
+	}
+
+}
+195 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 30524
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2391
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11957
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1110
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 222
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 137
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2152
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 36912
+	}
+
+}
+196 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 17356
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1281
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1830
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 595
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 46
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 769
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23807
+	}
+
+}
+197 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 19068
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 371
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1483
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 482
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 311
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15295
+	}
+
+}
+198 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 4499
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 251
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 360
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 227
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3521
+	}
+
+}
+199 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 4807
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 577
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 187
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 363
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4315
+	}
+
+}
+200 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 62
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 303
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1728
+	}
+
+}
+201 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 25656
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1849
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2643
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 859
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 119
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 106
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1664
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 33168
+	}
+
+}
+202 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 4493
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1729
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 161
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 207
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1601
+	}
+
+}
+204 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 23268
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2216
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 721
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 56
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1396
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23566
+	}
+
+}
+205 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 39021
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2442
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 875
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 68
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1697
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 21871
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = jewish
+		size= 250
+	}
+
+}
+206 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 47311
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2619
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3741
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1216
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 94
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 149
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1571
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 36820
+	}
+
+}
+207 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 8548
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 289
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1154
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 375
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 29
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 364
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 18069
+	}
+
+}
+208 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 10751
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1178
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1682
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 547
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 42
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 353
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 27442
+	}
+
+}
+209 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 16271
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1475
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 480
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 620
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16907
+	}
+
+}
+210 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 19545
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1429
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2041
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 664
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 51
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 429
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 26794
+	}
+
+}
+211 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 41901
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16949
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1574
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 315
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 194
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1526
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 54477
+	}
+
+}
+212 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 11967
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 518
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 740
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 240
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4827
+	}
+
+}
+213 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 15036
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 311
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1246
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 405
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 31
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 392
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 13699
+	}
+
+}
+214 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 11968
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 295
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1179
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 383
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 53
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 371
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15211
+	}
+
+}
+215 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 7542
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 451
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 644
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 209
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 135
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7078
+	}
+
+}
+216 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 16128
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4839
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 449
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 62
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 580
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8314
+	}
+
+}
+217 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 11231
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 856
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1222
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 397
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 31
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 770
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15991
+	}
+
+}
+218 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 11625
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1162
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 378
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 29
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 366
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 14446
+	}
+
+}
+219 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 30039
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 613
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8585
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 797
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1545
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 19630
+	}
+
+}
+220 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 31615
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1499
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2142
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 696
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 54
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 86
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 17010
+	}
+
+}
+221 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 9791
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 518
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 740
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 240
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7003
+	}
+
+}
+222 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 6514
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 206
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 825
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 268
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 260
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 12501
+	}
+
+}
+223 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 9273
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1369
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4987
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1770
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 246
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1725
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 116938
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = jewish
+		size= 490
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = jewish
+		size= 10
+	}
+
+}
+224 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1392
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1989
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 646
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 50
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 80
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1253
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 44314
+	}
+
+}
+225 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 527
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7375
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 685
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 95
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1328
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 42629
+	}
+
+}
+226 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 850
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11894
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1104
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 153
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2141
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 68746
+	}
+
+}
+227 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 3453
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2673
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 13366
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1241
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 95
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 153
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1203
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 73289
+	}
+
+}
+228 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 955
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4773
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 443
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 430
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 27379
+	}
+
+}
+229 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 4537
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1239
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1770
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 575
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 44
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 557
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 35447
+	}
+
+}
+230 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 787
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1124
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 365
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 236
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 25513
+	}
+
+}
+231 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 671
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 958
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 311
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 201
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 21757
+	}
+
+}
+232 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 9670
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16533
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 47549
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4451
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 892
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 824
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4324
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 258396
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = jewish
+		size= 490
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = jewish
+		size= 10
+	}
+
+}
+233 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2138
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6506
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 604
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 121
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 586
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 36407
+	}
+
+}
+234 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2813
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 14067
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1306
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 100
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 161
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1266
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 80762
+	}
+
+}
+235 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4082
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1327
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 184
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 82
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1286
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 94053
+	}
+
+}
+236 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 701
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9812
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 911
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 70
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 883
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 57654
+	}
+
+}
+237 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 485
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1938
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 630
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 87
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 407
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 44874
+	}
+
+}
+238 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 904
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 12657
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1175
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 163
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1139
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 74297
+	}
+
+}
+239 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 320
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1279
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 416
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 58
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 269
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 29614
+	}
+
+}
+240 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 222
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 886
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 288
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 40
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 279
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20420
+	}
+
+}
+241 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 2129
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 798
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3194
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1038
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 80
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1006
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 71535
+	}
+
+}
+242 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 1096
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 285
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1140
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 371
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 29
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 718
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24840
+	}
+
+}
+243 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1178
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4713
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1532
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 212
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 94
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1485
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 108612
+	}
+
+}
+244 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1034
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1477
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 480
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 930
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 32905
+	}
+
+}
+245 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 956
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 310
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 602
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20906
+	}
+
+}
+246 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3300
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1072
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 149
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 198
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1039
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 72605
+	}
+
+}
+247 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2146
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3066
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 996
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 138
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 122
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1932
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 68243
+	}
+
+}
+248 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1863
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2661
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 865
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 120
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 106
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1676
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 59226
+	}
+
+}
+249 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 481
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1924
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 625
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 606
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 44369
+	}
+
+}
+250 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 296
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 424
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 138
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9570
+	}
+
+}
+2555 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 15852
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1449
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 471
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 304
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 17030
+	}
+
+}
+2556 = {
+	slaves=
+	{
+		culture = afro_american
+		religion = catholic
+		size= 12623
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 467
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6539
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 607
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 84
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1177
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 25171
+	}
+
+}
+2599 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 458
+	}
+
+}
+2630 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 370
+	}
+
+}
+2631 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 705
+	}
+
+}

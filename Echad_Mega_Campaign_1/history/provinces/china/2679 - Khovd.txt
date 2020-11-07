@@ -1,0 +1,10 @@
+owner=SHY
+controller=SHY
+add_core=KHA
+add_core=MGL
+add_core=X04
+add_core=X10
+add_core=ZUN
+trade_goods = cotton
+life_rating = 32
+terrain = plains

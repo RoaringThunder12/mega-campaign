@@ -1,5 +1,0 @@
-owner=SPA
-controller=REB
-trade_goods = fruit
-life_rating = 35
-terrain = hills

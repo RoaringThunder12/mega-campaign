@@ -1,6 +1,0 @@
-owner=BRT
-controller=BRT
-trade_goods = coffee
-life_rating = 15
-terrain = plains
-colonial=2

@@ -1,9 +1,0 @@
-owner=X07
-controller=REB
-add_core=CAT
-add_core=SPA
-add_core=TUN
-trade_goods = cattle
-life_rating = 35
-terrain = plains
-naval_base = 2

@@ -1,0 +1,9 @@
+owner=RUS
+controller=RUS
+add_core=CHI
+add_core=MCK
+add_core=NVK
+trade_goods = fish
+life_rating = 35
+terrain = plains
+colonial=2

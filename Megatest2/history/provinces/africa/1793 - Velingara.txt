@@ -1,7 +1,0 @@
-owner=BRT
-controller=BRT
-add_core=WOL
-trade_goods = fish
-life_rating = 15
-terrain = plains
-colonial=2

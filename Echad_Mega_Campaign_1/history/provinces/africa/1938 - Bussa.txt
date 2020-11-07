@@ -1,0 +1,10 @@
+owner=ITA
+controller=ITA
+add_core=BEN
+add_core=DGB
+add_core=KTS
+add_core=OYO
+trade_goods = fruit
+life_rating = 15
+terrain = plains
+colonial=2

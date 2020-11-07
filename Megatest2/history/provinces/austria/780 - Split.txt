@@ -1,8 +1,0 @@
-owner=ITA
-controller=ITA
-add_core=DLM
-add_core=ITA
-trade_goods = fish
-life_rating = 35
-terrain = hills
-naval_base = 2

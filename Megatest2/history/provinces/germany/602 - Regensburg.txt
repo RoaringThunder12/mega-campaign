@@ -1,8 +1,0 @@
-owner=GER
-controller=GER
-add_core=GER
-add_core=ING
-add_core=SLZ
-trade_goods = coal
-life_rating = 40
-terrain = farmlands

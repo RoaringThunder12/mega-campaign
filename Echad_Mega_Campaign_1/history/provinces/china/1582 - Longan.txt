@@ -1,0 +1,8 @@
+owner=CSH
+controller=CSH
+add_core=TIB
+add_core=UTS
+add_core=X03
+trade_goods = coal
+life_rating = 32
+terrain = hills

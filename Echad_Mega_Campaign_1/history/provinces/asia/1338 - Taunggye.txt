@@ -1,0 +1,9 @@
+owner=MLC
+controller=MLC
+add_core=BUR
+add_core=IDO
+add_core=KWN
+add_core=SHA
+trade_goods = opium
+life_rating = 35
+terrain = mountain

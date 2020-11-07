@@ -1,0 +1,255 @@
+1321 = {
+	soldiers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 6541
+	}
+
+	artisans=
+	{
+		culture = tamil
+		religion = hindu
+		size= 16353
+	}
+
+	clergymen=
+	{
+		culture = tamil
+		religion = hindu
+		size= 759
+	}
+
+	bureaucrats=
+	{
+		culture = tamil
+		religion = hindu
+		size= 58
+	}
+
+	officers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 187
+	}
+
+	aristocrats=
+	{
+		culture = tamil
+		religion = hindu
+		size= 981
+	}
+
+	farmers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 91930
+	}
+
+}
+1322 = {
+	soldiers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 1507
+	}
+
+	artisans=
+	{
+		culture = tamil
+		religion = hindu
+		size= 3014
+	}
+
+	clergymen=
+	{
+		culture = tamil
+		religion = hindu
+		size= 490
+	}
+
+	bureaucrats=
+	{
+		culture = tamil
+		religion = hindu
+		size= 38
+	}
+
+	officers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = tamil
+		religion = hindu
+		size= 633
+	}
+
+	farmers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 69611
+	}
+
+}
+1323 = {
+	soldiers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 4551
+	}
+
+	artisans=
+	{
+		culture = tamil
+		religion = hindu
+		size= 7315
+	}
+
+	clergymen=
+	{
+		culture = tamil
+		religion = hindu
+		size= 528
+	}
+
+	bureaucrats=
+	{
+		culture = tamil
+		religion = hindu
+		size= 41
+	}
+
+	officers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 130
+	}
+
+	aristocrats=
+	{
+		culture = tamil
+		religion = hindu
+		size= 682
+	}
+
+	farmers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 68021
+	}
+
+}
+1324 = {
+	soldiers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 3138
+	}
+
+	artisans=
+	{
+		culture = tamil
+		religion = hindu
+		size= 5042
+	}
+
+	clergymen=
+	{
+		culture = tamil
+		religion = hindu
+		size= 364
+	}
+
+	bureaucrats=
+	{
+		culture = tamil
+		religion = hindu
+		size= 28
+	}
+
+	officers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 90
+	}
+
+	aristocrats=
+	{
+		culture = tamil
+		religion = hindu
+		size= 471
+	}
+
+	farmers=
+	{
+		culture = tamil
+		religion = hindu
+		size= 46892
+	}
+
+}
+1325 = {
+	soldiers=
+	{
+		culture = malayalam
+		religion = hindu
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = malayalam
+		religion = hindu
+		size= 604
+	}
+
+	clergymen=
+	{
+		culture = malayalam
+		religion = hindu
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = malayalam
+		religion = hindu
+		size= 3
+	}
+
+	officers=
+	{
+		culture = malayalam
+		religion = hindu
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = malayalam
+		religion = hindu
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = malayalam
+		religion = hindu
+		size= 5862
+	}
+
+}

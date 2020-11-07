@@ -1,0 +1,7 @@
+owner=ETH
+controller=TUR
+add_core=ARA
+add_core=HDJ
+trade_goods = grain
+life_rating = 35
+terrain = desert

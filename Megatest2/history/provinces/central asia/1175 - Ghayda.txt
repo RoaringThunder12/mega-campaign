@@ -1,8 +1,0 @@
-owner=ETH
-controller=ETH
-add_core=ARA
-add_core=MHR
-trade_goods = opium
-life_rating = 35
-terrain = desert
-naval_base = 2

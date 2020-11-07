@@ -1,6 +1,0 @@
-owner=NSS
-controller=NSS
-add_core=NSS
-trade_goods = cotton
-life_rating = 35
-terrain = plains

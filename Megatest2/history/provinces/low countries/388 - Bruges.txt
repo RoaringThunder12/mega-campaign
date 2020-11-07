@@ -1,9 +1,0 @@
-owner=NET
-controller=NET
-add_core=BEL
-add_core=FLA
-add_core=NET
-trade_goods = grain
-life_rating = 35
-terrain = farmlands
-naval_base = 2

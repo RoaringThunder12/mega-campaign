@@ -1,0 +1,18 @@
+#Sphere of Influence
+
+GRI = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

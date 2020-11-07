@@ -1,8 +1,0 @@
-owner=X07
-controller=X07
-add_core=ITA
-add_core=SVY
-add_core=X07
-trade_goods = wool
-life_rating = 35
-terrain = farmlands

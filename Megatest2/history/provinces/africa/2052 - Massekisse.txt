@@ -1,7 +1,0 @@
-owner=MLW
-controller=ITA
-add_core=MLW
-add_core=ZIM
-trade_goods = grain
-life_rating = 35
-terrain = hills

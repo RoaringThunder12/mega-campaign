@@ -1,0 +1,281 @@
+1919 = {
+	slaves=
+	{
+		culture = fon
+		religion = protestant
+		size= 16246
+	}
+
+	soldiers=
+	{
+		culture = ewe
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = ewe
+		religion = protestant
+		size= 2599
+	}
+
+	clergymen=
+	{
+		culture = ewe
+		religion = protestant
+		size= 422
+	}
+
+	bureaucrats=
+	{
+		culture = ewe
+		religion = protestant
+		size= 65
+	}
+
+	officers=
+	{
+		culture = ewe
+		religion = protestant
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = ewe
+		religion = protestant
+		size= 546
+	}
+
+	farmers=
+	{
+		culture = ewe
+		religion = protestant
+		size= 44022
+	}
+
+}
+1920 = {
+	slaves=
+	{
+		culture = fon
+		religion = protestant
+		size= 5684
+	}
+
+	soldiers=
+	{
+		culture = fon
+		religion = protestant
+		size= 552
+	}
+
+	artisans=
+	{
+		culture = fon
+		religion = protestant
+		size= 2207
+	}
+
+	clergymen=
+	{
+		culture = fon
+		religion = protestant
+		size= 359
+	}
+
+	bureaucrats=
+	{
+		culture = fon
+		religion = protestant
+		size= 55
+	}
+
+	officers=
+	{
+		culture = fon
+		religion = protestant
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = fon
+		religion = protestant
+		size= 464
+	}
+
+	farmers=
+	{
+		culture = fon
+		religion = protestant
+		size= 45820
+	}
+
+}
+1921 = {
+	slaves=
+	{
+		culture = mossi
+		religion = protestant
+		size= 556
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = protestant
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = protestant
+		size= 550
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = protestant
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = protestant
+		size= 9
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = protestant
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = protestant
+		size= 4839
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = protestant
+		size= 494
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = protestant
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = protestant
+		size= 489
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = protestant
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = protestant
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = protestant
+		size= 4304
+	}
+
+}
+1922 = {
+	soldiers=
+	{
+		culture = mossi
+		religion = protestant
+		size= 195
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = protestant
+		size= 279
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = protestant
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = protestant
+		size= 10
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = protestant
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = protestant
+		size= 6376
+	}
+
+}

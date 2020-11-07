@@ -1,0 +1,204 @@
+1848 = {
+	soldiers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 205
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = coptic
+		size= 822
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = coptic
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 173
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 19178
+	}
+
+}
+1849 = {
+	soldiers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = coptic
+		size= 285
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = coptic
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 6647
+	}
+
+}
+1850 = {
+	soldiers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 70
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = coptic
+		size= 281
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = coptic
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 6571
+	}
+
+}
+1851 = {
+	soldiers=
+	{
+		culture = afar
+		religion = coptic
+		size= 108
+	}
+
+	artisans=
+	{
+		culture = afar
+		religion = coptic
+		size= 432
+	}
+
+	clergymen=
+	{
+		culture = afar
+		religion = coptic
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = afar
+		religion = coptic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = afar
+		religion = coptic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = afar
+		religion = coptic
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = afar
+		religion = coptic
+		size= 10092
+	}
+
+}

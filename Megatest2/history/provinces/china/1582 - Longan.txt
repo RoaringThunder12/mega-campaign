@@ -1,7 +1,0 @@
-owner=DLH
-controller=DLH
-add_core=TIB
-add_core=UTS
-trade_goods = coal
-life_rating = 32
-terrain = hills

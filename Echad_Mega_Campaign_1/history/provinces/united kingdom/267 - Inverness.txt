@@ -1,0 +1,9 @@
+owner=ENL
+controller=ENL
+add_core=ENG
+add_core=HSC
+add_core=SCO
+trade_goods = sulphur
+life_rating = 35
+terrain = mountain
+naval_base = 2

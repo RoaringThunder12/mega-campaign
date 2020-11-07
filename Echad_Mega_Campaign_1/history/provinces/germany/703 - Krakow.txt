@@ -1,0 +1,15 @@
+owner=GER
+controller=GER
+add_core=GER
+add_core=PLC
+add_core=POL
+trade_goods = coal
+life_rating = 40
+terrain = plains
+fort = 1
+state_building=
+{
+	level=1
+	building = luxury_furniture_factory
+	upgrade = yes
+}

@@ -1,7 +1,0 @@
-owner=DLH
-controller=CSH
-add_core=TIB
-add_core=UTS
-trade_goods = cattle
-life_rating = 25
-terrain = mountain

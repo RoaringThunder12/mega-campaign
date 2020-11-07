@@ -1,7 +1,0 @@
-owner=LBX
-controller=LBX
-add_core=KUB
-add_core=LBX
-trade_goods = grain
-life_rating = 15
-terrain = jungle

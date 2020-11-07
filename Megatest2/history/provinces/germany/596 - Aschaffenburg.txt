@@ -1,7 +1,0 @@
-owner=BYT
-controller=BYT
-add_core=BYT
-add_core=GER
-trade_goods = grain
-life_rating = 40
-terrain = plains

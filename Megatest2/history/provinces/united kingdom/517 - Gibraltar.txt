@@ -1,8 +1,0 @@
-owner=MOR
-controller=MOR
-add_core=GRA
-add_core=SPA
-trade_goods = fish
-life_rating = 35
-terrain = mountain
-naval_base = 1

@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=KAZ
+add_core=X04
+trade_goods = timber
+life_rating = 35
+terrain = woods
+colonial=2

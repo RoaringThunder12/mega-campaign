@@ -1,0 +1,8 @@
+owner=FRA
+controller=FRA
+add_core=FRA
+add_core=OCC
+add_core=X01
+trade_goods = sulphur
+life_rating = 31
+terrain = hills

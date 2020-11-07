@@ -1,6 +1,0 @@
-owner=BRT
-controller=BRT
-trade_goods = wool
-life_rating = 15
-terrain = hills
-colonial=2

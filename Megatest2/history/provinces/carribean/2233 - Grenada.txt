@@ -1,6 +1,0 @@
-owner=GER
-controller=GER
-trade_goods = cotton
-life_rating = 35
-terrain = hills
-fort = 1

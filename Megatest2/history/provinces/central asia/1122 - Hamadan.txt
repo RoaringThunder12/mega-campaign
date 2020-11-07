@@ -1,7 +1,0 @@
-owner=DLH
-controller=DLH
-add_core=PER
-add_core=X03
-trade_goods = fruit
-life_rating = 35
-terrain = mountain

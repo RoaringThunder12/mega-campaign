@@ -1,0 +1,53 @@
+2244 = {
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 13
+	}
+
+}
+2406 = {
+	soldiers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = kannada
+		religion = hindu
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = kannada
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = kannada
+		religion = hindu
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = kannada
+		religion = hindu
+		size= 118
+	}
+
+}

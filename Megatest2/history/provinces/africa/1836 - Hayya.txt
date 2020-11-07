@@ -1,7 +1,0 @@
-owner=ETH
-controller=ETH
-add_core=ETH
-add_core=X00
-trade_goods = tropical_wood
-life_rating = 30
-terrain = desert

@@ -1,0 +1,10 @@
+owner=CSH
+controller=CSH
+add_core=CHI
+add_core=CSH
+add_core=SHU
+add_core=X03
+trade_goods = fruit
+life_rating = 32
+terrain = jungle
+fort = 1

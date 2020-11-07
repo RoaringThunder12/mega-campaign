@@ -1,0 +1,8 @@
+owner=TUR
+controller=ETH
+add_core=ARA
+trade_goods = grain
+life_rating = 35
+terrain = plains
+colonial=2
+naval_base = 1

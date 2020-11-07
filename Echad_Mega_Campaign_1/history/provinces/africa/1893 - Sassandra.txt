@@ -1,0 +1,6 @@
+owner=FRA
+controller=FRA
+trade_goods = cotton
+life_rating = 15
+terrain = farmlands
+colonial=2

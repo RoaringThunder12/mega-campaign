@@ -1,9 +1,0 @@
-owner=SCO
-controller=REB
-add_core=ENG
-add_core=IRE
-add_core=SCO
-add_core=X05
-trade_goods = grain
-life_rating = 35
-terrain = farmlands

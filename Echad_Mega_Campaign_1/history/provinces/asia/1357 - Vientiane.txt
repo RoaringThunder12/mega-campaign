@@ -1,0 +1,8 @@
+owner=MLC
+controller=MLC
+add_core=IDO
+add_core=LUA
+add_core=MLC
+trade_goods = grain
+life_rating = 30
+terrain = mountain

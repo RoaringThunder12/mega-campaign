@@ -1,6 +1,0 @@
-owner=X10
-controller=X10
-add_core=X11
-trade_goods = wool
-life_rating = 30
-terrain = plains

@@ -1,6 +1,0 @@
-owner=X11
-controller=X11
-add_core=X11
-trade_goods = cattle
-life_rating = 15
-terrain = plains

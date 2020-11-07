@@ -1,0 +1,51 @@
+397 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1572
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 7858
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 730
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 79
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 90
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 471
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 45329
+	}
+
+}

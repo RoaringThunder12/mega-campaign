@@ -1,7 +1,0 @@
-owner=CKW
-controller=CKW
-add_core=CKW
-add_core=LND
-trade_goods = tropical_wood
-life_rating = 15
-terrain = jungle

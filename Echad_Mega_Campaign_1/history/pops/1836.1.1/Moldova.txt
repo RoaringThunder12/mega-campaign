@@ -1,0 +1,158 @@
+676 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 5599
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 12584
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 685
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 284
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 162
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1702
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 71932
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1600
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = orthodox
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+}
+677 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 5463
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 12044
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 667
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 277
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 158
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1661
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 69253
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1800
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = orthodox
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+}

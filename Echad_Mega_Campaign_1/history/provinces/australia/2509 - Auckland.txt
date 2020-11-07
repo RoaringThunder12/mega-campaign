@@ -1,0 +1,6 @@
+owner=X23
+controller=X23
+trade_goods = cattle
+life_rating = 30
+terrain = woods
+naval_base = 1

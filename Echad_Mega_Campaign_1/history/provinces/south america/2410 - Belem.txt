@@ -1,0 +1,8 @@
+owner=VNZ
+controller=VNZ
+add_core=BRZ
+add_core=VNZ
+trade_goods = grain
+life_rating = 35
+terrain = jungle
+naval_base = 2

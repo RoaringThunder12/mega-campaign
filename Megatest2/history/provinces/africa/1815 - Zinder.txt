@@ -1,7 +1,0 @@
-owner=ITA
-controller=ITA
-add_core=AYR
-trade_goods = cattle
-life_rating = 10
-terrain = plains
-colonial=2

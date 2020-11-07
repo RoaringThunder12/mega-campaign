@@ -1,0 +1,102 @@
+1485 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = shinto
+		size= 20869
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = shinto
+		size= 14907
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = shinto
+		size= 2422
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = shinto
+		size= 559
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = shinto
+		size= 596
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = shinto
+		size= 3131
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = shinto
+		size= 330187
+	}
+
+}
+2562 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = shinto
+		size= 22022
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = shinto
+		size= 15731
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = shinto
+		size= 2556
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = shinto
+		size= 589
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = shinto
+		size= 629
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = shinto
+		size= 3303
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = shinto
+		size= 348430
+	}
+
+}

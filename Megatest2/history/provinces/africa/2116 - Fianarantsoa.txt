@@ -1,8 +1,0 @@
-owner=SKA
-controller=SKA
-add_core=MAD
-add_core=SKA
-add_core=SWA
-trade_goods = coal
-life_rating = 35
-terrain = mountain

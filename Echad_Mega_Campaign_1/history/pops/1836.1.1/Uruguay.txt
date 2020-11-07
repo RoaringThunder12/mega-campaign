@@ -1,0 +1,211 @@
+2344 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1687
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 316
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1264
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 411
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 265
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 27603
+	}
+
+}
+2345 = {
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 104
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 419
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 9703
+	}
+
+}
+2346 = {
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 136
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3150
+	}
+
+}
+2347 = {
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 116
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 462
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 150
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10708
+	}
+
+}

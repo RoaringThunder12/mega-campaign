@@ -1,0 +1,204 @@
+1979 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 42
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 965
+	}
+
+}
+2239 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 153
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 611
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 199
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 15
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 14158
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 930
+	}
+
+}
+2243 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 101
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 403
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 131
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 10
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 9265
+	}
+
+}

@@ -1,0 +1,102 @@
+2454 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 194
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 777
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 126
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 163
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 18120
+	}
+
+}
+2520 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 71
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1647
+	}
+
+}
