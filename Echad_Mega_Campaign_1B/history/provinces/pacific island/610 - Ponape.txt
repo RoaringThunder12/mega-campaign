@@ -1,6 +1,0 @@
-owner=ITA
-controller=ITA
-add_core=X13
-trade_goods = fish
-life_rating = 15
-terrain = plains

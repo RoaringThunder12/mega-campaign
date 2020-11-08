@@ -1,0 +1,889 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = -85
+	level = 2
+}
+DEN = {
+	value = -6
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRH = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ING = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 149
+	influence_value = 24
+	level = 3
+}
+NVK = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = -10
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 16
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 76
+	influence_value = 6
+	level = 3
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Charles de Dunbar"
+	date="1804.12.12"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="David Bruce"
+	date="1825.10.15"
+	type=land
+	personality="persistant"
+	background="war_college"
+}
+
+leader = {
+	name="Mungo MacTaggart"
+	date="1826.5.2"
+	type=land
+	personality="stalwart"
+	background="brownnoser"
+}
+
+leader = {
+	name="Micheil Seton"
+	date="1831.9.22"
+	type=sea
+	personality="earnest"
+	background="aristocrat"
+}
+
+leader = {
+	name="Andrea MacGregor"
+	date="1832.8.26"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+
+#Armies
+navy = {
+	name="7th Fleet"
+	location=2593
+	ship = {
+		name="1st Fort Rupert Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Fort Albany Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Fort Rupert Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Fort Albany Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Fort Albany Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Fort Albany Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Fort Rupert Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Attawapiskat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Churchill Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Halifax Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Halifax Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Fort Albany Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Fort Rupert Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Fort Rupert Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Churchill Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Fort Albany Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Port Harrison Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Quebec City Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Fort Severn Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Quebec City Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Fort Albany Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="19th Army"
+	location=27
+	regiment = {
+		name="1st Dauphin Artillery"
+		type=artillery
+		home=40
+	}
+	regiment = {
+		name="1st Trois-Rivières Artillery"
+		type=artillery
+		home=64
+	}
+}
+
+army = {
+	name="Free Company"
+	location=2
+	regiment = {
+		name="1st Sherbrooke Infantry"
+		type=infantry
+		home=66
+	}
+	regiment = {
+		name="2nd Sherbrooke Infantry"
+		type=infantry
+		home=66
+	}
+	regiment = {
+		name="3rd Sherbrooke Infantry"
+		type=infantry
+		home=66
+	}
+	regiment = {
+		name="8th Montreal Infantry"
+		type=infantry
+		home=58
+	}
+}
+
+army = {
+	name="Chonnonton Free Warriors"
+	location=30
+	regiment = {
+		name="1st Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="1st Quebec City Infantry"
+		type=infantry
+		home=65
+	}
+	regiment = {
+		name="1st Toronto Infantry"
+		type=infantry
+		home=46
+	}
+	regiment = {
+		name="6th Montreal Infantry"
+		type=infantry
+		home=58
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2592
+	regiment = {
+		name="2nd Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="1st Kingston Infantry"
+		type=infantry
+		home=56
+	}
+	regiment = {
+		name="1st Asquith Artillery"
+		type=artillery
+		home=33
+	}
+	regiment = {
+		name="1st Dryden Infantry"
+		type=infantry
+		home=49
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=15
+	ship = {
+		name="1st Fort George Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Attawapiskat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Fort Rupert Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Vancouver Island Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Fort Rupert Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Yakutat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Prince Rupert Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vancouver Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Canadian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bathurst Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fredericton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bathurst Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Vancouver Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Vancouver Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Prince Rupert Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Canadian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chicoutimi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vancouver Island Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Prince Edward Island Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Prince Rupert Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Prince Rupert Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Fredericton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Prince Edward Island Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chicoutimi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fort Chimo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Vancouver Island Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="10th Army"
+	location=30
+	regiment = {
+		name="1st Montreal Artillery"
+		type=artillery
+		home=58
+	}
+	regiment = {
+		name="2nd Montreal Artillery"
+		type=artillery
+		home=58
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=69
+	ship = {
+		name="3rd Churchill Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Vancouver Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rimouski Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fort Rupert Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Fort Rupert Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Fort Rupert Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fort George Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Fort Rupert Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Churchill Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Vancouver Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Port Hope Simpson Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Halifax Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Prince Edward Island Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Vancouver Island Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Prince Rupert Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chicoutimi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fort Albany Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Fort Rupert Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Attawapiskat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Truro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fredericton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Attawapiskat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fort Severn Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Fort Rupert Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Fort Rupert Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Churchill Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Churchill Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Truro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Truro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Vancouver Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="9th Army"
+	location=61
+	regiment = {
+		name="3rd Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="3rd Montreal Artillery"
+		type=artillery
+		home=58
+	}
+	regiment = {
+		name="5th Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="1st Fredericton Artillery"
+		type=artillery
+		home=68
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2936
+	ship = {
+		name="2nd Chicoutimi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Chicoutimi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Chicoutimi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Fort Albany Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Fort Albany Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Fort Rupert Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Millertown Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="12th Army"
+	location=58
+	regiment = {
+		name="4th Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="4th Montreal Artillery"
+		type=artillery
+		home=58
+	}
+	regiment = {
+		name="7th Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="1st Saskatoon Artillery"
+		type=artillery
+		home=34
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=75
+	ship = {
+		name="1st Millertown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Millertown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Millertown Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=75
+	ship = {
+		name="1st Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Millertown Clipper Transport"
+		type=clipper_transport
+	}
+}
+

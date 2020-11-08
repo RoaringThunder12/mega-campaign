@@ -1,0 +1,8 @@
+owner=FRA
+controller=FRA
+add_core=FRA
+add_core=HAT
+add_core=X01
+trade_goods = fruit
+life_rating = 34
+terrain = plains

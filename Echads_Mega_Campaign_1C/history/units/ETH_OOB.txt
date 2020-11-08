@@ -1,0 +1,563 @@
+#Sphere of Influence
+
+AND = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 34
+	level = 2
+}
+EGY = {
+	value = 23
+	level = 3
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRH = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ING = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 40
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LIG = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 133
+	influence_value = 20
+	level = 3
+}
+MOR = {
+	value = 25
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 151
+	influence_value = 25
+	level = 3
+}
+SPA = {
+	value = -96
+	level = 2
+}
+SWA = {
+	value = 2
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 17
+	level = 2
+}
+TUN = {
+	value = -2
+	level = 2
+}
+TUR = {
+	value = -119
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Hezqeyâs Ezana"
+	date="1816.6.4"
+	type=sea
+	personality="intuitive"
+	background="brownnoser"
+}
+
+leader = {
+	name="Nâ'ôd Degife"
+	date="1816.6.14"
+	type=land
+	personality="resolute"
+	background="artillerist"
+}
+
+leader = {
+	name="Yeshaq Dereje"
+	date="1819.7.23"
+	type=land
+	personality="persistant"
+	background="brownnoser"
+}
+
+leader = {
+	name="Ba'eda Mâryâm Ambo"
+	date="1821.4.20"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Nâ'ôd Asres"
+	date="1825.5.3"
+	type=land
+	personality="resolute"
+	background="cartographer"
+}
+
+leader = {
+	name="Nâ'ôd Eyob"
+	date="1833.5.13"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=2785
+	ship = {
+		name="1st Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ghayda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Assab Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hodeida Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hobyo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Assab Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lamu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mukalla Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="18th Army"
+	location=1155
+	regiment = {
+		name="1st Ankober Irregulars"
+		type=irregular
+		home=1859
+	}
+	regiment = {
+		name="1st Asosa Irregulars"
+		type=irregular
+		home=1863
+	}
+	regiment = {
+		name="1st Fayyum Artillery"
+		type=artillery
+		home=1765
+	}
+	regiment = {
+		name="1st Mogadishu Artillery"
+		type=artillery
+		home=1868
+	}
+	regiment = {
+		name="1st Asosa Artillery"
+		type=artillery
+		home=1863
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2782
+	ship = {
+		name="1st Mogadishu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Socotra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mogadishu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mogadishu Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1155
+	regiment = {
+		name="2nd Ankober Irregulars"
+		type=irregular
+		home=1859
+	}
+	regiment = {
+		name="1st Debre Tabor Artillery"
+		type=artillery
+		home=1853
+	}
+	regiment = {
+		name="2nd Debre Tabor Artillery"
+		type=artillery
+		home=1853
+	}
+	regiment = {
+		name="4th Debre Markos Irregulars"
+		type=irregular
+		home=1855
+	}
+	regiment = {
+		name="1st Goba Artillery"
+		type=artillery
+		home=1866
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1868
+	ship = {
+		name="1st Bayda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bayda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Berbera Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kismayo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hobyo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Massawa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kismayo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Berbera Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mogadishu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Socotra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Berbera Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Berbera Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hobyo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Berbera Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1848
+	regiment = {
+		name="1st Debre Markos Irregulars"
+		type=irregular
+		home=1855
+	}
+	regiment = {
+		name="2nd Debre Markos Irregulars"
+		type=irregular
+		home=1855
+	}
+	regiment = {
+		name="1st Antalo Irregulars"
+		type=irregular
+		home=1857
+	}
+	regiment = {
+		name="3rd Debre Markos Irregulars"
+		type=irregular
+		home=1855
+	}
+	regiment = {
+		name="3rd Debre Tabor Artillery"
+		type=artillery
+		home=1853
+	}
+	regiment = {
+		name="1st Antalo Artillery"
+		type=artillery
+		home=1857
+	}
+	regiment = {
+		name="3rd Ankober Irregulars"
+		type=irregular
+		home=1859
+	}
+}
+

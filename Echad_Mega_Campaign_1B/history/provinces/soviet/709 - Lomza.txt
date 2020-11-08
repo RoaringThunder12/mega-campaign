@@ -1,9 +1,0 @@
-owner=GER
-controller=GER
-add_core=GER
-add_core=PLC
-add_core=POL
-trade_goods = grain
-life_rating = 35
-terrain = woods
-fort = 1

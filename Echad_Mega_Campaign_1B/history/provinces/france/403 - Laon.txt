@@ -1,9 +1,0 @@
-owner=FRA
-controller=FRA
-add_core=BEL
-add_core=HAT
-add_core=WLL
-add_core=X01
-trade_goods = grain
-life_rating = 32
-terrain = woods

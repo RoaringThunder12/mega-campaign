@@ -1,0 +1,6 @@
+owner=ETH
+controller=ETH
+add_core=JIM
+trade_goods = cattle
+life_rating = 30
+terrain = hills

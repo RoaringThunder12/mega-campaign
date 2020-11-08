@@ -1,0 +1,8 @@
+owner=GER
+controller=GER
+add_core=PLC
+add_core=POL
+add_core=X21
+trade_goods = coal
+life_rating = 40
+terrain = woods

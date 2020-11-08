@@ -1,0 +1,165 @@
+1955 = {
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = catholic
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = catholic
+		size= 1530
+	}
+
+	slaves=
+	{
+		culture = fang
+		religion = animist
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = catholic
+		size= 50
+	}
+
+}
+1973 = {
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 427
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 450
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 11
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 21430
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = protestant
+		size= 195
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = protestant
+		size= 861
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = protestant
+		size= 140
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = protestant
+		size= 22
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = protestant
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = protestant
+		size= 181
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = protestant
+		size= 8854
+	}
+
+}

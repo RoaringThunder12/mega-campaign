@@ -1,0 +1,7 @@
+owner=RUS
+controller=RUS
+add_core=KOR
+trade_goods = grain
+life_rating = 20
+terrain = arctic
+colonial=2

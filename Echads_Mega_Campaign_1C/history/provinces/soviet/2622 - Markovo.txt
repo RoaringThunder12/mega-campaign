@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=HOD
+add_core=YAK
+trade_goods = grain
+life_rating = 15
+terrain = arctic
+colonial=2

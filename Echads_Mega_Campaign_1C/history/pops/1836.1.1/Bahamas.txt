@@ -1,0 +1,123 @@
+2219 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 783
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 110
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 4853
+	}
+
+	soldiers=
+	{
+		culture = texan
+		religion = protestant
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = protestant
+		size= 913
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = protestant
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 109
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 116
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 777
+	}
+
+	soldiers=
+	{
+		culture = texan
+		religion = catholic
+		size= 22
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = catholic
+		size= 121
+	}
+
+}

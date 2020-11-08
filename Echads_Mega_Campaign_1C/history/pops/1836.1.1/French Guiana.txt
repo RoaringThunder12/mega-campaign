@@ -1,0 +1,172 @@
+2241 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 514
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 609
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 4
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 3278
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 90
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 107
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 578
+	}
+
+}

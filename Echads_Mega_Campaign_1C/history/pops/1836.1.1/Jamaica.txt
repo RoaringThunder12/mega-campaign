@@ -1,0 +1,186 @@
+2217 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 12355
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 731
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 261
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 20
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 82
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 83375
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 4934
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 3785
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 615
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 284
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 151
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1192
+	}
+
+}
+2218 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 48
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 97
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 91
+	}
+
+	soldiers=
+	{
+		culture = texan
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = protestant
+		size= 9
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 116
+	}
+
+}

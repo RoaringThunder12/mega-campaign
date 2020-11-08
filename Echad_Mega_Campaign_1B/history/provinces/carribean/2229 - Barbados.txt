@@ -1,7 +1,0 @@
-owner=ITA
-controller=ITA
-add_core=CUB
-trade_goods = tobacco
-life_rating = 35
-terrain = hills
-naval_base = 1

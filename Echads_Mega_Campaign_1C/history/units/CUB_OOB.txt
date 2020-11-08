@@ -1,0 +1,704 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = -13
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = -15
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = -15
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -16
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRH = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = -13
+	level = 2
+}
+ING = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 144
+	influence_value = 23
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LIG = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 17
+	level = 2
+}
+MOR = {
+	value = 15
+	level = 2
+}
+NET = {
+	value = -15
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 12
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 111
+	military_access = yes
+	influence_value = 15
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = -2
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -27
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Gabriel Osorio"
+	date="1812.1.31"
+	type=land
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Felipe de Bazán"
+	date="1821.10.12"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Baltasar Cabeza de Vaca"
+	date="1825.1.21"
+	type=land
+	personality="earnest"
+	background="armchair_general"
+}
+
+leader = {
+	name="García Portocarrero"
+	date="1825.9.3"
+	type=sea
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Gaspar Cabeza de Vaca"
+	date="1833.6.16"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="Free Company"
+	location=2230
+	regiment = {
+		name="1st Santo Domingo Infantry"
+		type=infantry
+		home=2214
+	}
+	regiment = {
+		name="1st Cap Haitien Infantry"
+		type=infantry
+		home=2215
+	}
+	regiment = {
+		name="4th Cap Haitien Infantry"
+		type=infantry
+		home=2215
+	}
+}
+
+army = {
+	name="Misquito Coast Company"
+	location=2230
+	regiment = {
+		name="1st Havana Infantry"
+		type=infantry
+		home=2209
+	}
+	regiment = {
+		name="2nd Havana Infantry"
+		type=infantry
+		home=2209
+	}
+	regiment = {
+		name="2nd Cap Haitien Infantry"
+		type=infantry
+		home=2215
+	}
+}
+
+army = {
+	name="Yucatan Company"
+	location=2212
+	regiment = {
+		name="1st Jamaica Infantry"
+		type=infantry
+		home=2217
+	}
+	regiment = {
+		name="1st Port Au Prince Infantry"
+		type=infantry
+		home=2213
+	}
+	regiment = {
+		name="1st Camagüey Infantry"
+		type=infantry
+		home=2211
+	}
+	regiment = {
+		name="3rd Cap Haitien Infantry"
+		type=infantry
+		home=2215
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2209
+	ship = {
+		name="1st Dominica Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dominica Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Dominica Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Dominica Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Dominica Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Spanish West Indies Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Vega Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Puerto Rico Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2230
+	regiment = {
+		name="1st Havana Artillery"
+		type=artillery
+		home=2209
+	}
+	regiment = {
+		name="2nd La Vega Artillery"
+		type=artillery
+		home=2216
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2212
+	regiment = {
+		name="1st Jagua Artillery"
+		type=artillery
+		home=2210
+	}
+	regiment = {
+		name="2nd Jagua Artillery"
+		type=artillery
+		home=2210
+	}
+	regiment = {
+		name="1st Santiago de Cuba Artillery"
+		type=artillery
+		home=2212
+	}
+	regiment = {
+		name="1st Camagüey Artillery"
+		type=artillery
+		home=2211
+	}
+}
+
+army = {
+	name="11th Army"
+	location=2233
+	regiment = {
+		name="1st Cap Haitien Artillery"
+		type=artillery
+		home=2215
+	}
+	regiment = {
+		name="1st Jamaica Artillery"
+		type=artillery
+		home=2217
+	}
+	regiment = {
+		name="1st Port Au Prince Artillery"
+		type=artillery
+		home=2213
+	}
+	regiment = {
+		name="2nd Havana Artillery"
+		type=artillery
+		home=2209
+	}
+	regiment = {
+		name="3rd Havana Artillery"
+		type=artillery
+		home=2209
+	}
+	regiment = {
+		name="1st La Vega Artillery"
+		type=artillery
+		home=2216
+	}
+	regiment = {
+		name="2nd Cap Haitien Artillery"
+		type=artillery
+		home=2215
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2947
+	ship = {
+		name="1st Dominica Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Saint Martin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Saint Martin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Guadeloupe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Antigua Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Guadeloupe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Antigua Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2979
+	ship = {
+		name="2nd Dominica Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Santiago de Cuba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Santo Domingo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Port Au Prince Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Santo Domingo Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=3209
+	ship = {
+		name="3rd Saint Martin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Saint Martin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Ceiba Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=3209
+	ship = {
+		name="1st La Vega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Martinique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dominica Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Saint Martin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Martinique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Puerto Rico Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Saint Martin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Dominica Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Curacao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Dominica Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Dominica Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aruba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Dominica Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Antigua Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Curacao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cayman Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cap Haitien Clipper Transport"
+		type=clipper_transport
+	}
+}
+

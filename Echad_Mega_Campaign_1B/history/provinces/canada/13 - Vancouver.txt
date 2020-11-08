@@ -1,9 +1,0 @@
-owner=CAN
-controller=CAN
-add_core=CAN
-add_core=CNK
-add_core=HDA
-trade_goods = fish
-life_rating = 35
-terrain = forest
-naval_base = 2

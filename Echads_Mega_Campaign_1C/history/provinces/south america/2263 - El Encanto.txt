@@ -1,0 +1,5 @@
+owner=VNZ
+controller=VNZ
+trade_goods = timber
+life_rating = 25
+terrain = jungle

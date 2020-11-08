@@ -1,0 +1,235 @@
+2237 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1424
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 84
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 31
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 10265
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 113
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1691
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 12
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 101
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 520
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 3746
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 577
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 4
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 35
+	}
+
+}

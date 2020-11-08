@@ -1,0 +1,102 @@
+2534 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 227
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 453
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 23
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 10446
+	}
+
+}
+2536 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 57
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1305
+	}
+
+}

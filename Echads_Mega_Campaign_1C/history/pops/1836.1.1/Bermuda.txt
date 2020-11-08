@@ -1,0 +1,58 @@
+203 = {
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 155
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 107
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2454
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = protestant
+		size= 1
+	}
+
+}

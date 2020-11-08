@@ -1,0 +1,930 @@
+#Sphere of Influence
+
+AND = {
+	value = -6
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 112
+	influence_value = 15
+	level = 4
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAT = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 106
+	influence_value = 14
+	level = 3
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DGB = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRH = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+ING = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 40
+	level = 2
+}
+JAP = {
+	value = -147
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+KAS = {
+	value = 0
+	level = 2
+}
+KAX = {
+	value = 0
+	level = 2
+}
+KTS = {
+	value = 0
+	level = 2
+}
+LBX = {
+	value = 0
+	level = 2
+}
+LIG = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 34
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 165
+	influence_value = 28
+	level = 4
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 18
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 14
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = -91
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Hasan Batuta"
+	date="1811.2.4"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Nasr ad-Dîn Mahat"
+	date="1818.8.25"
+	type=sea
+	personality="intuitive"
+	background="generals_aide"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1395
+	ship = {
+		name="1st Yogyakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tarakan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bintulu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sandakan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Palawan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Brunei Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Palawan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Api Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Api Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Samarinda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Samarinda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bintulu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Surabaya Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tarakan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Samarinda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Palawan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Samarinda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bintulu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Brunei Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Tarakan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Palawan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Api Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Yogyakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Surabaya Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Brunei Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Palawan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Sandakan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Tarakan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Brunei Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Palawan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Tarakan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Yogyakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Palawan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Tarakan Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1417
+	regiment = {
+		name="1st Samarinda Irregulars"
+		type=irregular
+		home=1429
+	}
+	regiment = {
+		name="1st Tarakan Irregulars"
+		type=irregular
+		home=1425
+	}
+	regiment = {
+		name="1st Muraleve Irregulars"
+		type=irregular
+		home=1422
+	}
+	regiment = {
+		name="1st Tarakan Artillery"
+		type=artillery
+		home=1425
+	}
+	regiment = {
+		name="1st Api Artillery"
+		type=artillery
+		home=1396
+	}
+	regiment = {
+		name="2nd Tarakan Artillery"
+		type=artillery
+		home=1425
+	}
+	regiment = {
+		name="2nd Api Artillery"
+		type=artillery
+		home=1396
+	}
+	regiment = {
+		name="1st Surabaya Irregulars"
+		type=irregular
+		home=1418
+	}
+	regiment = {
+		name="2nd Batavia Artillery"
+		type=artillery
+		home=1413
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=3223
+	ship = {
+		name="1st Kuching Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Palawan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mamuju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Palawan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bone Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bintulu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Api Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Kuching Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1419
+	regiment = {
+		name="1st Sandakan Irregulars"
+		type=irregular
+		home=1397
+	}
+	regiment = {
+		name="2nd Samarinda Irregulars"
+		type=irregular
+		home=1429
+	}
+	regiment = {
+		name="3rd Api Artillery"
+		type=artillery
+		home=1396
+	}
+	regiment = {
+		name="4th Api Artillery"
+		type=artillery
+		home=1396
+	}
+	regiment = {
+		name="1st Bintulu Artillery"
+		type=artillery
+		home=1395
+	}
+	regiment = {
+		name="1st Batavia Artillery"
+		type=artillery
+		home=1413
+	}
+	regiment = {
+		name="2nd Kuching Irregulars"
+		type=irregular
+		home=1394
+	}
+	regiment = {
+		name="3rd Bintulu Artillery"
+		type=artillery
+		home=1395
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1425
+	regiment = {
+		name="2nd Tarakan Irregulars"
+		type=irregular
+		home=1425
+	}
+	regiment = {
+		name="1st Brunei Irregulars"
+		type=irregular
+		home=1393
+	}
+	regiment = {
+		name="3rd Tarakan Irregulars"
+		type=irregular
+		home=1425
+	}
+	regiment = {
+		name="1st Kuching Irregulars"
+		type=irregular
+		home=1394
+	}
+	regiment = {
+		name="1st Zamboanga Artillery"
+		type=artillery
+		home=1462
+	}
+	regiment = {
+		name="2nd Zamboanga Artillery"
+		type=artillery
+		home=1462
+	}
+	regiment = {
+		name="1st Sandakan Artillery"
+		type=artillery
+		home=1397
+	}
+	regiment = {
+		name="1st Batavia Irregulars"
+		type=irregular
+		home=1413
+	}
+	regiment = {
+		name="2nd Bintulu Artillery"
+		type=artillery
+		home=1395
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2817
+	ship = {
+		name="1st Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kuching Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tarakan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Palawan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Palawan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bone Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pondicherry Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Samarinda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tarakan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mamuju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Kuching Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bilbao Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Tarakan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bulon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Palawan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Samarinda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="11th Palawan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="12th Palawan Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2811
+	ship = {
+		name="1st Palawan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sulu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Huelva Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2802
+	ship = {
+		name="6th Palawan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bintulu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bintulu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Kuching Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Kuching Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Palawan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Api Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2812
+	ship = {
+		name="3rd Samarinda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sandakan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Palawan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sandakan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Palawan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Sandakan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Palawan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mamuju Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="15th Fleet"
+	location=2816
+	ship = {
+		name="3rd Sandakan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Samarinda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Palawan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Tarakan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Brunei Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Palawan Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="16th Fleet"
+	location=2845
+	ship = {
+		name="1st Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Api Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tarakan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bintulu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sandakan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dunkirk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sandakan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Madras Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Palawan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Sandakan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Canterbury Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bintulu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Dunkirk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Api Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tanjore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Api Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bintulu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tanjore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Api Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Sandakan Clipper Transport"
+		type=clipper_transport
+	}
+}
+

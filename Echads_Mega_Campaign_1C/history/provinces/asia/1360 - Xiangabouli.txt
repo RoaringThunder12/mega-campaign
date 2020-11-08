@@ -1,0 +1,8 @@
+owner=MLC
+controller=MLC
+add_core=IDO
+add_core=LNA
+add_core=LUA
+trade_goods = tropical_wood
+life_rating = 30
+terrain = jungle

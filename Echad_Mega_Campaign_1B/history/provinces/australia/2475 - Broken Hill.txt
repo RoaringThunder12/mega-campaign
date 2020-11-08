@@ -1,6 +1,0 @@
-owner=X24
-controller=X24
-add_core=X24
-trade_goods = grain
-life_rating = 30
-terrain = plains
