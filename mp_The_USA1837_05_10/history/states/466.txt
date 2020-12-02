@@ -1,0 +1,36 @@
+
+state={
+	id=466
+	name="STATE_466"
+	resources={
+		aluminium=16.000
+		chromium=2.000
+	}
+
+	history={
+		owner = SWE
+		victory_points = {
+			122 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			9296 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+		add_core_of = NOR
+		add_core_of = SCA
+		add_core_of = SWE
+	}
+
+	provinces={
+		14 53 65 100 122 137 199 3049 3059 3090 3094 3114 3129 3188 3192 6072 6080 6145 6151 6176 6184 6216 9036 9047 9096 9170 9174 9196 9204 9296 11029 11101 11176 11198 11367 
+	}
+	manpower=625060
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

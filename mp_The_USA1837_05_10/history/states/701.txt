@@ -1,0 +1,30 @@
+
+state={
+	id=701
+	name="STATE_701"
+	resources={
+		aluminium=0.000
+		rubber=0.000
+	}
+
+	history={
+		owner = U73
+		victory_points = {
+			10948 1 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		10948 13210 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

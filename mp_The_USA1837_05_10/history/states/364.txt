@@ -1,0 +1,31 @@
+
+state={
+	id=364
+	name="STATE_364"
+
+	history={
+		owner = U15
+		victory_points = {
+			3704 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			3701 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = ROM
+		add_core_of = U15
+	}
+
+	provinces={
+		3701 3704 6727 6743 9683 
+	}
+	manpower=366480
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

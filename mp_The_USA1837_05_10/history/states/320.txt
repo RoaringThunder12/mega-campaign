@@ -1,0 +1,37 @@
+
+state={
+	id=320
+	name="STATE_320"
+	resources={
+		chromium=4.000
+		steel=4.000
+		tungsten=14.000
+	}
+
+	history={
+		owner = W97
+		victory_points = {
+			11936 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			11936 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = W33
+		add_core_of = W97
+		add_core_of = X48
+	}
+
+	provinces={
+		1302 4255 4379 4397 7229 7280 9988 10016 10137 10309 11909 11936 12297 
+	}
+	manpower=2675808
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

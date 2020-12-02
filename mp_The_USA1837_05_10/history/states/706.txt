@@ -1,0 +1,30 @@
+
+state={
+	id=706
+	name="STATE_706"
+	resources={
+		rubber=1.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = HOL
+		victory_points = {
+			7161 1 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		1181 1950 2034 2073 2154 4941 6027 7161 10766 10858 11934 12783 12808 12847 
+	}
+	manpower=520000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=494
+	name="STATE_494"
+	resources={
+		aluminium=1.000
+		oil=3.000
+		steel=4.000
+	}
+
+	history={
+		owner = TUR
+		victory_points = {
+			3796 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = BUL
+	}
+
+	provinces={
+		649 793 3796 3819 3952 6842 9610 9612 9769 9771 9783 11754 
+	}
+	manpower=963852
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=435
+	name="STATE_435"
+	resources={
+		aluminium=21.000
+		steel=2.000
+		tungsten=24.000
+	}
+
+	history={
+		owner = SPR
+		victory_points = {
+			3918 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = SPR
+		add_core_of = U21
+		add_core_of = U37
+	}
+
+	provinces={
+		726 738 794 874 885 903 918 920 939 3725 3727 3820 3845 3874 3918 3920 4024 6746 6867 6907 6936 9700 9770 9800 9827 9846 9872 11684 11756 11825 11843 11852 11854 13219 13220 13221 13227 13232 
+	}
+	manpower=1205896
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

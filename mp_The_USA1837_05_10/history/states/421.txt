@@ -1,0 +1,37 @@
+
+state={
+	id=421
+	name="STATE_421"
+	resources={
+		aluminium=8.000
+		chromium=2.000
+	}
+
+	history={
+		owner = V64
+		victory_points = {
+			4800 11 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = TAN
+		add_core_of = U23
+		add_core_of = U29
+		add_core_of = U47
+		add_core_of = V86
+		add_core_of = X09
+		add_core_of = X41
+	}
+
+	provinces={
+		1297 1369 1676 1685 1702 1779 1813 1816 1876 1877 4665 4680 4690 4711 4724 4734 4781 4800 4803 4818 4853 7680 7703 7713 7731 7744 7804 7819 7822 10531 10562 10580 10597 10627 10639 10646 10649 10652 10712 10713 12509 12515 12528 12563 12610 12621 12625 12628 12691 
+	}
+	manpower=416624
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

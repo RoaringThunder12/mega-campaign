@@ -1,0 +1,30 @@
+
+state={
+	id=29
+	name="STATE_29"
+
+	history={
+		owner = BRU
+		victory_points = {
+			7251 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			4421 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = V38
+	}
+
+	provinces={
+		1286 1301 1329 1361 4304 4332 4352 4421 7251 7324 7339 7352 7412 10166 10206 12222 
+	}
+	manpower=234928
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

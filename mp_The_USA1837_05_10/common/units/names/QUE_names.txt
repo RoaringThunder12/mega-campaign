@@ -1,0 +1,58 @@
+﻿QUE = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Québec" "Montréal" "Acadie" "Canada" "Cartier" "Montcalm" "De la Salle" "Détroit" "Vaudreuil" "Frontenac" "Chevalier" "Saint-Laurent" "Trois-Rivières" "Champlain" "Richelieu" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Québec" "Montréal" "Acadie" "Canada" "Cartier" "Montcalm" "De la Salle" "Détroit" "Vaudreuil" "Frontenac" "Chevalier" "Saint-Laurent" "Trois-Rivières" "Champlain" "Richelieu" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Québec" "Montréal" "Acadie" "Canada" "Cartier" "Montcalm" "De la Salle" "Détroit" "Vaudreuil" "Frontenac" "Chevalier" "Saint-Laurent" "Trois-Rivières" "Champlain" "Richelieu" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Québec" "Montréal" "Acadie" "Canada" "Cartier" "Montcalm" "De la Salle" "Détroit" "Vaudreuil" "Frontenac" "Chevalier" "Saint-Laurent" "Trois-Rivières" "Champlain" "Richelieu" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Québec" "Montréal" "Acadie" "Canada" "Cartier" "Montcalm" "De la Salle" "Détroit" "Vaudreuil" "Frontenac" "Chevalier" "Saint-Laurent" "Trois-Rivières" "Champlain" "Richelieu" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Québec" "Montréal" "Acadie" "Canada" "Cartier" "Montcalm" "De la Salle" "Détroit" "Vaudreuil" "Frontenac" "Chevalier" "Saint-Laurent" "Trois-Rivières" "Champlain" "Richelieu" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Québec" "Montréal" "Acadie" "Canada" "Cartier" "Montcalm" "De la Salle" "Détroit" "Vaudreuil" "Frontenac" "Chevalier" "Saint-Laurent" "Trois-Rivières" "Champlain" "Richelieu" 
+		}
+	}
+
+}

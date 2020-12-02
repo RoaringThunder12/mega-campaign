@@ -1,0 +1,31 @@
+
+state={
+	id=402
+	name="STATE_402"
+
+	history={
+		owner = SOV
+		victory_points = {
+			7878 11 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			7878 = {
+				naval_base = 4
+			}
+			air_base = 10
+
+		}
+		add_core_of = W47
+		add_core_of = W56
+	}
+
+	provinces={
+		1823 1839 1863 4728 4744 7878 10540 12207 12522 
+	}
+	manpower=9624
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

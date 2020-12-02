@@ -1,0 +1,31 @@
+
+state={
+	id=488
+	name="STATE_488"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = TUR
+		victory_points = {
+			11586 11 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = SER
+		add_core_of = YUG
+	}
+
+	provinces={
+		630 797 3609 3956 3984 6634 6998 9599 9602 9756 11583 11586 
+	}
+	manpower=934408
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

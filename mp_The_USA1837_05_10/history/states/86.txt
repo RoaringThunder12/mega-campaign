@@ -1,0 +1,35 @@
+
+state={
+	id=86
+	name="STATE_86"
+	resources={
+		chromium=4.000
+	}
+
+	history={
+		owner = CUB
+		victory_points = {
+			4641 13 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			4641 = {
+				naval_base = 4
+			}
+			air_base = 10
+
+		}
+		add_core_of = CUB
+		add_core_of = DOM
+		add_core_of = HAI
+	}
+
+	provinces={
+		1594 1635 4598 4641 7632 7660 10484 
+	}
+	manpower=863284
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

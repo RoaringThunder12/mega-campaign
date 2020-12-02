@@ -1,0 +1,29 @@
+
+state={
+	id=329
+	name="STATE_329"
+
+	history={
+		owner = ITA
+		victory_points = {
+			11595 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ITA
+		add_core_of = U11
+		add_core_of = V01
+	}
+
+	provinces={
+		11595 
+	}
+	manpower=228396
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

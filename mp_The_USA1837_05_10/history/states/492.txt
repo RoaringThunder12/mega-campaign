@@ -1,0 +1,33 @@
+
+state={
+	id=492
+	name="STATE_492"
+	resources={
+		aluminium=48.000
+		chromium=102.000
+	}
+
+	history={
+		owner = TUR
+		victory_points = {
+			3882 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = MAC
+		add_core_of = SER
+		add_core_of = YUG
+	}
+
+	provinces={
+		833 867 907 974 3833 3865 3882 6886 11832 11856 
+	}
+	manpower=741412
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

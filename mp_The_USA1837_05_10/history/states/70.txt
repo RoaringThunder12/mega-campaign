@@ -1,0 +1,37 @@
+
+state={
+	id=70
+	name="STATE_70"
+	resources={
+		aluminium=9.000
+		steel=0.000
+		tungsten=1.000
+	}
+
+	history={
+		owner = X67
+		victory_points = {
+			4525 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = MON
+		add_core_of = V24
+		add_core_of = V64
+		add_core_of = W34
+		add_core_of = W51
+		add_core_of = W62
+	}
+
+	provinces={
+		1551 1608 1796 1811 1871 1959 2087 3427 3978 4222 4525 4555 4612 4655 4783 4960 4986 5031 7048 7511 7578 7631 7648 7727 7803 8055 8102 8127 10363 10372 10424 10451 10499 10629 10724 10770 10854 10899 11752 12331 12348 12448 12554 12609 12706 12750 12776 12880 
+	}
+	manpower=1178192
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

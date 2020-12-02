@@ -1,0 +1,28 @@
+
+state={
+	id=474
+	name="STATE_474"
+
+	history={
+		owner = ITA
+		victory_points = {
+			969 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ITA
+		add_core_of = W75
+	}
+
+	provinces={
+		969 6661 9584 11587 
+	}
+	manpower=599244
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

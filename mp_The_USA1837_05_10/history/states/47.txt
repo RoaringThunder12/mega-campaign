@@ -1,0 +1,28 @@
+
+state={
+	id=47
+	name="STATE_47"
+
+	history={
+		owner = SPR
+		victory_points = {
+			11742 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = CAT
+		add_core_of = SPR
+	}
+
+	provinces={
+		888 3835 3891 3945 11742 
+	}
+	manpower=427448
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,58 @@
+﻿AFG = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Afghanistan" "Sher Ali Khan" "Yakub Khan" "Abdurrahman" "Pashtun" "Faizabad" "Kabul" "Ghazni" "Herat" "Jalalabad" "Kandahar" "Maymeneh" "Mazar-i-Sharif" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Afghanistan" "Sher Ali Khan" "Yakub Khan" "Abdurrahman" "Pashtun" "Faizabad" "Kabul" "Ghazni" "Herat" "Jalalabad" "Kandahar" "Maymeneh" "Mazar-i-Sharif" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Afghanistan" "Sher Ali Khan" "Yakub Khan" "Abdurrahman" "Pashtun" "Faizabad" "Kabul" "Ghazni" "Herat" "Jalalabad" "Kandahar" "Maymeneh" "Mazar-i-Sharif" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Afghanistan" "Sher Ali Khan" "Yakub Khan" "Abdurrahman" "Pashtun" "Faizabad" "Kabul" "Ghazni" "Herat" "Jalalabad" "Kandahar" "Maymeneh" "Mazar-i-Sharif" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Afghanistan" "Sher Ali Khan" "Yakub Khan" "Abdurrahman" "Pashtun" "Faizabad" "Kabul" "Ghazni" "Herat" "Jalalabad" "Kandahar" "Maymeneh" "Mazar-i-Sharif" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Afghanistan" "Sher Ali Khan" "Yakub Khan" "Abdurrahman" "Pashtun" "Faizabad" "Kabul" "Ghazni" "Herat" "Jalalabad" "Kandahar" "Maymeneh" "Mazar-i-Sharif" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Afghanistan" "Sher Ali Khan" "Yakub Khan" "Abdurrahman" "Pashtun" "Faizabad" "Kabul" "Ghazni" "Herat" "Jalalabad" "Kandahar" "Maymeneh" "Mazar-i-Sharif" 
+		}
+	}
+
+}

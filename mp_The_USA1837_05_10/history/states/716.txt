@@ -1,0 +1,26 @@
+
+state={
+	id=716
+	name="STATE_716"
+
+	history={
+		owner = FRA
+		victory_points = {
+			9962 1 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		2176 2206 2220 4171 5180 5224 8144 9962 10932 10988 11017 
+	}
+	manpower=1959400
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

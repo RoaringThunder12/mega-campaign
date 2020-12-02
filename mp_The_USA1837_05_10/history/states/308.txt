@@ -1,0 +1,36 @@
+
+state={
+	id=308
+	name="STATE_308"
+	resources={
+		chromium=1.000
+	}
+
+	history={
+		owner = MEX
+		victory_points = {
+			2075 13 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			2075 = {
+				naval_base = 4
+			}
+			air_base = 10
+
+		}
+		add_core_of = MEX
+		add_core_of = NIC
+		add_core_of = U78
+		add_core_of = V05
+	}
+
+	provinces={
+		1988 2075 10728 12738 
+	}
+	manpower=309792
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

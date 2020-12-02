@@ -1,8 +1,0 @@
-owner=VIJ
-controller=VIJ
-add_core=AND
-add_core=BAH
-add_core=HND
-trade_goods = dye
-life_rating = 32
-terrain = plains

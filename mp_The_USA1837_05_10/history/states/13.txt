@@ -1,0 +1,36 @@
+
+state={
+	id=13
+	name="STATE_13"
+	resources={
+		aluminium=0.000
+		chromium=3.000
+		steel=5.000
+	}
+
+	history={
+		owner = U12
+		victory_points = {
+			10088 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			10088 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+		add_core_of = RAJ
+		add_core_of = V25
+	}
+
+	provinces={
+		10088 10116 12063 
+	}
+	manpower=1148104
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

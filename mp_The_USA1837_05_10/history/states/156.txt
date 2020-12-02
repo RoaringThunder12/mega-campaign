@@ -1,0 +1,31 @@
+
+state={
+	id=156
+	name="STATE_156"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = ETH
+		victory_points = {
+			5041 13 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = ETH
+		add_core_of = X03
+	}
+
+	provinces={
+		1984 2040 2072 4954 5041 5097 7944 
+	}
+	manpower=2638240
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

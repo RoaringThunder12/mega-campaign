@@ -1,0 +1,33 @@
+
+state={
+	id=524
+	name="STATE_524"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = TUR
+		victory_points = {
+			1149 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			1149 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+		add_core_of = TUN
+	}
+
+	provinces={
+		1149 1189 12039 
+	}
+	manpower=466768
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,176 @@
+﻿ROM_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { ROM }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+	}
+}
+
+ROM_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { ROM }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+	}
+}
+
+ROM_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { ROM }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+	}
+}
+
+ROM_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { ROM }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+	}
+}
+
+ROM_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { ROM }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+	}
+}
+
+ROM_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { ROM }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+	}
+}
+
+ROM_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { ROM }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+	}
+}
+
+ROM_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { ROM }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+	}
+}
+
+ROM_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { ROM }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+	}
+}
+
+ROM_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { ROM }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+	}
+}
+
+ROM_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { ROM }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+	}
+}
+

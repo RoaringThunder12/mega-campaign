@@ -1,6 +1,0 @@
-owner=DLH
-controller=DLH
-add_core=ARA
-trade_goods = wool
-life_rating = 10
-terrain = desert

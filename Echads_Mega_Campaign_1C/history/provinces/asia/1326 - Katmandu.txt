@@ -1,7 +1,0 @@
-owner=BNG
-controller=BNG
-add_core=HND
-add_core=KTU
-trade_goods = tea
-life_rating = 25
-terrain = mountain

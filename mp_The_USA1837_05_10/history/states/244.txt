@@ -1,0 +1,30 @@
+
+state={
+	id=244
+	name="STATE_244"
+	resources={
+		rubber=12.000
+	}
+
+	history={
+		owner = BRU
+		victory_points = {
+			10191 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = X32
+	}
+
+	provinces={
+		1298 4301 7293 7321 10175 10191 10219 12151 12162 12219 12234 
+	}
+	manpower=880856
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

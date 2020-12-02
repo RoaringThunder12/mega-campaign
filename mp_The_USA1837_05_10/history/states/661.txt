@@ -1,0 +1,31 @@
+
+state={
+	id=661
+	name="STATE_661"
+	resources={
+		aluminium=9.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			6631 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = ITA
+		add_core_of = U42
+	}
+
+	provinces={
+		6631 9598 11598 
+	}
+	manpower=378612
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

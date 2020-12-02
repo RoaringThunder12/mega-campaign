@@ -1,0 +1,36 @@
+
+state={
+	id=215
+	name="STATE_215"
+	resources={
+		oil=4.000
+		steel=10.000
+	}
+
+	history={
+		owner = SOV
+		victory_points = {
+			9427 11 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = POL
+		add_core_of = SLO
+		add_core_of = V33
+		add_core_of = W01
+		add_core_of = W61
+		add_core_of = X74
+	}
+
+	provinces={
+		417 442 3410 9412 9427 11398 11413 
+	}
+	manpower=2049024
+	buildings_max_level_factor=1.000
+	state_category=town
+}

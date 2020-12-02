@@ -1,6 +1,0 @@
-owner=MOR
-controller=MOR
-add_core=FUL
-trade_goods = timber
-life_rating = 15
-terrain = hills

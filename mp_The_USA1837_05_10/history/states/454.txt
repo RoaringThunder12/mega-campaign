@@ -1,0 +1,32 @@
+
+state={
+	id=454
+	name="STATE_454"
+	resources={
+		aluminium=2.000
+		chromium=51.000
+		steel=9.000
+	}
+
+	history={
+		owner = SPR
+		victory_points = {
+			1688 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = SAF
+	}
+
+	provinces={
+		1688 2171 2213 7900 10400 10566 
+	}
+	manpower=517632
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

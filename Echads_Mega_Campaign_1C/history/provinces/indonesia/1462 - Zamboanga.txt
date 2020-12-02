@@ -1,7 +1,0 @@
-owner=BRU
-controller=BRU
-add_core=BRU
-trade_goods = iron
-life_rating = 30
-terrain = hills
-naval_base = 2

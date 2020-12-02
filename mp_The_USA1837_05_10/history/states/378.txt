@@ -1,0 +1,30 @@
+
+state={
+	id=378
+	name="STATE_378"
+
+	history={
+		owner = SOV
+		victory_points = {
+			9417 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = SOV
+		add_core_of = W08
+		add_core_of = X06
+		add_core_of = X64
+	}
+
+	provinces={
+		426 449 484 500 509 533 585 3417 3431 3443 3464 3478 3489 3505 3519 3540 6417 6445 6468 6490 6503 6528 6544 6566 9415 9417 9430 9459 9464 9474 9488 9516 9529 9540 9565 11400 11403 11418 11434 11450 11459 11476 11501 11527 11555 11559 
+	}
+	manpower=538296
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

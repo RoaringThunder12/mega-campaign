@@ -1,0 +1,33 @@
+
+state={
+	id=95
+	name="STATE_95"
+	resources={
+		aluminium=8.000
+		steel=2.000
+	}
+
+	history={
+		owner = X81
+		victory_points = {
+			4901 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = AZR
+		add_core_of = KUR
+		add_core_of = X14
+	}
+
+	provinces={
+		1636 1822 1896 2071 4553 4755 4825 4901 7604 10454 10523 12793 12861 
+	}
+	manpower=1925812
+	buildings_max_level_factor=1.000
+	state_category=town
+}

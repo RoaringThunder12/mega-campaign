@@ -1,0 +1,33 @@
+
+state={
+	id=211
+	name="STATE_211"
+	resources={
+		aluminium=58.000
+		oil=1.000
+		steel=175.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			9570 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = POL
+		add_core_of = V33
+	}
+
+	provinces={
+		479 506 552 3283 3438 3485 3510 3545 6462 6464 6512 6534 6595 9457 9470 9511 9570 11467 11517 13205 
+	}
+	manpower=2997820
+	buildings_max_level_factor=1.000
+	state_category=city
+}

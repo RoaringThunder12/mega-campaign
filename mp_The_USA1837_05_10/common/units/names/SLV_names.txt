@@ -1,0 +1,58 @@
+﻿SLV = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Slovenija" "Ljubljana" "Maribor" "Celje" "Kranj" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Anton Haus" "Rudolf Maister" "Stane" "Karel Destovnik Kajuh" "Viktor Avbelj" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Ivana" "Metka" "Štefka" "Duša" "Nataša" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Mali Srpan" "Veliki Srpan" "Prosinec" "Mali Traven" "Veliki Traven" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Drava" "Kolpa" "Mura" "Sava" "Savinja" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Blejsko Jezero" "Blejski Grad" "Tržaški Zaliv" "Karavanke" "Kras" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Miroslav Stumberger" "Ivan Grohar" "Jožef Tominc" "Matija Cop" "Anton Tomaž Linhart" 
+		}
+	}
+
+}

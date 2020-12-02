@@ -1,0 +1,58 @@
+﻿W81 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Carlo Ludovico" "Castruccio Castracani" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Carlo Ludovico" "Castruccio Castracani" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Carlo Ludovico" "Castruccio Castracani" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Carlo Ludovico" "Castruccio Castracani" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Carlo Ludovico" "Castruccio Castracani" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Carlo Ludovico" "Castruccio Castracani" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Carlo Ludovico" "Castruccio Castracani" "Aquila" "Aurora" "Azzardoso" "Beroldo" "Condottiero" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
+		}
+	}
+
+}

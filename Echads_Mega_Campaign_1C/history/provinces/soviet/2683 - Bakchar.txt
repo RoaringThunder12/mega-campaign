@@ -1,8 +1,0 @@
-owner=RUS
-controller=RUS
-add_core=SIB
-add_core=UGR
-add_core=X04
-trade_goods = coal
-life_rating = 35
-terrain = forest

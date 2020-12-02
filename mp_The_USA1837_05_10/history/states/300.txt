@@ -1,0 +1,36 @@
+
+state={
+	id=300
+	name="STATE_300"
+	resources={
+		oil=11.000
+		rubber=2.000
+		steel=4.000
+	}
+
+	history={
+		owner = MEX
+		victory_points = {
+			12721 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			10895 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = MEX
+		add_core_of = V46
+	}
+
+	provinces={
+		1945 1952 4946 7921 7973 8003 8057 10738 10853 10871 10895 12721 
+	}
+	manpower=388700
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=59
+	name="STATE_59"
+	resources={
+		aluminium=2.000
+		rubber=3.000
+		steel=2.000
+		tungsten=5.000
+	}
+
+	history={
+		owner = X67
+		victory_points = {
+			4196 9 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			air_base = 5
+
+		}
+		add_core_of = CHI
+		add_core_of = W91
+		add_core_of = X69
+		add_core_of = X91
+	}
+
+	provinces={
+		1006 1066 1094 1110 1138 1166 1193 4053 4070 4099 4113 4169 4196 7027 7071 7099 7131 9972 10010 10012 10042 10054 10069 10084 10093 11961 11986 12057 12084 
+	}
+	manpower=18690636
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

@@ -1,0 +1,41 @@
+
+state={
+	id=335
+	name="STATE_335"
+	resources={
+		steel=20.000
+	}
+
+	history={
+		owner = MOR
+		victory_points = {
+			7215 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			12087 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+		add_core_of = MOR
+		SPR = {
+			set_province_controller = 4199
+			set_province_controller = 7215
+			set_province_controller = 9945
+			set_province_controller = 10113
+			set_province_controller = 12087
+			set_province_controller = 12100
+		}
+	}
+
+	provinces={
+		4199 7215 9945 10113 12087 12100 
+	}
+	manpower=333732
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=554
+	name="STATE_554"
+	resources={
+		aluminium=18.000
+	}
+
+	history={
+		owner = USA
+		victory_points = {
+			4540 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = CSA
+		add_core_of = USA
+		add_core_of = W78
+	}
+
+	provinces={
+		1441 1523 1534 1564 1621 4449 4540 4569 7449 7607 10333 10370 10391 10516 10717 12346 12361 12463 
+	}
+	manpower=423520
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=12
+	name="STATE_12"
+	resources={
+		rubber=0.000
+		steel=9.000
+		tungsten=7.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			12338 21 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 6
+			arms_factory = 1
+			dockyard = 3
+			air_base = 10
+
+		}
+		add_core_of = BAN
+		add_core_of = RAJ
+		add_core_of = W50
+	}
+
+	provinces={
+		1609 4204 4616 4644 7565 7662 9993 10077 10389 10416 10443 11929 12338 12423 13208 
+	}
+	manpower=19076316
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

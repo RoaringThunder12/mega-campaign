@@ -1,0 +1,42 @@
+
+state={
+	id=79
+	name="STATE_79"
+	resources={
+		aluminium=1.000
+		oil=2.000
+		rubber=2.000
+		steel=5.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = X67
+		victory_points = {
+			12705 14 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 10
+
+		}
+		add_core_of = CHI
+		add_core_of = TIB
+		add_core_of = U10
+		add_core_of = U22
+		add_core_of = V63
+		add_core_of = V81
+		add_core_of = X45
+		add_core_of = X67
+		add_core_of = X71
+	}
+
+	provinces={
+		1257 1395 1918 1999 2045 2067 4375 4403 4925 4937 4999 5193 7294 7988 8104 8126 9966 10132 10726 10787 10817 10841 10903 11972 12141 12705 12724 12819 12837 
+	}
+	manpower=16051400
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

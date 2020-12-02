@@ -1,0 +1,33 @@
+
+state={
+	id=607
+	name="STATE_607"
+	resources={
+		aluminium=0.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = U44
+		victory_points = {
+			7564 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			7564 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		7535 7564 10430 10445 
+	}
+	manpower=38600
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

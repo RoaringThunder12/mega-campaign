@@ -1,0 +1,58 @@
+﻿X93 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Frankfurt" "Karl Theodor" "Erzbischof" "Kurfürst" "Fulda" "Hanau" "Aschaffenburg" "Wetzlar" "Friedrich Jucho" "Heinrich von Gagern" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Frankfurt" "Karl Theodor" "Erzbischof" "Kurfürst" "Fulda" "Hanau" "Aschaffenburg" "Wetzlar" "Friedrich Jucho" "Heinrich von Gagern" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Frankfurt" "Karl Theodor" "Erzbischof" "Kurfürst" "Fulda" "Hanau" "Aschaffenburg" "Wetzlar" "Friedrich Jucho" "Heinrich von Gagern" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Frankfurt" "Karl Theodor" "Erzbischof" "Kurfürst" "Fulda" "Hanau" "Aschaffenburg" "Wetzlar" "Friedrich Jucho" "Heinrich von Gagern" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Frankfurt" "Karl Theodor" "Erzbischof" "Kurfürst" "Fulda" "Hanau" "Aschaffenburg" "Wetzlar" "Friedrich Jucho" "Heinrich von Gagern" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Frankfurt" "Karl Theodor" "Erzbischof" "Kurfürst" "Fulda" "Hanau" "Aschaffenburg" "Wetzlar" "Friedrich Jucho" "Heinrich von Gagern" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Frankfurt" "Karl Theodor" "Erzbischof" "Kurfürst" "Fulda" "Hanau" "Aschaffenburg" "Wetzlar" "Friedrich Jucho" "Heinrich von Gagern" 
+		}
+	}
+
+}

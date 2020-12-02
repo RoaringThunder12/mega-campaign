@@ -1,0 +1,32 @@
+
+state={
+	id=326
+	name="STATE_326"
+	resources={
+		chromium=14.000
+		steel=4.000
+	}
+
+	history={
+		owner = SPR
+		victory_points = {
+			5106 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = MLW
+		add_core_of = SAF
+	}
+
+	provinces={
+		5106 5217 
+	}
+	manpower=54488
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

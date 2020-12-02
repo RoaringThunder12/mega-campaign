@@ -1,0 +1,32 @@
+
+state={
+	id=192
+	name="STATE_192"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			564 13 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = GER
+		add_core_of = U17
+		add_core_of = W22
+	}
+
+	provinces={
+		526 564 6513 6549 9375 9524 11402 11445 11468 11493 
+	}
+	manpower=1410464
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

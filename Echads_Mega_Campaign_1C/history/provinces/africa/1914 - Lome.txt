@@ -1,6 +1,0 @@
-owner=ITA
-controller=ITA
-trade_goods = fish
-life_rating = 15
-terrain = plains
-colonial=2

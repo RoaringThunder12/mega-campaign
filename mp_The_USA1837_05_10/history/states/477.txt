@@ -1,0 +1,31 @@
+
+state={
+	id=477
+	name="STATE_477"
+	resources={
+		steel=11.000
+	}
+
+	history={
+		owner = MOR
+		victory_points = {
+			4116 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = ALG
+		add_core_of = V88
+	}
+
+	provinces={
+		3991 4116 4146 4150 7008 7040 7065 10045 10059 12018 12020 12760 13074 13077 
+	}
+	manpower=1031572
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

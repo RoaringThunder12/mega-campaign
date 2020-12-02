@@ -1,0 +1,35 @@
+
+state={
+	id=173
+	name="STATE_173"
+	resources={
+		aluminium=9.000
+		steel=12.000
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			6766 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = FRA
+		add_core_of = U20
+		add_core_of = V23
+		add_core_of = W13
+		add_core_of = X37
+	}
+
+	provinces={
+		943 3749 3915 3948 6766 6775 6931 9723 11702 
+	}
+	manpower=1653688
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

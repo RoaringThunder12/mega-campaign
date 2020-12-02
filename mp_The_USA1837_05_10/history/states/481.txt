@@ -1,0 +1,32 @@
+
+state={
+	id=481
+	name="STATE_481"
+
+	history={
+		owner = SPR
+		victory_points = {
+			9793 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			9793 = {
+				naval_base = 4
+			}
+			air_base = 5
+
+		}
+		add_core_of = CAT
+		add_core_of = SPR
+		add_core_of = TUN
+	}
+
+	provinces={
+		7114 9793 9845 
+	}
+	manpower=258508
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

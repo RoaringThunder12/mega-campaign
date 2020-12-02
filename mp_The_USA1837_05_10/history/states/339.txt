@@ -1,0 +1,16 @@
+
+state={
+	id=339
+	name="STATE_339"
+	impassable = yes
+
+	history={
+	}
+
+	provinces={
+		1095 1958 7041 8088 
+	}
+	manpower=17564
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

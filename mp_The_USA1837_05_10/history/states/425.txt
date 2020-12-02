@@ -1,0 +1,30 @@
+
+state={
+	id=425
+	name="STATE_425"
+
+	history={
+		owner = V64
+		victory_points = {
+			4714 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = MON
+		add_core_of = U29
+		add_core_of = U56
+		add_core_of = W51
+	}
+
+	provinces={
+		4714 4823 4849 7693 7737 12590 12737 
+	}
+	manpower=82572
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

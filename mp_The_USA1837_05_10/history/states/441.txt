@@ -1,0 +1,35 @@
+
+state={
+	id=441
+	name="STATE_441"
+	resources={
+		steel=8.000
+		tungsten=300.000
+	}
+
+	history={
+		owner = SPR
+		victory_points = {
+			9817 13 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			9817 = {
+				naval_base = 4
+			}
+			air_base = 10
+
+		}
+		add_core_of = POR
+		add_core_of = SPR
+	}
+
+	provinces={
+		724 845 877 889 938 3892 3969 6818 6921 6941 6996 9787 9817 11673 11885 
+	}
+	manpower=1902488
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

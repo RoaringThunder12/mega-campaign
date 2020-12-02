@@ -1,0 +1,27 @@
+
+state={
+	id=602
+	name="STATE_602"
+
+	history={
+		owner = U12
+		victory_points = {
+			4967 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = RAJ
+	}
+
+	provinces={
+		4967 
+	}
+	manpower=34464
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

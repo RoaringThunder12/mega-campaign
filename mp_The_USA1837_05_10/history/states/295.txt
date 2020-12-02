@@ -1,0 +1,33 @@
+
+state={
+	id=295
+	name="STATE_295"
+	resources={
+		tungsten=27.000
+	}
+
+	history={
+		owner = U12
+		victory_points = {
+			1908 20 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 10
+
+		}
+		add_core_of = RAJ
+		add_core_of = W40
+		add_core_of = W84
+		add_core_of = W89
+	}
+
+	provinces={
+		1199 1908 2054 2092 4149 4971 4984 7905 7998 10847 12829 12886 
+	}
+	manpower=5127196
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

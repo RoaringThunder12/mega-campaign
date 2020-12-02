@@ -1,0 +1,33 @@
+
+state={
+	id=719
+	name="STATE_719"
+	resources={
+		aluminium=3.000
+		chromium=3.000
+		rubber=0.000
+		steel=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			12908 1 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		2159 5164 10972 12908 
+	}
+	manpower=768300
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

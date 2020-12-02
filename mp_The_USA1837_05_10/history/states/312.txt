@@ -1,0 +1,33 @@
+
+state={
+	id=312
+	name="STATE_312"
+	resources={
+		steel=0.000
+	}
+
+	history={
+		owner = W97
+		victory_points = {
+			1607 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = BRM
+		add_core_of = V59
+		add_core_of = W33
+		add_core_of = W66
+	}
+
+	provinces={
+		1607 4175 4654 7603 7647 7909 7974 12317 
+	}
+	manpower=441336
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

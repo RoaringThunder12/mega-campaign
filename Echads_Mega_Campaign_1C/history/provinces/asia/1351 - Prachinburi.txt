@@ -1,9 +1,0 @@
-owner=MLC
-controller=MLC
-add_core=IDO
-add_core=MLC
-add_core=SIA
-trade_goods = grain
-life_rating = 30
-terrain = jungle
-naval_base = 1

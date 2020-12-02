@@ -1,0 +1,35 @@
+
+state={
+	id=469
+	name="STATE_469"
+	resources={
+		aluminium=11.000
+		steel=60.000
+	}
+
+	history={
+		owner = SWE
+		victory_points = {
+			6050 13 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			6050 = {
+				naval_base = 4
+			}
+			air_base = 10
+
+		}
+		add_core_of = SCA
+		add_core_of = SWE
+	}
+
+	provinces={
+		35 69 77 114 147 156 161 3005 3070 3106 3128 3141 3148 3182 6028 6050 6084 6093 6123 6127 6147 6164 6188 6195 6209 6311 6397 9054 9068 9109 9138 9148 9149 9173 9182 9185 9193 9209 9218 9308 9393 11044 11053 11070 11082 11114 11163 11188 11197 11278 11289 11380 
+	}
+	manpower=1454237
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

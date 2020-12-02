@@ -1,0 +1,31 @@
+
+state={
+	id=179
+	name="STATE_179"
+	resources={
+		aluminium=1.000
+		rubber=0.000
+		steel=0.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			10803 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		10803 
+	}
+	manpower=101168
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

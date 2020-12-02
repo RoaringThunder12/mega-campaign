@@ -1,0 +1,33 @@
+
+state={
+	id=218
+	name="STATE_218"
+	resources={
+		aluminium=13.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			9630 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = AUS
+		add_core_of = GER
+		add_core_of = ITA
+		add_core_of = V96
+	}
+
+	provinces={
+		656 6675 9630 11615 
+	}
+	manpower=108488
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

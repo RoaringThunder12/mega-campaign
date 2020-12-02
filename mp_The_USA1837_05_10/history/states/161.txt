@@ -1,0 +1,33 @@
+
+state={
+	id=161
+	name="STATE_161"
+	resources={
+		aluminium=5.000
+		steel=15.000
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			11549 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = FRA
+		add_core_of = U20
+		add_core_of = W18
+	}
+
+	provinces={
+		551 3402 3506 6545 9490 11549 11732 13011 
+	}
+	manpower=1398128
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

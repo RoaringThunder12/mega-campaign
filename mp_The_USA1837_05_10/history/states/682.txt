@@ -1,0 +1,21 @@
+
+state={
+	id=682
+	name="STATE_682"
+	resources={
+		aluminium=1.000
+		rubber=0.000
+		steel=4.000
+	}
+	impassable = yes
+
+	history={
+	}
+
+	provinces={
+		1897 1962 7943 8035 10771 10779 10838 
+	}
+	manpower=56400
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

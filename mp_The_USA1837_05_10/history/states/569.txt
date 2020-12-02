@@ -1,0 +1,28 @@
+
+state={
+	id=569
+	name="STATE_569"
+
+	history={
+		owner = USA
+		victory_points = {
+			3823 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = CSA
+		add_core_of = USA
+	}
+
+	provinces={
+		788 865 873 951 1506 3823 3925 6846 7558 9779 9931 10343 10412 10439 11738 11841 11873 
+	}
+	manpower=978964
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

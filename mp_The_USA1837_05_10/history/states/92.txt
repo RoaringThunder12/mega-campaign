@@ -1,0 +1,27 @@
+
+state={
+	id=92
+	name="STATE_92"
+
+	history={
+		owner = X81
+		victory_points = {
+			1599 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = GEO
+	}
+
+	provinces={
+		1599 4605 9702 12309 
+	}
+	manpower=299816
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

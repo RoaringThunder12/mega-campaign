@@ -1,0 +1,35 @@
+
+state={
+	id=471
+	name="STATE_471"
+
+	history={
+		owner = FRA
+		victory_points = {
+			778 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = FRA
+		add_core_of = V23
+		FRA = {
+			set_province_controller = 778
+			set_province_controller = 6609
+			set_province_controller = 9603
+			set_province_controller = 9745
+			set_province_controller = 11573
+		}
+	}
+
+	provinces={
+		778 6609 9603 9745 11573 
+	}
+	manpower=595632
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

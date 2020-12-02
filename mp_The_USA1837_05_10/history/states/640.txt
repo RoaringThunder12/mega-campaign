@@ -1,0 +1,35 @@
+
+state={
+	id=640
+	name="STATE_640"
+	resources={
+		aluminium=4.000
+		steel=4.000
+		tungsten=22.000
+	}
+
+	history={
+		owner = VEN
+		victory_points = {
+			2106 11 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = ARG
+		add_core_of = U25
+		add_core_of = V02
+		add_core_of = X68
+	}
+
+	provinces={
+		2106 2208 5143 8255 10986 
+	}
+	manpower=88916
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

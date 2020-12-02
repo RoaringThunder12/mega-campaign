@@ -1,0 +1,31 @@
+
+state={
+	id=245
+	name="STATE_245"
+	resources={
+		rubber=3.000
+	}
+
+	history={
+		owner = U44
+		victory_points = {
+			12190 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = V89
+		add_core_of = X32
+	}
+
+	provinces={
+		1326 1339 1355 4358 12178 12190 12206 13001 
+	}
+	manpower=138804
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

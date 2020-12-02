@@ -1,0 +1,37 @@
+
+state={
+	id=256
+	name="STATE_256"
+	resources={
+		aluminium=2.000
+		rubber=2.000
+		steel=2.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			1891 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = BEN
+		add_core_of = V20
+		add_core_of = V28
+		add_core_of = W19
+		add_core_of = W64
+		add_core_of = X78
+	}
+
+	provinces={
+		1891 1932 12817 
+	}
+	manpower=1643992
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

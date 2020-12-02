@@ -1,0 +1,35 @@
+
+state={
+	id=75
+	name="STATE_75"
+	resources={
+		aluminium=3.000
+		steel=3.000
+	}
+
+	history={
+		owner = X67
+		victory_points = {
+			12062 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 1
+
+		}
+		add_core_of = CHI
+		add_core_of = U48
+		add_core_of = V44
+		add_core_of = W73
+		add_core_of = X67
+	}
+
+	provinces={
+		1069 1084 1169 1188 4010 4037 4058 7092 7129 7160 7189 9987 10043 10072 10119 11933 11962 12015 12045 12062 12069 12093 
+	}
+	manpower=22396248
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

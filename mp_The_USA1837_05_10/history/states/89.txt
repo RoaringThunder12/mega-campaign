@@ -1,0 +1,32 @@
+
+state={
+	id=89
+	name="STATE_89"
+
+	history={
+		owner = CUB
+		victory_points = {
+			7123 13 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			177 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = CUB
+		add_core_of = V07
+		add_core_of = X83
+	}
+
+	provinces={
+		177 7123 
+	}
+	manpower=178428
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

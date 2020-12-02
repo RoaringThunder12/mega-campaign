@@ -1,0 +1,31 @@
+
+state={
+	id=605
+	name="STATE_605"
+
+	history={
+		owner = U73
+		victory_points = {
+			13002 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			13002 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = AST
+		add_core_of = U12
+	}
+
+	provinces={
+		13002 
+	}
+	manpower=39100
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

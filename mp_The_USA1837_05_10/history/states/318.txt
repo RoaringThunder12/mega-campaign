@@ -1,0 +1,29 @@
+
+state={
+	id=318
+	name="STATE_318"
+
+	history={
+		owner = W97
+		victory_points = {
+			10177 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = CAM
+		add_core_of = W33
+		add_core_of = W97
+	}
+
+	provinces={
+		1324 1353 1620 4251 4302 4330 4359 4639 7319 7376 7404 7432 7645 10134 10177 10204 10289 10317 10467 12150 12191 12260 12447 12460 12475 
+	}
+	manpower=960135
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

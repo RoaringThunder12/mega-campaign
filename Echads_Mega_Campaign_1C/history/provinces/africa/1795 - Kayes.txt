@@ -1,8 +1,0 @@
-owner=ITA
-controller=FRA
-add_core=FUL
-add_core=WOL
-trade_goods = wool
-life_rating = 15
-terrain = plains
-colonial=2

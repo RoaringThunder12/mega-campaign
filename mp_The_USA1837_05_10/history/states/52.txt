@@ -1,0 +1,32 @@
+
+state={
+	id=52
+	name="STATE_52"
+	resources={
+		steel=29.000
+	}
+
+	history={
+		owner = X67
+		victory_points = {
+			7763 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = CHI
+		add_core_of = MAN
+		add_core_of = V74
+	}
+
+	provinces={
+		675 1724 1802 1842 4246 4701 4725 4779 4805 4829 7616 7672 7748 7754 7763 7801 10655 10722 12192 12261 12263 12654 12657 12678 
+	}
+	manpower=643124
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=705
+	name="STATE_705"
+	resources={
+		rubber=8.000
+		tungsten=6.000
+	}
+
+	history={
+		owner = HOL
+		victory_points = {
+			4515 1 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		191 1516 1817 1929 1968 4515 12795 12907 
+	}
+	manpower=832400
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

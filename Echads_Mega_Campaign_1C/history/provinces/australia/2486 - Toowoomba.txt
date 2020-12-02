@@ -1,5 +1,0 @@
-owner=X25
-controller=X25
-trade_goods = cattle
-life_rating = 30
-terrain = woods

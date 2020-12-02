@@ -1,7 +1,0 @@
-owner=AND
-controller=BNG
-add_core=AND
-add_core=HND
-trade_goods = opium
-life_rating = 32
-terrain = plains

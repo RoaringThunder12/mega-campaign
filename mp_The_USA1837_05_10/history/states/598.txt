@@ -1,0 +1,39 @@
+
+state={
+	id=598
+	name="STATE_598"
+	resources={
+		aluminium=5.000
+		chromium=12.000
+		steel=13.000
+		tungsten=6.000
+	}
+
+	history={
+		owner = U12
+		victory_points = {
+			10756 13 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			10255 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = RAJ
+		add_core_of = U12
+		add_core_of = W04
+		add_core_of = X10
+	}
+
+	provinces={
+		1228 1430 4237 4321 4365 4414 5032 7090 7297 7310 7340 7372 10001 10152 10255 10296 10756 10897 11924 11978 12180 12241 12462 12779 
+	}
+	manpower=6469480
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

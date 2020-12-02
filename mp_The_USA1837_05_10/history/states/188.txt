@@ -1,0 +1,34 @@
+
+state={
+	id=188
+	name="STATE_188"
+	resources={
+		steel=8.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			11519 11 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = BEL
+		add_core_of = LUX
+		add_core_of = U17
+		add_core_of = W69
+		add_core_of = WLL
+	}
+
+	provinces={
+		3488 6537 6583 9418 11407 11519 
+	}
+	manpower=930432
+	buildings_max_level_factor=1.000
+	state_category=town
+}

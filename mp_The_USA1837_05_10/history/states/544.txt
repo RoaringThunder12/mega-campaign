@@ -1,0 +1,27 @@
+
+state={
+	id=544
+	name="STATE_544"
+
+	history={
+		owner = USA
+		victory_points = {
+			4723 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = USA
+	}
+
+	provinces={
+		1815 4610 4723 4794 4820 7688 7814 7888 10640 10711 12561 12633 12651 
+	}
+	manpower=33748
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=208
+	name="STATE_208"
+
+	history={
+		owner = GER
+		victory_points = {
+			11542 22 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = CZE
+		add_core_of = V55
+		add_core_of = V70
+		add_core_of = X73
+		add_core_of = X74
+	}
+
+	provinces={
+		424 445 469 494 543 583 3418 3462 3585 5283 6418 6440 6470 6592 7857 9414 9421 9429 9541 9555 9569 11401 11414 11432 11525 11542 11556 
+	}
+	manpower=5120880
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

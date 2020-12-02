@@ -1,0 +1,28 @@
+
+state={
+	id=409
+	name="STATE_409"
+
+	history={
+		owner = SOV
+		victory_points = {
+			4333 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = KAZ
+		add_core_of = U23
+	}
+
+	provinces={
+		1223 1229 1276 1309 1363 1375 1391 1418 1662 1680 1694 1879 4232 4238 4277 4281 4309 4333 4369 4488 4578 4581 4638 4670 4685 4850 7243 7298 7317 7326 7357 7383 7392 7425 7486 7600 7657 7708 7741 7874 10202 10211 10220 10239 10268 10275 10277 10308 10353 10452 10630 10633 12111 12121 12152 12177 12185 12194 12257 12285 12329 12471 12616 12619 
+	}
+	manpower=338552
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

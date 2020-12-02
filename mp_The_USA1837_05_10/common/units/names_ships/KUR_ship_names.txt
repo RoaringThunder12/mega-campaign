@@ -1,0 +1,176 @@
+﻿KUR_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { KUR }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Abathur" "Adamn Kasia" "Aesma Daeva" "Agas" "Ahriman" "Ahura" "Ahura Mazda" "Ahurani" "Airyaman" "Aka Manah" "Aladdin" "Allatum" "Amashaspan" "Ameratat" "Amesha Spentas" "Anahita" "Angra Mainyu" "Anjuman" "Apam-natat" "Apaosa" "Aredvi" "Arishtat" "Armaiti" "Arsaces" "Asha vahista" "Asman" "Asto Vidatu" "Astvat-Ereta" "Atar" "Azi Dahaka" "Baga" "Bahram" "Burijas" "Bushyasta" "Buyasta" "Camros" "Daena" "Daevas" "Ahaka" "Dahhak" "Dena" "Dev" "Diwe" "Drug" "Drvaspa" "Frashegird" "Fravashis" "Gandarewa" "Gao-kerena" "Gayomard" "Gayomart" "Geus-Tasan" "Geus-Urvan" "Haoma" "Haurvatat" "Humay" "Hvar" "Hvarekhshaeta" "Indar" "Indra" "Izha" "Jamshid" "Jeh" "Karshipta" "Kavi" "Khara" "Khshathra vairya" "Kundrav" "Mah" "Mahre" "Mahrianag" "Manu" "Manuchihir" "Mao" "Mashyane" "Mashye" "Menog" "Mithra" "Nairyosangha" "Nanghaithya" "Neriosang" "Ormazd" "Peris" "Peshdadians" "Rapithwin" "Rashnu" "Rustam" "Saurva" "Simurgh" "Spenta Mainyu" "Sraosa" "Srosh" "Tawrich" "Thunaupa" "Tistrya" "Tushnamatay" "Vanant" "Vata" "Verethragna" "Vohu Manah" "Vouruskasha" "Yam" "Yasht" "Yazata" "Yezidi" "Yima" "Zal" "Zam" "Zam-Armatay" "Zarathustra" "Zarich" "Zend-Avesta" "Zurva" 
+	}
+}
+
+KUR_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { KUR }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Abathur" "Adamn Kasia" "Aesma Daeva" "Agas" "Ahriman" "Ahura" "Ahura Mazda" "Ahurani" "Airyaman" "Aka Manah" "Aladdin" "Allatum" "Amashaspan" "Ameratat" "Amesha Spentas" "Anahita" "Angra Mainyu" "Anjuman" "Apam-natat" "Apaosa" "Aredvi" "Arishtat" "Armaiti" "Arsaces" "Asha vahista" "Asman" "Asto Vidatu" "Astvat-Ereta" "Atar" "Azi Dahaka" "Baga" "Bahram" "Burijas" "Bushyasta" "Buyasta" "Camros" "Daena" "Daevas" "Ahaka" "Dahhak" "Dena" "Dev" "Diwe" "Drug" "Drvaspa" "Frashegird" "Fravashis" "Gandarewa" "Gao-kerena" "Gayomard" "Gayomart" "Geus-Tasan" "Geus-Urvan" "Haoma" "Haurvatat" "Humay" "Hvar" "Hvarekhshaeta" "Indar" "Indra" "Izha" "Jamshid" "Jeh" "Karshipta" "Kavi" "Khara" "Khshathra vairya" "Kundrav" "Mah" "Mahre" "Mahrianag" "Manu" "Manuchihir" "Mao" "Mashyane" "Mashye" "Menog" "Mithra" "Nairyosangha" "Nanghaithya" "Neriosang" "Ormazd" "Peris" "Peshdadians" "Rapithwin" "Rashnu" "Rustam" "Saurva" "Simurgh" "Spenta Mainyu" "Sraosa" "Srosh" "Tawrich" "Thunaupa" "Tistrya" "Tushnamatay" "Vanant" "Vata" "Verethragna" "Vohu Manah" "Vouruskasha" "Yam" "Yasht" "Yazata" "Yezidi" "Yima" "Zal" "Zam" "Zam-Armatay" "Zarathustra" "Zarich" "Zend-Avesta" "Zurva" 
+	}
+}
+
+KUR_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { KUR }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Abathur" "Adamn Kasia" "Aesma Daeva" "Agas" "Ahriman" "Ahura" "Ahura Mazda" "Ahurani" "Airyaman" "Aka Manah" "Aladdin" "Allatum" "Amashaspan" "Ameratat" "Amesha Spentas" "Anahita" "Angra Mainyu" "Anjuman" "Apam-natat" "Apaosa" "Aredvi" "Arishtat" "Armaiti" "Arsaces" "Asha vahista" "Asman" "Asto Vidatu" "Astvat-Ereta" "Atar" "Azi Dahaka" "Baga" "Bahram" "Burijas" "Bushyasta" "Buyasta" "Camros" "Daena" "Daevas" "Ahaka" "Dahhak" "Dena" "Dev" "Diwe" "Drug" "Drvaspa" "Frashegird" "Fravashis" "Gandarewa" "Gao-kerena" "Gayomard" "Gayomart" "Geus-Tasan" "Geus-Urvan" "Haoma" "Haurvatat" "Humay" "Hvar" "Hvarekhshaeta" "Indar" "Indra" "Izha" "Jamshid" "Jeh" "Karshipta" "Kavi" "Khara" "Khshathra vairya" "Kundrav" "Mah" "Mahre" "Mahrianag" "Manu" "Manuchihir" "Mao" "Mashyane" "Mashye" "Menog" "Mithra" "Nairyosangha" "Nanghaithya" "Neriosang" "Ormazd" "Peris" "Peshdadians" "Rapithwin" "Rashnu" "Rustam" "Saurva" "Simurgh" "Spenta Mainyu" "Sraosa" "Srosh" "Tawrich" "Thunaupa" "Tistrya" "Tushnamatay" "Vanant" "Vata" "Verethragna" "Vohu Manah" "Vouruskasha" "Yam" "Yasht" "Yazata" "Yezidi" "Yima" "Zal" "Zam" "Zam-Armatay" "Zarathustra" "Zarich" "Zend-Avesta" "Zurva" 
+	}
+}
+
+KUR_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { KUR }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Abathur" "Adamn Kasia" "Aesma Daeva" "Agas" "Ahriman" "Ahura" "Ahura Mazda" "Ahurani" "Airyaman" "Aka Manah" "Aladdin" "Allatum" "Amashaspan" "Ameratat" "Amesha Spentas" "Anahita" "Angra Mainyu" "Anjuman" "Apam-natat" "Apaosa" "Aredvi" "Arishtat" "Armaiti" "Arsaces" "Asha vahista" "Asman" "Asto Vidatu" "Astvat-Ereta" "Atar" "Azi Dahaka" "Baga" "Bahram" "Burijas" "Bushyasta" "Buyasta" "Camros" "Daena" "Daevas" "Ahaka" "Dahhak" "Dena" "Dev" "Diwe" "Drug" "Drvaspa" "Frashegird" "Fravashis" "Gandarewa" "Gao-kerena" "Gayomard" "Gayomart" "Geus-Tasan" "Geus-Urvan" "Haoma" "Haurvatat" "Humay" "Hvar" "Hvarekhshaeta" "Indar" "Indra" "Izha" "Jamshid" "Jeh" "Karshipta" "Kavi" "Khara" "Khshathra vairya" "Kundrav" "Mah" "Mahre" "Mahrianag" "Manu" "Manuchihir" "Mao" "Mashyane" "Mashye" "Menog" "Mithra" "Nairyosangha" "Nanghaithya" "Neriosang" "Ormazd" "Peris" "Peshdadians" "Rapithwin" "Rashnu" "Rustam" "Saurva" "Simurgh" "Spenta Mainyu" "Sraosa" "Srosh" "Tawrich" "Thunaupa" "Tistrya" "Tushnamatay" "Vanant" "Vata" "Verethragna" "Vohu Manah" "Vouruskasha" "Yam" "Yasht" "Yazata" "Yezidi" "Yima" "Zal" "Zam" "Zam-Armatay" "Zarathustra" "Zarich" "Zend-Avesta" "Zurva" 
+	}
+}
+
+KUR_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { KUR }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Abathur" "Adamn Kasia" "Aesma Daeva" "Agas" "Ahriman" "Ahura" "Ahura Mazda" "Ahurani" "Airyaman" "Aka Manah" "Aladdin" "Allatum" "Amashaspan" "Ameratat" "Amesha Spentas" "Anahita" "Angra Mainyu" "Anjuman" "Apam-natat" "Apaosa" "Aredvi" "Arishtat" "Armaiti" "Arsaces" "Asha vahista" "Asman" "Asto Vidatu" "Astvat-Ereta" "Atar" "Azi Dahaka" "Baga" "Bahram" "Burijas" "Bushyasta" "Buyasta" "Camros" "Daena" "Daevas" "Ahaka" "Dahhak" "Dena" "Dev" "Diwe" "Drug" "Drvaspa" "Frashegird" "Fravashis" "Gandarewa" "Gao-kerena" "Gayomard" "Gayomart" "Geus-Tasan" "Geus-Urvan" "Haoma" "Haurvatat" "Humay" "Hvar" "Hvarekhshaeta" "Indar" "Indra" "Izha" "Jamshid" "Jeh" "Karshipta" "Kavi" "Khara" "Khshathra vairya" "Kundrav" "Mah" "Mahre" "Mahrianag" "Manu" "Manuchihir" "Mao" "Mashyane" "Mashye" "Menog" "Mithra" "Nairyosangha" "Nanghaithya" "Neriosang" "Ormazd" "Peris" "Peshdadians" "Rapithwin" "Rashnu" "Rustam" "Saurva" "Simurgh" "Spenta Mainyu" "Sraosa" "Srosh" "Tawrich" "Thunaupa" "Tistrya" "Tushnamatay" "Vanant" "Vata" "Verethragna" "Vohu Manah" "Vouruskasha" "Yam" "Yasht" "Yazata" "Yezidi" "Yima" "Zal" "Zam" "Zam-Armatay" "Zarathustra" "Zarich" "Zend-Avesta" "Zurva" 
+	}
+}
+
+KUR_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { KUR }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Abathur" "Adamn Kasia" "Aesma Daeva" "Agas" "Ahriman" "Ahura" "Ahura Mazda" "Ahurani" "Airyaman" "Aka Manah" "Aladdin" "Allatum" "Amashaspan" "Ameratat" "Amesha Spentas" "Anahita" "Angra Mainyu" "Anjuman" "Apam-natat" "Apaosa" "Aredvi" "Arishtat" "Armaiti" "Arsaces" "Asha vahista" "Asman" "Asto Vidatu" "Astvat-Ereta" "Atar" "Azi Dahaka" "Baga" "Bahram" "Burijas" "Bushyasta" "Buyasta" "Camros" "Daena" "Daevas" "Ahaka" "Dahhak" "Dena" "Dev" "Diwe" "Drug" "Drvaspa" "Frashegird" "Fravashis" "Gandarewa" "Gao-kerena" "Gayomard" "Gayomart" "Geus-Tasan" "Geus-Urvan" "Haoma" "Haurvatat" "Humay" "Hvar" "Hvarekhshaeta" "Indar" "Indra" "Izha" "Jamshid" "Jeh" "Karshipta" "Kavi" "Khara" "Khshathra vairya" "Kundrav" "Mah" "Mahre" "Mahrianag" "Manu" "Manuchihir" "Mao" "Mashyane" "Mashye" "Menog" "Mithra" "Nairyosangha" "Nanghaithya" "Neriosang" "Ormazd" "Peris" "Peshdadians" "Rapithwin" "Rashnu" "Rustam" "Saurva" "Simurgh" "Spenta Mainyu" "Sraosa" "Srosh" "Tawrich" "Thunaupa" "Tistrya" "Tushnamatay" "Vanant" "Vata" "Verethragna" "Vohu Manah" "Vouruskasha" "Yam" "Yasht" "Yazata" "Yezidi" "Yima" "Zal" "Zam" "Zam-Armatay" "Zarathustra" "Zarich" "Zend-Avesta" "Zurva" 
+	}
+}
+
+KUR_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { KUR }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Abathur" "Adamn Kasia" "Aesma Daeva" "Agas" "Ahriman" "Ahura" "Ahura Mazda" "Ahurani" "Airyaman" "Aka Manah" "Aladdin" "Allatum" "Amashaspan" "Ameratat" "Amesha Spentas" "Anahita" "Angra Mainyu" "Anjuman" "Apam-natat" "Apaosa" "Aredvi" "Arishtat" "Armaiti" "Arsaces" "Asha vahista" "Asman" "Asto Vidatu" "Astvat-Ereta" "Atar" "Azi Dahaka" "Baga" "Bahram" "Burijas" "Bushyasta" "Buyasta" "Camros" "Daena" "Daevas" "Ahaka" "Dahhak" "Dena" "Dev" "Diwe" "Drug" "Drvaspa" "Frashegird" "Fravashis" "Gandarewa" "Gao-kerena" "Gayomard" "Gayomart" "Geus-Tasan" "Geus-Urvan" "Haoma" "Haurvatat" "Humay" "Hvar" "Hvarekhshaeta" "Indar" "Indra" "Izha" "Jamshid" "Jeh" "Karshipta" "Kavi" "Khara" "Khshathra vairya" "Kundrav" "Mah" "Mahre" "Mahrianag" "Manu" "Manuchihir" "Mao" "Mashyane" "Mashye" "Menog" "Mithra" "Nairyosangha" "Nanghaithya" "Neriosang" "Ormazd" "Peris" "Peshdadians" "Rapithwin" "Rashnu" "Rustam" "Saurva" "Simurgh" "Spenta Mainyu" "Sraosa" "Srosh" "Tawrich" "Thunaupa" "Tistrya" "Tushnamatay" "Vanant" "Vata" "Verethragna" "Vohu Manah" "Vouruskasha" "Yam" "Yasht" "Yazata" "Yezidi" "Yima" "Zal" "Zam" "Zam-Armatay" "Zarathustra" "Zarich" "Zend-Avesta" "Zurva" 
+	}
+}
+
+KUR_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { KUR }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Abathur" "Adamn Kasia" "Aesma Daeva" "Agas" "Ahriman" "Ahura" "Ahura Mazda" "Ahurani" "Airyaman" "Aka Manah" "Aladdin" "Allatum" "Amashaspan" "Ameratat" "Amesha Spentas" "Anahita" "Angra Mainyu" "Anjuman" "Apam-natat" "Apaosa" "Aredvi" "Arishtat" "Armaiti" "Arsaces" "Asha vahista" "Asman" "Asto Vidatu" "Astvat-Ereta" "Atar" "Azi Dahaka" "Baga" "Bahram" "Burijas" "Bushyasta" "Buyasta" "Camros" "Daena" "Daevas" "Ahaka" "Dahhak" "Dena" "Dev" "Diwe" "Drug" "Drvaspa" "Frashegird" "Fravashis" "Gandarewa" "Gao-kerena" "Gayomard" "Gayomart" "Geus-Tasan" "Geus-Urvan" "Haoma" "Haurvatat" "Humay" "Hvar" "Hvarekhshaeta" "Indar" "Indra" "Izha" "Jamshid" "Jeh" "Karshipta" "Kavi" "Khara" "Khshathra vairya" "Kundrav" "Mah" "Mahre" "Mahrianag" "Manu" "Manuchihir" "Mao" "Mashyane" "Mashye" "Menog" "Mithra" "Nairyosangha" "Nanghaithya" "Neriosang" "Ormazd" "Peris" "Peshdadians" "Rapithwin" "Rashnu" "Rustam" "Saurva" "Simurgh" "Spenta Mainyu" "Sraosa" "Srosh" "Tawrich" "Thunaupa" "Tistrya" "Tushnamatay" "Vanant" "Vata" "Verethragna" "Vohu Manah" "Vouruskasha" "Yam" "Yasht" "Yazata" "Yezidi" "Yima" "Zal" "Zam" "Zam-Armatay" "Zarathustra" "Zarich" "Zend-Avesta" "Zurva" 
+	}
+}
+
+KUR_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { KUR }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Abathur" "Adamn Kasia" "Aesma Daeva" "Agas" "Ahriman" "Ahura" "Ahura Mazda" "Ahurani" "Airyaman" "Aka Manah" "Aladdin" "Allatum" "Amashaspan" "Ameratat" "Amesha Spentas" "Anahita" "Angra Mainyu" "Anjuman" "Apam-natat" "Apaosa" "Aredvi" "Arishtat" "Armaiti" "Arsaces" "Asha vahista" "Asman" "Asto Vidatu" "Astvat-Ereta" "Atar" "Azi Dahaka" "Baga" "Bahram" "Burijas" "Bushyasta" "Buyasta" "Camros" "Daena" "Daevas" "Ahaka" "Dahhak" "Dena" "Dev" "Diwe" "Drug" "Drvaspa" "Frashegird" "Fravashis" "Gandarewa" "Gao-kerena" "Gayomard" "Gayomart" "Geus-Tasan" "Geus-Urvan" "Haoma" "Haurvatat" "Humay" "Hvar" "Hvarekhshaeta" "Indar" "Indra" "Izha" "Jamshid" "Jeh" "Karshipta" "Kavi" "Khara" "Khshathra vairya" "Kundrav" "Mah" "Mahre" "Mahrianag" "Manu" "Manuchihir" "Mao" "Mashyane" "Mashye" "Menog" "Mithra" "Nairyosangha" "Nanghaithya" "Neriosang" "Ormazd" "Peris" "Peshdadians" "Rapithwin" "Rashnu" "Rustam" "Saurva" "Simurgh" "Spenta Mainyu" "Sraosa" "Srosh" "Tawrich" "Thunaupa" "Tistrya" "Tushnamatay" "Vanant" "Vata" "Verethragna" "Vohu Manah" "Vouruskasha" "Yam" "Yasht" "Yazata" "Yezidi" "Yima" "Zal" "Zam" "Zam-Armatay" "Zarathustra" "Zarich" "Zend-Avesta" "Zurva" 
+	}
+}
+
+KUR_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { KUR }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Abathur" "Adamn Kasia" "Aesma Daeva" "Agas" "Ahriman" "Ahura" "Ahura Mazda" "Ahurani" "Airyaman" "Aka Manah" "Aladdin" "Allatum" "Amashaspan" "Ameratat" "Amesha Spentas" "Anahita" "Angra Mainyu" "Anjuman" "Apam-natat" "Apaosa" "Aredvi" "Arishtat" "Armaiti" "Arsaces" "Asha vahista" "Asman" "Asto Vidatu" "Astvat-Ereta" "Atar" "Azi Dahaka" "Baga" "Bahram" "Burijas" "Bushyasta" "Buyasta" "Camros" "Daena" "Daevas" "Ahaka" "Dahhak" "Dena" "Dev" "Diwe" "Drug" "Drvaspa" "Frashegird" "Fravashis" "Gandarewa" "Gao-kerena" "Gayomard" "Gayomart" "Geus-Tasan" "Geus-Urvan" "Haoma" "Haurvatat" "Humay" "Hvar" "Hvarekhshaeta" "Indar" "Indra" "Izha" "Jamshid" "Jeh" "Karshipta" "Kavi" "Khara" "Khshathra vairya" "Kundrav" "Mah" "Mahre" "Mahrianag" "Manu" "Manuchihir" "Mao" "Mashyane" "Mashye" "Menog" "Mithra" "Nairyosangha" "Nanghaithya" "Neriosang" "Ormazd" "Peris" "Peshdadians" "Rapithwin" "Rashnu" "Rustam" "Saurva" "Simurgh" "Spenta Mainyu" "Sraosa" "Srosh" "Tawrich" "Thunaupa" "Tistrya" "Tushnamatay" "Vanant" "Vata" "Verethragna" "Vohu Manah" "Vouruskasha" "Yam" "Yasht" "Yazata" "Yezidi" "Yima" "Zal" "Zam" "Zam-Armatay" "Zarathustra" "Zarich" "Zend-Avesta" "Zurva" 
+	}
+}
+
+KUR_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { KUR }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Abathur" "Adamn Kasia" "Aesma Daeva" "Agas" "Ahriman" "Ahura" "Ahura Mazda" "Ahurani" "Airyaman" "Aka Manah" "Aladdin" "Allatum" "Amashaspan" "Ameratat" "Amesha Spentas" "Anahita" "Angra Mainyu" "Anjuman" "Apam-natat" "Apaosa" "Aredvi" "Arishtat" "Armaiti" "Arsaces" "Asha vahista" "Asman" "Asto Vidatu" "Astvat-Ereta" "Atar" "Azi Dahaka" "Baga" "Bahram" "Burijas" "Bushyasta" "Buyasta" "Camros" "Daena" "Daevas" "Ahaka" "Dahhak" "Dena" "Dev" "Diwe" "Drug" "Drvaspa" "Frashegird" "Fravashis" "Gandarewa" "Gao-kerena" "Gayomard" "Gayomart" "Geus-Tasan" "Geus-Urvan" "Haoma" "Haurvatat" "Humay" "Hvar" "Hvarekhshaeta" "Indar" "Indra" "Izha" "Jamshid" "Jeh" "Karshipta" "Kavi" "Khara" "Khshathra vairya" "Kundrav" "Mah" "Mahre" "Mahrianag" "Manu" "Manuchihir" "Mao" "Mashyane" "Mashye" "Menog" "Mithra" "Nairyosangha" "Nanghaithya" "Neriosang" "Ormazd" "Peris" "Peshdadians" "Rapithwin" "Rashnu" "Rustam" "Saurva" "Simurgh" "Spenta Mainyu" "Sraosa" "Srosh" "Tawrich" "Thunaupa" "Tistrya" "Tushnamatay" "Vanant" "Vata" "Verethragna" "Vohu Manah" "Vouruskasha" "Yam" "Yasht" "Yazata" "Yezidi" "Yima" "Zal" "Zam" "Zam-Armatay" "Zarathustra" "Zarich" "Zend-Avesta" "Zurva" 
+	}
+}
+

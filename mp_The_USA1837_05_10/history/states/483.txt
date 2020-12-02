@@ -1,0 +1,33 @@
+
+state={
+	id=483
+	name="STATE_483"
+	resources={
+		oil=28.000
+	}
+
+	history={
+		owner = TUR
+		victory_points = {
+			657 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			657 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = BUL
+	}
+
+	provinces={
+		657 687 3076 9614 9635 11597 
+	}
+	manpower=441228
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

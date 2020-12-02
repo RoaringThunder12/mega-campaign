@@ -1,0 +1,29 @@
+
+state={
+	id=714
+	name="STATE_714"
+	resources={
+		steel=0.000
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			11145 1 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		5160 10860 11145 
+	}
+	manpower=361600
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

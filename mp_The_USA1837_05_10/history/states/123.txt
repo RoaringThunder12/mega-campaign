@@ -1,0 +1,30 @@
+
+state={
+	id=123
+	name="STATE_123"
+	resources={
+		steel=0.000
+	}
+
+	history={
+		owner = TUR
+		victory_points = {
+			4051 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = EGY
+	}
+
+	provinces={
+		1174 4051 4117 4176 7066 7154 10037 10067 11940 12009 
+	}
+	manpower=72956
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

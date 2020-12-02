@@ -1,8 +1,0 @@
-owner=MLC
-controller=MLC
-add_core=CHA
-add_core=IDO
-add_core=MLC
-trade_goods = tobacco
-life_rating = 30
-terrain = jungle

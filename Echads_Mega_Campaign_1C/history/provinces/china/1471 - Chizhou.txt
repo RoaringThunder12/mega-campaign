@@ -1,9 +1,0 @@
-owner=CSH
-controller=CSH
-add_core=CHI
-add_core=CSH
-add_core=CWU
-add_core=MNG
-trade_goods = tea
-life_rating = 32
-terrain = farmlands

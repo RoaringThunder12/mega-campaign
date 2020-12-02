@@ -1,0 +1,37 @@
+
+state={
+	id=105
+	name="STATE_105"
+	resources={
+		aluminium=7.000
+		oil=6.000
+		steel=11.000
+	}
+
+	history={
+		owner = V12
+		victory_points = {
+			5027 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			12702 = {
+				naval_base = 2
+			}
+			air_base = 5
+
+		}
+		add_core_of = SAU
+		add_core_of = W15
+		add_core_of = X07
+	}
+
+	provinces={
+		1955 2057 4968 4974 5027 5058 7995 10850 10892 10923 12702 12749 
+	}
+	manpower=142424
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

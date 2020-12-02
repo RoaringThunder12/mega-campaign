@@ -1,0 +1,31 @@
+
+state={
+	id=264
+	name="STATE_264"
+	resources={
+		aluminium=0.000
+		rubber=0.000
+		steel=0.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			7978 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		7978 
+	}
+	manpower=362624
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

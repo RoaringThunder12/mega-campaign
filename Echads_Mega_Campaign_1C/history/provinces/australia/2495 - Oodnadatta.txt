@@ -1,6 +1,0 @@
-owner=X25
-controller=X25
-add_core=X25
-trade_goods = fruit
-life_rating = 20
-terrain = desert

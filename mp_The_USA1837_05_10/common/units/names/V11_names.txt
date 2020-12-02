@@ -1,0 +1,58 @@
+﻿V11 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Aargau" "Baden" "Basel" "Bellinzona" "Bern" "Freiburg" "Fricktal" "LÃ©man" "Linth" "Lugano" "Luzern" "Oberland" "RÃ¤tien" "SÃ¤ntis" "Schaffhausen" "Solothurn" "Thurgau" "WaldstÃ¤tte" "Wallis" "ZÃ¼rich" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Werner Stauffacher" "Walter FÃ¼rst" "Arnold von Melchtal" "Wilhelm Tell" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Aargau" "Baden" "Basel" "Bellinzona" "Bern" "Freiburg" "Fricktal" "LÃ©man" "Linth" "Lugano" "Luzern" "Oberland" "RÃ¤tien" "SÃ¤ntis" "Schaffhausen" "Solothurn" "Thurgau" "WaldstÃ¤tte" "Wallis" "ZÃ¼rich" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Aargau" "Baden" "Basel" "Bellinzona" "Bern" "Freiburg" "Fricktal" "LÃ©man" "Linth" "Lugano" "Luzern" "Oberland" "RÃ¤tien" "SÃ¤ntis" "Schaffhausen" "Solothurn" "Thurgau" "WaldstÃ¤tte" "Wallis" "ZÃ¼rich" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Aargau" "Baden" "Basel" "Bellinzona" "Bern" "Freiburg" "Fricktal" "LÃ©man" "Linth" "Lugano" "Luzern" "Oberland" "RÃ¤tien" "SÃ¤ntis" "Schaffhausen" "Solothurn" "Thurgau" "WaldstÃ¤tte" "Wallis" "ZÃ¼rich" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Aargau" "Baden" "Basel" "Bellinzona" "Bern" "Freiburg" "Fricktal" "LÃ©man" "Linth" "Lugano" "Luzern" "Oberland" "RÃ¤tien" "SÃ¤ntis" "Schaffhausen" "Solothurn" "Thurgau" "WaldstÃ¤tte" "Wallis" "ZÃ¼rich" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Aargau" "Baden" "Basel" "Bellinzona" "Bern" "Freiburg" "Fricktal" "LÃ©man" "Linth" "Lugano" "Luzern" "Oberland" "RÃ¤tien" "SÃ¤ntis" "Schaffhausen" "Solothurn" "Thurgau" "WaldstÃ¤tte" "Wallis" "ZÃ¼rich" 
+		}
+	}
+
+}

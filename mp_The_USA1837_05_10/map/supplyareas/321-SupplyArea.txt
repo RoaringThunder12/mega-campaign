@@ -1,0 +1,9 @@
+
+supply_area={
+	id=321
+	name="SUPPLYAREA_321"
+	value=7
+	states={
+		92 93 94 408 519 
+	}
+}

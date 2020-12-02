@@ -1,0 +1,31 @@
+
+state={
+	id=369
+	name="STATE_369"
+
+	history={
+		owner = SOV
+		victory_points = {
+			11301 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = BLR
+		add_core_of = LIT
+		add_core_of = SOV
+		add_core_of = V33
+		add_core_of = V34
+	}
+
+	provinces={
+		277 290 318 347 560 3256 3281 3309 3366 3392 3393 3556 6280 6306 6340 6359 6413 6415 6546 6579 9236 9304 9359 9554 11247 11285 11301 11341 11528 13206 
+	}
+	manpower=1646332
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

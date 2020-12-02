@@ -1,0 +1,26 @@
+
+state={
+	id=731
+	name="STATE_731"
+
+	history={
+		owner = SOV
+		victory_points = {
+			9224 1 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		6085 9224 
+	}
+	manpower=3000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=676
+	name="STATE_676"
+
+	history={
+		owner = MOR
+		victory_points = {
+			4920 1 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		4920 7979 8038 8111 
+	}
+	manpower=48060
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

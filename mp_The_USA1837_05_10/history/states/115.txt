@@ -1,0 +1,31 @@
+
+state={
+	id=115
+	name="STATE_115"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = V67
+		victory_points = {
+			10905 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = RAJ
+		add_core_of = U80
+	}
+
+	provinces={
+		1910 2041 2084 7273 7316 8005 10821 10905 12754 12884 
+	}
+	manpower=1306656
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

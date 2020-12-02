@@ -1,0 +1,28 @@
+
+state={
+	id=487
+	name="STATE_487"
+
+	history={
+		owner = TUR
+		victory_points = {
+			11580 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = SER
+		add_core_of = YUG
+	}
+
+	provinces={
+		11580 
+	}
+	manpower=119376
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

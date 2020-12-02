@@ -1,5 +1,0 @@
-owner=USA
-controller=USA
-trade_goods = grain
-life_rating = 40
-terrain = hills

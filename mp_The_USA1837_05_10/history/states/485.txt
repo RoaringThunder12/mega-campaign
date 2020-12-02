@@ -1,0 +1,28 @@
+
+state={
+	id=485
+	name="STATE_485"
+
+	history={
+		owner = TUR
+		victory_points = {
+			11581 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = CRO
+		add_core_of = YUG
+	}
+
+	provinces={
+		591 624 3592 3596 3601 3627 6611 6647 9595 9608 9611 11577 11581 11594 11901 
+	}
+	manpower=1302588
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

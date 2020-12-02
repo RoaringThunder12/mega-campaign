@@ -1,0 +1,29 @@
+
+state={
+	id=31
+	name="STATE_31"
+
+	history={
+		owner = BRU
+		victory_points = {
+			4357 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			4357 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		4357 12103 
+	}
+	manpower=9684
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

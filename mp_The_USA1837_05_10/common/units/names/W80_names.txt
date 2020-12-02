@@ -1,0 +1,58 @@
+﻿W80 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Lübeck" "Hansa" "Vulkan" "Großvogtei" "Schwartau" "Travemünde" "Von Evers" "Gaedertz" "Gütschow" "Overbeck" "Tesdorpf" "Wildtfanck" "Johann Brokes" "Egmont von Chasôt" "Hermann Korner" "Eschenburg" "Bornhöved" "Wittenborg" "Hinrich Westhof" "Tidemann Steen" "Adler von Lübeck" "Königin der Hanse" "Berend Bomhover" "Johann Brokes" "Friedrich Knebel" "Johann Lüneburg" "Hermann Messmann" "Hermann Plönnies" "Simon Swerting" "Bartholomeus Tinnappel" "Bruno von Warendorp" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Lübeck" "Hansa" "Vulkan" "Großvogtei" "Schwartau" "Travemünde" "Von Evers" "Gaedertz" "Gütschow" "Overbeck" "Tesdorpf" "Wildtfanck" "Johann Brokes" "Egmont von Chasôt" "Hermann Korner" "Eschenburg" "Bornhöved" "Wittenborg" "Hinrich Westhof" "Tidemann Steen" "Adler von Lübeck" "Königin der Hanse" "Berend Bomhover" "Johann Brokes" "Friedrich Knebel" "Johann Lüneburg" "Hermann Messmann" "Hermann Plönnies" "Simon Swerting" "Bartholomeus Tinnappel" "Bruno von Warendorp" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Lübeck" "Hansa" "Vulkan" "Großvogtei" "Schwartau" "Travemünde" "Von Evers" "Gaedertz" "Gütschow" "Overbeck" "Tesdorpf" "Wildtfanck" "Johann Brokes" "Egmont von Chasôt" "Hermann Korner" "Eschenburg" "Bornhöved" "Wittenborg" "Hinrich Westhof" "Tidemann Steen" "Adler von Lübeck" "Königin der Hanse" "Berend Bomhover" "Johann Brokes" "Friedrich Knebel" "Johann Lüneburg" "Hermann Messmann" "Hermann Plönnies" "Simon Swerting" "Bartholomeus Tinnappel" "Bruno von Warendorp" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Lübeck" "Hansa" "Vulkan" "Großvogtei" "Schwartau" "Travemünde" "Von Evers" "Gaedertz" "Gütschow" "Overbeck" "Tesdorpf" "Wildtfanck" "Johann Brokes" "Egmont von Chasôt" "Hermann Korner" "Eschenburg" "Bornhöved" "Wittenborg" "Hinrich Westhof" "Tidemann Steen" "Adler von Lübeck" "Königin der Hanse" "Berend Bomhover" "Johann Brokes" "Friedrich Knebel" "Johann Lüneburg" "Hermann Messmann" "Hermann Plönnies" "Simon Swerting" "Bartholomeus Tinnappel" "Bruno von Warendorp" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Lübeck" "Hansa" "Vulkan" "Großvogtei" "Schwartau" "Travemünde" "Von Evers" "Gaedertz" "Gütschow" "Overbeck" "Tesdorpf" "Wildtfanck" "Johann Brokes" "Egmont von Chasôt" "Hermann Korner" "Eschenburg" "Bornhöved" "Wittenborg" "Hinrich Westhof" "Tidemann Steen" "Adler von Lübeck" "Königin der Hanse" "Berend Bomhover" "Johann Brokes" "Friedrich Knebel" "Johann Lüneburg" "Hermann Messmann" "Hermann Plönnies" "Simon Swerting" "Bartholomeus Tinnappel" "Bruno von Warendorp" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Lübeck" "Hansa" "Vulkan" "Großvogtei" "Schwartau" "Travemünde" "Von Evers" "Gaedertz" "Gütschow" "Overbeck" "Tesdorpf" "Wildtfanck" "Johann Brokes" "Egmont von Chasôt" "Hermann Korner" "Eschenburg" "Bornhöved" "Wittenborg" "Hinrich Westhof" "Tidemann Steen" "Klaus Störtebeker" "Gödeke Michels" "Hennig Wichmann" "Klaus Scheld" "Magister Wigbold" "Arnd Stuke" "Nikolaus Milies" "Likedeeler" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Lübeck" "Hansa" "Vulkan" "Großvogtei" "Schwartau" "Travemünde" "Von Evers" "Gaedertz" "Gütschow" "Overbeck" "Tesdorpf" "Wildtfanck" "Johann Brokes" "Egmont von Chasôt" "Hermann Korner" "Eschenburg" "Bornhöved" "Wittenborg" "Hinrich Westhof" "Tidemann Steen" "Adler von Lübeck" "Königin der Hanse" "Berend Bomhover" "Johann Brokes" "Friedrich Knebel" "Johann Lüneburg" "Hermann Messmann" "Hermann Plönnies" "Simon Swerting" "Bartholomeus Tinnappel" "Bruno von Warendorp" 
+		}
+	}
+
+}

@@ -1,0 +1,176 @@
+﻿TUR_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { TUR }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Turgut Reis" "Hamidiye" "Reshadiye" "Barbaros Hayreddin" "Mesudiye" "Abdülkader" "Abdülaziz" "Suleyman Kanuni" "Mehmet Fatih" "I. Osman" "I. Bayezid" "I. Ahmed" "Selim Yavuz" "Abdülmecid" "III. Selim" "I Mahmud" "II. Mahmud" "Murat Hudavendigar" "Topkapi" "Devlet-i Aliye" "Çaldiran" 
+	}
+}
+
+TUR_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { TUR }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Hudavendigar" "Biga" "Rumeli" "Ardahan" "Mentese" "Anadolu" "Kibris" "Germiyan" "Halep" "Bagdat" "Sam" "Sehrizor" "Ruha" "Girit" "Yanya" "Eflak" "Özü" "Bosna" "Içel" "Rodos" "Silistre" "Misir" "Trablusgarp" 
+	}
+}
+
+TUR_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { TUR }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Osmaniye" "Mahmudiye" "Orhaniye" "Abdülaziz" "Asar-i Tevfik" "Asar-i Sevket" "Nijimi Sevket" "Avni Illah" "Idjalieh" "Fethi Belund" "Mukaddeme-i Hayir" "Gayret-i Vataniye" "Yadigar-i Millet" "Muavenet-i Millet" "Numune-i Hamiyet" "Adatepe" "Kocatepe" "Tinaztepe" "Zafer" "Demirhisar" "Sultanhisar" 
+	}
+}
+
+TUR_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { TUR }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Ankara" "Bagdat" "Erzurum" "Kars" "Selanik" "Monastir" "Uskup" "Izmir" "Kudüs-ü Serif" "Dimashq" "Saraybosna" "Edirne" "Sivas" "Kayseri" "Van" "Trablusgarp" "Uskudar" "Sinop" "Manisa" "Filibe" "Bender" "Trabzon" "Mersin" "Halep" "Kastamonu" 
+	}
+}
+
+TUR_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { TUR }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Ankara" "Bagdat" "Erzurum" "Kars" "Selanik" "Monastir" "Uskup" "Izmir" "Kudüs-ü Serif" "Dimashq" "Saraybosna" "Edirne" "Sivas" "Kayseri" "Van" "Trablusgarp" "Uskudar" "Sinop" "Manisa" "Filibe" "Bender" "Trabzon" "Mersin" "Halep" "Kastamonu" 
+	}
+}
+
+TUR_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { TUR }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Hersekli Ahmad" "Gedik Ahmad" "Rum Mehmed" "Ishak" "Çelebi Lutfi" "Rustem" "Sokollu Mehmed" "Koca Sinan" "Ozdemiroglu Osman" "Damat Ibrahim" "Filibeli Hafiz" "Koprulu Mehmed" "Merzifonlu Kara Mustafa" "Amcazade Koprulu Huseyin" "Yirmisekizade Mehmed Said" "Cezayirli Gazi Hasan" "Koca Yusuf" 
+	}
+}
+
+TUR_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { TUR }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Hersekli Ahmad" "Gedik Ahmad" "Rum Mehmed" "Ishak" "Çelebi Lutfi" "Rustem" "Sokollu Mehmed" "Koca Sinan" "Ozdemiroglu Osman" "Damat Ibrahim" "Filibeli Hafiz" "Koprulu Mehmed" "Merzifonlu Kara Mustafa" "Amcazade Koprulu Huseyin" "Yirmisekizade Mehmed Said" "Cezayirli Gazi Hasan" "Koca Yusuf" 
+	}
+}
+
+TUR_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { TUR }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Yavuz Sultan Selim" "Adatepe" "Kocatepe" "Mehmet Selim" "Heibetnuma" "Lutf-i Humayun" "Abdul Hamid" "Medjidieh" "Mukaddem-i Hayir" "Berkefsan" "Basra" "Tayyar" "Samsun" "Muavanet-i Milliye" "Midilli" "Konstantiniyye" "Ancyra" "Edirne" "Usküdar" "Izmir" "Bursa" "Sevres" "Izmit" "Konya" 
+	}
+}
+
+TUR_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { TUR }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Yavuz Sultan Selim" "Adatepe" "Kocatepe" "Mehmet Selim" "Heibetnuma" "Lutf-i Humayun" "Abdul Hamid" "Medjidieh" "Mukaddem-i Hayir" "Berkefsan" "Basra" "Tayyar" "Samsun" "Muavanet-i Milliye" "Midilli" "Konstantiniyye" "Ancyra" "Edirne" "Usküdar" "Izmir" "Bursa" "Sevres" "Izmit" "Konya" 
+	}
+}
+
+TUR_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { TUR }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Ankara" "Bagdat" "Erzurum" "Kars" "Selanik" "Monastir" "Uskup" "Izmir" "Kudüs-ü Serif" "Dimashq" "Saraybosna" "Edirne" "Sivas" "Kayseri" "Van" "Trablusgarp" "Uskudar" "Sinop" "Manisa" "Filibe" "Bender" "Trabzon" "Mersin" "Halep" "Kastamonu" 
+	}
+}
+
+TUR_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { TUR }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Timsah" "Simir-i Hidsum" "Gilyom" "Nasir" "Ejder" "Yunus" "Draç" "Sivrihisar" "Nilüfer" "Rana" "Doruk Reis" "Hizir Reis" "Timur Hisar" "Kos" "Nuribar" "Pelenk-i Derya" "Ceyhan" "Yar Hisar" "Mahmud Sevket Pasha" "Malatya" "Kütahya" "Yozgat" 
+	}
+}
+

@@ -1,0 +1,58 @@
+﻿W95 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Mlima" "Moto" "Moshi" "Homu" "Ukungu" "Nyota" "Jua" "Maji" "Mwezi" "Mnyama" "Samaki" "Ndege" "Mbwa" "Nyoka" "Ua" "Damu" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Mlima" "Moto" "Moshi" "Homu" "Ukungu" "Nyota" "Jua" "Maji" "Mwezi" "Mnyama" "Samaki" "Ndege" "Mbwa" "Nyoka" "Ua" "Damu" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Mlima" "Moto" "Moshi" "Homu" "Ukungu" "Nyota" "Jua" "Maji" "Mwezi" "Mnyama" "Samaki" "Ndege" "Mbwa" "Nyoka" "Ua" "Damu" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Mlima" "Moto" "Moshi" "Homu" "Ukungu" "Nyota" "Jua" "Maji" "Mwezi" "Mnyama" "Samaki" "Ndege" "Mbwa" "Nyoka" "Ua" "Damu" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Mlima" "Moto" "Moshi" "Homu" "Ukungu" "Nyota" "Jua" "Maji" "Mwezi" "Mnyama" "Samaki" "Ndege" "Mbwa" "Nyoka" "Ua" "Damu" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Mlima" "Moto" "Moshi" "Homu" "Ukungu" "Nyota" "Jua" "Maji" "Mwezi" "Mnyama" "Samaki" "Ndege" "Mbwa" "Nyoka" "Ua" "Damu" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Mlima" "Moto" "Moshi" "Homu" "Ukungu" "Nyota" "Jua" "Maji" "Mwezi" "Mnyama" "Samaki" "Ndege" "Mbwa" "Nyoka" "Ua" "Damu" 
+		}
+	}
+
+}

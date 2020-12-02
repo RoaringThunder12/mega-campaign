@@ -1,0 +1,26 @@
+
+state={
+	id=32
+	name="STATE_32"
+
+	history={
+		owner = BRU
+		victory_points = {
+			13028 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		13027 13028 13029 13030 13031 13032 13033 
+	}
+	manpower=2000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

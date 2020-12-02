@@ -1,8 +1,0 @@
-owner=RUS
-controller=RUS
-add_core=LAT
-add_core=UBD
-add_core=X20
-trade_goods = grain
-life_rating = 35
-terrain = woods

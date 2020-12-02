@@ -1,0 +1,58 @@
+﻿SHL = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Holstein" "Herzog Friedrich" "Kiel" "Gottorp" "Sonderburg" "Glücksburg" "Reichsfürst" "König" "Erbprinz" "Plön" "Segeberg" "Up ewig ungedeelt" "Vertrag von Ripen" "Altona" "Glückstadt" "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Holstein" "Herzog Friedrich" "Kiel" "Gottorp" "Sonderburg" "Glücksburg" "Reichsfürst" "König" "Erbprinz" "Plön" "Segeberg" "Up ewig ungedeelt" "Vertrag von Ripen" "Altona" "Glückstadt" "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Holstein" "Herzog Friedrich" "Kiel" "Gottorp" "Sonderburg" "Glücksburg" "Reichsfürst" "König" "Erbprinz" "Plön" "Segeberg" "Up ewig ungedeelt" "Vertrag von Ripen" "Altona" "Glückstadt" "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Holstein" "Herzog Friedrich" "Kiel" "Gottorp" "Sonderburg" "Glücksburg" "Reichsfürst" "König" "Erbprinz" "Plön" "Segeberg" "Up ewig ungedeelt" "Vertrag von Ripen" "Altona" "Glückstadt" "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Holstein" "Herzog Friedrich" "Kiel" "Gottorp" "Sonderburg" "Glücksburg" "Reichsfürst" "König" "Erbprinz" "Plön" "Segeberg" "Up ewig ungedeelt" "Vertrag von Ripen" "Altona" "Glückstadt" "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Holstein" "Herzog Friedrich" "Kiel" "Gottorp" "Sonderburg" "Glücksburg" "Reichsfürst" "König" "Erbprinz" "Plön" "Segeberg" "Klaus Störtebeker" "Gödeke Michels" "Hennig Wichmann" "Klaus Scheld" "Magister Wigbold" "Arnd Stuke" "Nikolaus Milies" "Likedeeler" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Holstein" "Herzog Friedrich" "Kiel" "Gottorp" "Sonderburg" "Glücksburg" "Reichsfürst" "König" "Erbprinz" "Plön" "Segeberg" "Up ewig ungedeelt" "Vertrag von Ripen" "Altona" "Glückstadt" "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen" 
+		}
+	}
+
+}

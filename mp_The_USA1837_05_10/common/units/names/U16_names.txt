@@ -1,0 +1,58 @@
+﻿U16 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Württemberg" "Schwaben" "König Friedrich" "Königin Charlotte" "König Wilhelm" "Prinz Albrecht" "Alemania" "Herzog von Urach" "Von Zeppelin" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Württemberg" "Schwaben" "König Friedrich" "Königin Charlotte" "König Wilhelm" "Prinz Albrecht" "Alemania" "Herzog von Urach" "Von Zeppelin" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Württemberg" "Schwaben" "König Friedrich" "Königin Charlotte" "König Wilhelm" "Prinz Albrecht" "Alemania" "Herzog von Urach" "Von Zeppelin" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Stuttgart" "Ulm" "Göppingen" "Ravensburg" "Friedrichshafen" "Ellwangen" "Hall" "Heilbronn" "Rottweil" "Tübingen" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Stuttgart" "Ulm" "Göppingen" "Ravensburg" "Friedrichshafen" "Ellwangen" "Hall" "Heilbronn" "Rottweil" "Tübingen" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Von Beroldingen" "Taube" "Von Hardegg" "Friedrich Schiller" "Jakob Friedrich Rösch" "Graf von Waldburg" "Karl von Kerner" "Prinz Hohenlohe" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Von Beroldingen" "Taube" "Von Hardegg" "Friedrich Schiller" "Jakob Friedrich Rösch" "Graf von Waldburg" "Karl von Kerner" "Prinz Hohenlohe" 
+		}
+	}
+
+}

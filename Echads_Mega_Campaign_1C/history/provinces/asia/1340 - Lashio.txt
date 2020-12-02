@@ -1,7 +1,0 @@
-owner=ASM
-controller=MLC
-add_core=BUR
-add_core=IDO
-trade_goods = tropical_wood
-life_rating = 35
-terrain = mountain

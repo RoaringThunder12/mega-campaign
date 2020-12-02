@@ -1,0 +1,31 @@
+
+state={
+	id=119
+	name="STATE_119"
+	resources={
+		chromium=1.000
+	}
+
+	history={
+		owner = U12
+		victory_points = {
+			4386 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = RAJ
+		add_core_of = W65
+	}
+
+	provinces={
+		4386 7374 10825 10910 
+	}
+	manpower=495104
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

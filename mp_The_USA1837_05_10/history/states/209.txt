@@ -1,0 +1,33 @@
+
+state={
+	id=209
+	name="STATE_209"
+	resources={
+		oil=1.000
+		steel=12.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			3569 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = CZE
+		add_core_of = X73
+		add_core_of = X74
+	}
+
+	provinces={
+		421 557 569 3414 3553 3569 3583 6485 6562 6576 6590 9551 9567 11511 
+	}
+	manpower=2093440
+	buildings_max_level_factor=1.000
+	state_category=town
+}

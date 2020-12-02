@@ -1,0 +1,34 @@
+
+state={
+	id=355
+	name="STATE_355"
+	resources={
+		rubber=0.000
+		steel=0.000
+		tungsten=1.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			12335 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = RAJ
+		add_core_of = V32
+		add_core_of = W96
+	}
+
+	provinces={
+		3999 4087 4454 4541 4588 7163 7190 7534 10033 10486 11966 12335 
+	}
+	manpower=121528
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=159
+	name="STATE_159"
+
+	history={
+		owner = ETH
+		victory_points = {
+			12991 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			12991 = {
+				naval_base = 4
+			}
+			air_base = 5
+
+		}
+		add_core_of = SOM
+		add_core_of = X02
+	}
+
+	provinces={
+		1905 1964 1966 2020 2063 4909 5065 5068 8094 8164 10777 10818 10833 10891 10921 10928 12759 12814 12840 12991 
+	}
+	manpower=721700
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=673
+	name="STATE_673"
+	resources={
+		oil=3.000
+		steel=3.000
+		tungsten=8.000
+	}
+
+	history={
+		owner = CAN
+		victory_points = {
+			4695 1 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		3800 4695 6779 
+	}
+	manpower=2400
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

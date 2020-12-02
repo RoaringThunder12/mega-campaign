@@ -1,0 +1,35 @@
+
+state={
+	id=66
+	name="STATE_66"
+	resources={
+		aluminium=2.000
+		steel=2.000
+	}
+
+	history={
+		owner = X67
+		victory_points = {
+			10434 13 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 6
+			arms_factory = 6
+			air_base = 9
+
+		}
+		add_core_of = CHI
+		add_core_of = W44
+		add_core_of = W73
+		add_core_of = W99
+		add_core_of = X67
+	}
+
+	provinces={
+		1004 1139 1603 4114 4144 4158 4519 4547 4606 6932 7074 7459 7508 7540 7568 7656 9937 9958 10364 10434 10446 11931 12012 12426 
+	}
+	manpower=25813980
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

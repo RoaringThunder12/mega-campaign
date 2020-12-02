@@ -1,0 +1,58 @@
+﻿X61 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Columbia" "Victoria" "Vancouver" "Cook" "Drake" "Finlay" "Mackenzie" "Fraser" "Douglas" "Seymour" "Queen Charlotte" "Saint George" "Caledonia" "Westminster" "Stuart" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Columbia" "Victoria" "Vancouver" "Cook" "Drake" "Finlay" "Mackenzie" "Fraser" "Douglas" "Seymour" "Queen Charlotte" "Saint George" "Caledonia" "Westminster" "Stuart" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Columbia" "Victoria" "Vancouver" "Cook" "Drake" "Finlay" "Mackenzie" "Fraser" "Douglas" "Seymour" "Queen Charlotte" "Saint George" "Caledonia" "Westminster" "Stuart" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Columbia" "Victoria" "Vancouver" "Cook" "Drake" "Finlay" "Mackenzie" "Fraser" "Douglas" "Seymour" "Queen Charlotte" "Saint George" "Caledonia" "Westminster" "Stuart" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Columbia" "Victoria" "Vancouver" "Cook" "Drake" "Finlay" "Mackenzie" "Fraser" "Douglas" "Seymour" "Queen Charlotte" "Saint George" "Caledonia" "Westminster" "Stuart" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Columbia" "Victoria" "Vancouver" "Cook" "Drake" "Finlay" "Mackenzie" "Fraser" "Douglas" "Seymour" "Queen Charlotte" "Saint George" "Caledonia" "Westminster" "Stuart" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Columbia" "Victoria" "Vancouver" "Cook" "Drake" "Finlay" "Mackenzie" "Fraser" "Douglas" "Seymour" "Queen Charlotte" "Saint George" "Caledonia" "Westminster" "Stuart" 
+		}
+	}
+
+}

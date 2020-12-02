@@ -1,0 +1,58 @@
+﻿SLO = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Bratislava" "Košice" "Prešov" "Žilina" "Nitra" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Anton Bernolák" "Ludovít Štúr" "Michal Miloslav Hodža" "Ján Hollý" "Povstanie" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Majster košického oltára" "Josef Czauczik" "Lajos Csordák" "Karol Ludovít Libay" "Július Jakoby" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Beskydok" "Gerlachovský štít" "Rysy" "Ostrá" "Záruby" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Beskydok" "Gerlachovský štít" "Rysy" "Ostrá" "Záruby" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Bojnický zámok" "Bratislavsky hrad" "Devínsky hrad" "Nový zámok" "Starý zámok" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Hron" "Bodrog" "Dunajec" "Ipel" "Tisa" 
+		}
+	}
+
+}

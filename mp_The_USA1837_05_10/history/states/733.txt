@@ -1,0 +1,26 @@
+
+state={
+	id=733
+	name="STATE_733"
+
+	history={
+		owner = SOV
+		victory_points = {
+			12687 1 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		4812 12687 13065 
+	}
+	manpower=3000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

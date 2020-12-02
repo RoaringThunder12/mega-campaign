@@ -1,0 +1,91 @@
+﻿capital = 201
+set_research_slots = 3
+
+oob = "W71_OOB"
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = "W71_1936_naval_mtg"
+	else = { 
+		set_naval_oob = "W71_1936_naval_legacy"
+	}
+}
+
+# Starting tech
+set_technology = {
+}
+
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+	}
+}
+# Research Bonuses
+set_convoys = 0
+
+
+set_politics = {
+    ruling_party = neutrality
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 89
+	neutrality = 11
+}
+
+add_opinion_modifier = { target = CAN modifier = negative_15 }
+add_opinion_modifier = { target = CAT modifier = positive_10 }
+add_opinion_modifier = { target = CUB modifier = positive_5 }
+add_opinion_modifier = { target = DEN modifier = positive_15 }
+add_opinion_modifier = { target = ETH modifier = positive_15 }
+add_opinion_modifier = { target = GER modifier = positive_77 }
+add_opinion_modifier = { target = HOL modifier = positive_20 }
+add_opinion_modifier = { target = HUN modifier = positive_10 }
+add_opinion_modifier = { target = ICE modifier = positive_30 }
+add_opinion_modifier = { target = ITA modifier = positive_30 }
+add_opinion_modifier = { target = MEX modifier = negative_15 }
+add_opinion_modifier = { target = SOV modifier = positive_15 }
+add_opinion_modifier = { target = SPR modifier = positive_5 }
+add_opinion_modifier = { target = SWE modifier = positive_15 }
+add_opinion_modifier = { target = SWI modifier = positive_20 }
+add_opinion_modifier = { target = TUN modifier = negative_10 }
+add_opinion_modifier = { target = U15 modifier = negative_5 }
+add_opinion_modifier = { target = U41 modifier = positive_30 }
+add_opinion_modifier = { target = U42 modifier = positive_45 }
+add_opinion_modifier = { target = U44 modifier = positive_20 }
+add_opinion_modifier = { target = U73 modifier = positive_30 }
+add_opinion_modifier = { target = USA modifier = positive_5 }
+add_opinion_modifier = { target = W42 modifier = negative_10 }
+add_opinion_modifier = { target = X67 modifier = negative_10 }
+
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_north_german
+}
+create_country_leader = {
+	name = "August Hessen-Darmstadt"
+	desc = "POLITICS_AUGUST_HESSEN-DARMSTADT_DESC"
+	picture = "GFX_portrait_ger_august_von_mackensen"
+	expire = "1965.1.1"
+	ideology = absolute_monarchy_neutral
+	traits = {
+	}
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}

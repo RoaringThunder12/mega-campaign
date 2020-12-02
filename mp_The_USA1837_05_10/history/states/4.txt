@@ -1,0 +1,33 @@
+
+state={
+	id=4
+	name="STATE_4"
+	resources={
+		oil=5.000
+		tungsten=11.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			12322 13 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = RAJ
+		add_core_of = W96
+		add_core_of = X17
+	}
+
+	provinces={
+		1497 1525 1553 1581 7455 10349 10514 12322 12366 12395 
+	}
+	manpower=2465328
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

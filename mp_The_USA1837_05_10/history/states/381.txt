@@ -1,0 +1,34 @@
+
+state={
+	id=381
+	name="STATE_381"
+	resources={
+		aluminium=6.000
+		chromium=8.000
+		oil=8.000
+		steel=2.000
+	}
+
+	history={
+		owner = SOV
+		victory_points = {
+			6192 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = SOV
+		add_core_of = V16
+	}
+
+	provinces={
+		105 154 198 3147 6016 6040 6105 6177 6192 6538 9099 9121 9205 9230 10207 10723 11047 11098 11119 11182 12530 13076 
+	}
+	manpower=37112
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

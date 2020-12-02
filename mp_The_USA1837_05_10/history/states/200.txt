@@ -1,0 +1,32 @@
+
+state={
+	id=200
+	name="STATE_200"
+	resources={
+		steel=42.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			9522 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = GER
+		add_core_of = U17
+		add_core_of = V48
+	}
+
+	provinces={
+		529 587 3444 6469 6570 9482 9522 
+	}
+	manpower=2532604
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=610
+	name="STATE_610"
+	resources={
+		aluminium=22.000
+		oil=126.000
+		steel=28.000
+	}
+
+	history={
+		owner = VEN
+		victory_points = {
+			153 13 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			10855 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = CRC
+		add_core_of = U24
+		add_core_of = VEN
+		add_core_of = X92
+	}
+
+	provinces={
+		153 1944 1997 2052 4526 5088 10855 12772 
+	}
+	manpower=488808
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=432
+	name="STATE_432"
+	resources={
+		aluminium=2.000
+		oil=2.000
+	}
+
+	history={
+		owner = V67
+		victory_points = {
+			1190 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			1190 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = RAJ
+		add_core_of = V67
+	}
+
+	provinces={
+		1061 1190 7020 
+	}
+	manpower=317220
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

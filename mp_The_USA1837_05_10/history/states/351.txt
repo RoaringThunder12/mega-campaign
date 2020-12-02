@@ -1,0 +1,36 @@
+
+state={
+	id=351
+	name="STATE_351"
+	resources={
+		oil=0.000
+		steel=43.000
+	}
+
+	history={
+		owner = HOL
+		victory_points = {
+			6446 13 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			6446 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = BEL
+		add_core_of = FLA
+		add_core_of = HOL
+	}
+
+	provinces={
+		480 516 6446 6560 6598 9574 11419 13068 
+	}
+	manpower=3361360
+	buildings_max_level_factor=1.000
+	state_category=city
+}

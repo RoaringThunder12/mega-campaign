@@ -1,0 +1,30 @@
+
+state={
+	id=111
+	name="STATE_111"
+	resources={
+		chromium=11.000
+	}
+
+	history={
+		owner = X81
+		victory_points = {
+			12218 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = V86
+	}
+
+	provinces={
+		1216 1384 1919 4467 4542 7224 10187 12218 12250 12430 
+	}
+	manpower=361056
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

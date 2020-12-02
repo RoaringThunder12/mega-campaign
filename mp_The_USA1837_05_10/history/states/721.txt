@@ -1,0 +1,29 @@
+
+state={
+	id=721
+	name="STATE_721"
+	resources={
+		chromium=168.000
+	}
+
+	history={
+		owner = SPR
+		victory_points = {
+			8214 1 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		1580 8214 10525 12940 12963 
+	}
+	manpower=76000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=348
+	name="STATE_348"
+	resources={
+		oil=1.000
+		steel=6.000
+	}
+
+	history={
+		owner = HOL
+		victory_points = {
+			391 13 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 10
+
+		}
+		add_core_of = HOL
+		add_core_of = U09
+		add_core_of = W24
+	}
+
+	provinces={
+		68 391 3211 3314 6241 9431 9498 
+	}
+	manpower=1605024
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

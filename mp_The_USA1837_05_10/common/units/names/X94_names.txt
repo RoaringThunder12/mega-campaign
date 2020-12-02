@@ -1,0 +1,58 @@
+﻿X94 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Helgoland" "Danmark" "Gorm" "Lindormen" "Odin" "Rolf Krake" "Tordenskjold" "Peder Skram" "Dannebrog" "Gorm" "Olfert Fischer" "Absalon" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Ulrik Christian GyldenlÃ¸ve" "KÃ¸benhavn" "Ã…rhus" "Ã…lborg" "Odense" "Fredriksberg" "Esbjerg" "NÃ¸rrejyske Ã˜" "Fyn" "JÃ³tlandshaf" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Freia" "Diana" "Lindormen" "StÃ¸ren" "StubberkÃ¸bing" "Gejser" "Kiel" "Falster" "Narhvalen" "Tumleren" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Fyen" "Geiser" "Heimdal" "Hekla" "St. Thomas" "Valkyrien" "Herluf Trolle" "SÃ¸eormen" "SusÃ¥en" "GudenÃ¥en" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Prins Christian Frederik" "Skjold" "Absalon" "Ingolf" "Dannebrog" "Dagmar" "Gesjer" "Dronning Marie" "Waldemar" "Fredrik" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Esbern Snare" "Fylla" "FÃ¦rÃ¸erne" "GrÃ¸nland" "VÃ­kingr" "Harald Klak" "Svend TveskÃ¦g" "Kattegat" "Ã˜resund" "Silkeborg" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Najaden" "Hummer" "Stralsund" "SÃ¸ridder" "Leopard" "Raae" "Esbern Snare" "Ã˜rnen" "SjÃ¦lland" "Gefion" "Thetis" "Niels Juel" "Rota" 
+		}
+	}
+
+}

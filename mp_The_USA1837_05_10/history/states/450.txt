@@ -1,0 +1,31 @@
+
+state={
+	id=450
+	name="STATE_450"
+	resources={
+		chromium=7.000
+		steel=22.000
+	}
+
+	history={
+		owner = SPR
+		victory_points = {
+			4822 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = SAF
+	}
+
+	provinces={
+		1509 4822 5203 10668 10697 12419 
+	}
+	manpower=247208
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=253
+	name="STATE_253"
+	resources={
+		aluminium=4.000
+		rubber=1.000
+		steel=1.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			1951 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = DAH
+		add_core_of = X16
+		add_core_of = X78
+	}
+
+	provinces={
+		1951 12785 12843 13212 
+	}
+	manpower=462096
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

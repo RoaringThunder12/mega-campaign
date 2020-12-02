@@ -1,0 +1,29 @@
+
+state={
+	id=725
+	name="STATE_725"
+	resources={
+		chromium=6.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			5185 1 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		5185 8180 11015 12956 
+	}
+	manpower=452800
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

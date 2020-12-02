@@ -1,8 +1,0 @@
-owner=GER
-controller=GER
-add_core=BOH
-add_core=CZE
-add_core=CZH
-trade_goods = coal
-life_rating = 35
-terrain = hills

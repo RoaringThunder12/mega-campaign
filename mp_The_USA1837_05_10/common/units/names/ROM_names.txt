@@ -1,0 +1,58 @@
+﻿ROM = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Romania" "Stefan cel Mare" "Tudor Vladimirescu" "Moldova" "Mihail Sturdza" "Dracul" "Viteazul" "Putera mari" "Sperietoaria" "Frumuseatsa valurilor" "Posada" "Calugareni" "Rovine" "Sirmium" "Atacul de noapte" "Litovoi" "Athleta Christi" "Baia" "Bogdan I" "Iuga" "Moldova" "Râul Prut" "Suceava" "Târgul Moldovei" "Vaslui" 
+		}
+	}
+
+}

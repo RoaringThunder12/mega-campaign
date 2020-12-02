@@ -1,0 +1,33 @@
+
+state={
+	id=367
+	name="STATE_367"
+	resources={
+		oil=2.000
+		steel=12.000
+	}
+
+	history={
+		owner = SOV
+		victory_points = {
+			3521 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = LIT
+		add_core_of = POL
+		add_core_of = V33
+	}
+
+	provinces={
+		402 524 3521 3559 6484 6511 6580 9452 9521 9544 11399 11466 12562 
+	}
+	manpower=987668
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

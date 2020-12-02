@@ -1,7 +1,0 @@
-owner=RUS
-controller=RUS
-add_core=DKU
-add_core=GZK
-trade_goods = silk
-life_rating = 35
-terrain = hills

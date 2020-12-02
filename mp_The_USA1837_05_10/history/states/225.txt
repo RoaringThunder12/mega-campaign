@@ -1,0 +1,32 @@
+
+state={
+	id=225
+	name="STATE_225"
+	resources={
+		steel=5.000
+	}
+
+	history={
+		owner = HUN
+		victory_points = {
+			6679 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ROM
+		add_core_of = U30
+		add_core_of = V66
+	}
+
+	provinces={
+		690 711 3676 3689 6679 6709 9668 9670 9685 11639 
+	}
+	manpower=1177356
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

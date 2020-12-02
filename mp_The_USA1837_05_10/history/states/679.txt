@@ -1,0 +1,26 @@
+
+state={
+	id=679
+	name="STATE_679"
+
+	history={
+		owner = TUR
+		victory_points = {
+			7194 1 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		4133 4200 7076 7136 7194 8069 9977 13073 
+	}
+	manpower=20533
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

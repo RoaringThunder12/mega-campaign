@@ -1,0 +1,27 @@
+
+state={
+	id=635
+	name="STATE_635"
+
+	history={
+		owner = VEN
+		victory_points = {
+			2152 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = PAR
+	}
+
+	provinces={
+		2152 2173 2194 11023 12901 
+	}
+	manpower=695936
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=201
+	name="STATE_201"
+	resources={
+		steel=6.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			3355 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = GER
+		add_core_of = U17
+		add_core_of = W22
+		add_core_of = W71
+	}
+
+	provinces={
+		405 495 3355 3398 3512 6535 6622 9443 9509 9547 11346 11431 11533 
+	}
+	manpower=1800976
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

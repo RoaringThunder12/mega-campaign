@@ -1,0 +1,31 @@
+
+state={
+	id=374
+	name="STATE_374"
+
+	history={
+		owner = SOV
+		victory_points = {
+			3686 13 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = GRE
+		add_core_of = SOV
+		add_core_of = V84
+		add_core_of = X64
+		add_core_of = X88
+	}
+
+	provinces={
+		705 3686 3722 6704 6724 9677 9680 9718 11649 
+	}
+	manpower=258772
+	buildings_max_level_factor=1.000
+	state_category=town
+}

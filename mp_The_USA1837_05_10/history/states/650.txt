@@ -1,0 +1,40 @@
+
+state={
+	id=650
+	name="STATE_650"
+	resources={
+		aluminium=10.000
+		rubber=11.000
+		steel=10.000
+	}
+
+	history={
+		owner = VEN
+		victory_points = {
+			2164 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			2228 = {
+				naval_base = 2
+			}
+			10933 = {
+				naval_base = 2
+			}
+			air_base = 5
+
+		}
+		add_core_of = BRA
+		add_core_of = V91
+		add_core_of = VEN
+	}
+
+	provinces={
+		2132 2150 2164 2175 2178 2228 5107 5153 5204 8179 10933 10984 
+	}
+	manpower=659776
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

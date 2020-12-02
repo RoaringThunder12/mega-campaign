@@ -1,0 +1,85 @@
+﻿capital = 609
+set_research_slots = 3
+
+oob = "U34_OOB"
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = "U34_1936_naval_mtg"
+	else = { 
+		set_naval_oob = "U34_1936_naval_legacy"
+	}
+}
+
+# Starting tech
+set_technology = {
+}
+
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+	}
+}
+# Research Bonuses
+set_convoys = 0
+
+
+set_politics = {
+    ruling_party = neutrality
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 94
+	neutrality = 6
+}
+
+add_opinion_modifier = { target = CAN modifier = negative_30 }
+add_opinion_modifier = { target = CAT modifier = negative_20 }
+add_opinion_modifier = { target = CUB modifier = positive_15 }
+add_opinion_modifier = { target = FRA modifier = negative_30 }
+add_opinion_modifier = { target = HOL modifier = negative_10 }
+add_opinion_modifier = { target = HUN modifier = negative_20 }
+add_opinion_modifier = { target = MEX modifier = negative_5 }
+add_opinion_modifier = { target = SPR modifier = negative_10 }
+add_opinion_modifier = { target = SWI modifier = negative_10 }
+add_opinion_modifier = { target = TUN modifier = negative_10 }
+add_opinion_modifier = { target = U15 modifier = negative_20 }
+add_opinion_modifier = { target = U42 modifier = negative_10 }
+add_opinion_modifier = { target = U44 modifier = negative_10 }
+add_opinion_modifier = { target = USA modifier = negative_10 }
+add_opinion_modifier = { target = V01 modifier = negative_30 }
+add_opinion_modifier = { target = VEN modifier = negative_30 }
+add_opinion_modifier = { target = W42 modifier = negative_10 }
+add_opinion_modifier = { target = X67 modifier = negative_10 }
+
+
+
+add_ideas = {
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_north_andean
+}
+create_country_leader = {
+	name = "Ricardo de Obaldía"
+	desc = "POLITICS_RICARDO_DE OBALDíA_DESC"
+	picture = "gfx/leaders/ARG/Portrait_Argentina_Agustin_Pedro_Justo.dds"
+	expire = "1965.1.1"
+	ideology = absolute_monarchy_neutral
+	traits = {
+	}
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}

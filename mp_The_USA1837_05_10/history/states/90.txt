@@ -1,0 +1,32 @@
+
+state={
+	id=90
+	name="STATE_90"
+	resources={
+		aluminium=18.000
+	}
+
+	history={
+		owner = DEN
+		victory_points = {
+			12674 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = DEN
+		add_core_of = ICE
+		add_core_of = SCA
+	}
+
+	provinces={
+		4861 12674 12689 
+	}
+	manpower=64748
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

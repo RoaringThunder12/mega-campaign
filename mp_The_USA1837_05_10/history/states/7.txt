@@ -1,0 +1,33 @@
+
+state={
+	id=7
+	name="STATE_7"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			4425 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = BRM
+		add_core_of = V59
+		add_core_of = W33
+		add_core_of = W66
+	}
+
+	provinces={
+		1082 4425 8063 10920 12464 
+	}
+	manpower=451420
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
