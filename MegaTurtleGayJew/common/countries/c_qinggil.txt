@@ -1,0 +1,23 @@
+graphical_culture = asiangfx
+color = { 60 60 160 }
+monarch_names = {
+	"Chakha #0" = -1
+	"Checheyigen #0" = -1
+	"Doquz #0" = -1
+	"Gunduz #0" = -1
+	"Irinchibal #0" = 0
+	"Khutulan #0" = -1
+	"Kitbuqa #0" = 0
+	"Kokachin #0" = -1
+	"Kubasar #0" = 0
+	"Kuchluk #1" = 10
+	"Pemka #0" = -1
+	"Quchar #0" = 0
+	"Saru #0" = 0
+	"Sirin #0" = -1
+	"Sokhatai #0" = -1
+	"Sorkhaghatani #0" = -1
+	"Tooril #0" = 0
+	"Valdava #0" = -1
+	"Zaufishan #0" = -1
+}

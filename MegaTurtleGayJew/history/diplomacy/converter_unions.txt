@@ -1,0 +1,176 @@
+union=
+{
+	first="SPL"
+	second="Z42"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z10"
+	second="NOR"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="WES"
+	second="SHL"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="HAB"
+	second="SOR"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="HAB"
+	second="STY"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="HAB"
+	second="TNT"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="BAV"
+	second="TIR"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="EST"
+	second="Z40"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="PRM"
+	second="Z34"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="CRT"
+	second="Z02"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="CRT"
+	second="Z23"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="CRT"
+	second="Z32"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="RYA"
+	second="Z81"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="CRI"
+	second="IME"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="BOH"
+	second="Y13"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Y46"
+	second="GEN"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="AQU"
+	second="VRN"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="BRB"
+	second="ALS"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Y14"
+	second="BLG"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="MLO"
+	second="MFA"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="MLO"
+	second="SZO"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="SER"
+	second="EPI"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+

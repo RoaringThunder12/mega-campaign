@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = principality
+government_rank = 2
+technology_group = eastern
+religion = orthodox
+primary_culture = russian
+capital = 308
+1444.11.11= {
+	monarch = {
+		name = "Dmitriy"
+		dynasty = "Timerovich"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1400.2.20
+		religion = orthodox
+		culture = russian
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Pekshayka"
+		dynasty = "Rategid"
+		adm = 5
+		dip = 3
+		mil = 5
+		country_of_origin = Z26
+		birth_date = 1415.4.21
+		death_date = 1475.4.21
+		female = yes
+		religion = orthodox
+		culture = komi
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = kind_hearted_personality
+	heir = {
+		name = "Biur"
+		monarch_name = "Biur"
+		dynasty = "Kazym-Volzhsk"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1398.7.11
+		death_date = 1463.7.11
+		claim = 89
+		religion = orthodox
+		culture = komi
+	}
+	add_heir_personality = martial_educator_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 92
+	add_treasury = 76
+}

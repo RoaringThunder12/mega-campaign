@@ -1,0 +1,15 @@
+graphical_culture = inuitgfx
+color = { 97 56 55 }
+monarch_names = {
+	"Ber #0" = -1
+	"Burmort #0" = -1
+	"Gazheg #0" = -1
+	"Georgios #0" = 0
+	"Nuyat #0" = 0
+	"Sektev #0" = -1
+	"Shindyay #0" = -1
+	"Vayulla #0" = 0
+	"Vechkas #0" = 0
+	"Yildiz #0" = -1
+	"Zhuneg #0" = 0
+}

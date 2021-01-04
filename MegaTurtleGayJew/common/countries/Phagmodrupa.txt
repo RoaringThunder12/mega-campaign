@@ -1,0 +1,103 @@
+graphical_culture = asiangfx
+color = { 93 102 151 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Gulsum #0" = -1
+	"Jamyang #0" = 0
+	"Kasa #0" = -1
+	"Ketu #0" = -1
+	"Kirtivarman #0" = 0
+	"Koboza #0" = -1
+	"Manggyel #1" = 10
+	"Muzu #0" = 0
+	"Pelkhorré #0" = 0
+	"Pogong #0" = -1
+	"Pongza #0" = -1
+	"Samdup #0" = 0
+	"Selbar #0" = 0
+	"Tarjay #0" = 0
+	"Tawen #0" = 0
+	"Thubten #0" = -1
+	"Tigunyiri #0" = 0
+	"Tridra #0" = -1
+	"Yangtsémé #0" = 0
+}
+leader_names = {
+	"Bal"
+	"Bri"
+	"Bro"
+	"Chespong"
+	"Cogro"
+	"Dbas"
+	"Dbra"
+	"Dru"
+	"Gnon"
+	"Gnyags"
+	"Khjungpo"
+	"Khu"
+	"Khun"
+	"Lang"
+	"Ldong"
+	"Lig"
+	"Mchims"
+	"Mgar"
+	"Mgus"
+	"Mjang"
+	"Mkar"
+	"Mnyammed"
+	"Mong"
+	"Nganlam"
+	"Nyang"
+	"Phjongsrgjas"
+	"Rinspungs"
+	"Rlangs"
+	"Rma"
+	"Rmu"
+	"Sba"
+	"Sbas"
+	"Se"
+	"Sgro"
+	"Shudpu"
+	"Snang"
+	"Snyiba"
+	"Stong"
+	"Thonmi"
+	"Zhang"
+	"Zhingshag"
+}
+ship_names = {
+	"Barkam"
+	"Dartsendo"
+	"Gartse"
+	"Gyantse"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagqu"
+	"Nedong"
+	"Nyingchi"
+	"Pelbar"
+	"Qamdo"
+	"Sakya"
+	"Shigatse"
+	"Tinggri"
+}

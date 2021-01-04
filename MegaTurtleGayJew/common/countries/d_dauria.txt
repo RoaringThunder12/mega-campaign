@@ -1,0 +1,13 @@
+graphical_culture = inuitgfx
+color = { 72 163 232 }
+monarch_names = {
+	"Badma #0" = 0
+	"Erdenebal #0" = 0
+	"Erzhena #0" = 0
+	"Irinchibal #0" = 0
+	"Iturgen #0" = -1
+	"Khanda #1" = -1
+	"Mongoljin #0" = -1
+	"Sanzima #0" = 0
+	"Tekhe #0" = -1
+}

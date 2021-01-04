@@ -1,0 +1,118 @@
+graphical_culture = westerngfx
+color = { 232 149 18 }
+revolutionary_colors = { 5 13 0 }
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	innovativeness_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adelasia #0" = -1
+	"Bedriška #0" = -1
+	"Chval #1" = 10
+	"Hartwig #0" = 0
+	"Jošt #0" = 0
+	"Mlada #0" = -1
+	"Przemyslaw #0" = -1
+	"Sezema #0" = 0
+	"Záviš #0" = -1
+	"Caslav #0" = 0
+	"Šárka #0" = -1
+}
+leader_names = {
+	"Berka"
+	"Capek"
+	"Harant"
+	"Haugvicové z Biskupic"
+	"Jiskra"
+	"Kaspar"
+	"Kolowrat"
+	"Komenský"
+	"Mansfeld"
+	"Petrasch"
+	"Pilchramb"
+	"Purkyne"
+	"Píka"
+	"Reiner"
+	"Schwarzenberg"
+	"Sokol"
+	"Syrový"
+	"Thurn"
+	"Velen"
+	"Veliký"
+	"Zajíc"
+	"Zelezný"
+	"z Boskovic"
+	"z Brandýsa"
+	"z Ditrichštejna"
+	"z Falkensteina"
+	"z Husi"
+	"z Kunštátu a Podebrad"
+	"z Lichtenštejna"
+	"z Nostic"
+	"z Otradovic"
+	"z Pardubic"
+	"z Pernštejna"
+	"z Polzic"
+	"z Rozmberka"
+	"z Rozmitálu"
+	"z Vartemberka"
+	"z Veleslavína"
+	"ze Lvovic"
+	"ze Svamberka"
+	"ze Zerotína"
+	"Žerotínové"
+}
+ship_names = {
+	"Bystrý"
+	"Cechy"
+	"Ctirad"
+	"Hvezda"
+	"Jan Hus"
+	"Jan Zizka"
+	"Kníze Bretislav"
+	"Král Boleslav"
+	"Král Karel"
+	"Král Premysl"
+	"Libuse"
+	"Morava"
+	"Nejsvetejsí Trojice"
+	"Neporazitelný"
+	"Odvázný"
+	"Orel"
+	"Panna Maria Vitezná"
+	"Premysl Orac"
+	"Prokop Holý"
+	"Rychlý"
+	"Sipka"
+	"Slezsko"
+	"Sokol"
+	"Svatá Anezká"
+	"Svatá Ludmila"
+	"Svatý Jan Nepomucký"
+	"Svatý Jirí"
+	"Svatý Mikulás"
+	"Svatý Vaclav"
+}
+preferred_religion = protestant

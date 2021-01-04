@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = mahayana
+primary_culture = khalkha
+capital = 718
+1444.11.11= {
+	add_prestige = 70
+	add_treasury = 51
+}

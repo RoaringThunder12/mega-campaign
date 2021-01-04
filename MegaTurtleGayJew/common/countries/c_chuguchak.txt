@@ -1,0 +1,15 @@
+graphical_culture = asiangfx
+color = { 115 30 0 }
+monarch_names = {
+	"Asli #0" = -1
+	"Atrak #0" = 0
+	"Ayasun #0" = -1
+	"Conchaka #0" = -1
+	"Girgen #0" = 0
+	"Gzi #0" = 0
+	"Ipekel #0" = -1
+	"Irge #0" = -1
+	"Itlar #1" = 10
+	"Tugor #0" = 0
+	"Çiltanesi #0" = -1
+}

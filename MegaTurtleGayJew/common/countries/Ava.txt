@@ -1,0 +1,121 @@
+graphical_culture = indiangfx
+color = { 98 138 99 }
+revolutionary_colors = { 8 9 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	administrative_ideas
+	spy_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Abhiyaza #1" = 10
+	"Agnimitra #0" = -1
+	"Amrapali #0" = -1
+	"Bapu #0" = -1
+	"Chandaladevi #0" = -1
+	"Dipit #0" = -1
+	"Eindra #0" = -1
+	"Heman #0" = -1
+	"Ingyin #0" = -1
+	"Paannsee #0" = -1
+	"Rajyapala #0" = -1
+	"Salin Minthami #0" = -1
+	"Saw Lu #0" = 0
+	"Sokkate #0" = 0
+	"Thinzar #0" = -1
+	"Thitkwa #0" = -1
+	"Yahawlaw #0" = 0
+	"Zarni #0" = 0
+	"Zayar #0" = -1
+}
+leader_names = {
+	"Ava"
+	"Banyin"
+	"Bawnin"
+	"Bawzaing"
+	"Bhamo"
+	"Hopon"
+	"Kale"
+	"Kokang"
+	"Kyaingchaing"
+	"Kyaingkan"
+	"Kyaingtong"
+	"Kyaukku"
+	"Kyithi Bansan"
+	"Kyon"
+	"Lwee"
+	"Lwelong"
+	"Lwemaw"
+	"Lègya"
+	"Maingpyin"
+	"Maingseik"
+	"Maington"
+	"Manglon"
+	"Maukme"
+	"Maw"
+	"Mobye"
+	"Mogaung"
+	"Mohnyin"
+	"Momeik"
+	"Mong Pan"
+	"Monghsu"
+	"Mongleam"
+	"Monglin"
+	"Mongnawng"
+	"Mongtorm"
+	"Monè"
+	"Mönglong"
+	"Möngyawng"
+	"Nanke"
+	"Nankok"
+	"Nankon"
+	"Nantok"
+	"Nyaungshwe"
+	"Panglawng"
+	"Pangmi"
+	"Pindara"
+	"Poila"
+	"Sakoi"
+	"Samka"
+	"Tawngpeng"
+	"Thamaingkan"
+	"Thaton"
+	"Thaungdut"
+	"Theinni"
+	"Thibaw"
+	"Thigyit"
+	"Wynn Tho"
+	"Yatsauk"
+	"Yengan"
+}
+ship_names = {
+	"Hsim"
+	"Inle"
+	"Kengtong"
+	"Lui"
+	"Myitnge"
+	"Nam"
+	"Pilu"
+	"Saluen"
+	"Salween"
+	"Shweli"
+	"Tachileik"
+	"Taunggyi"
+	"Teng"
+	"Thanlwin"
+}
+special_unit_culture = south_east_asian_special

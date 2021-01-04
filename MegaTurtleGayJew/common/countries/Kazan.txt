@@ -1,0 +1,72 @@
+graphical_culture = inuitgfx
+color = { 97 102 135 }
+revolutionary_colors = { 10 0 5 }
+historical_idea_groups = {
+	administrative_ideas
+	trade_ideas
+	quantity_ideas
+	expansion_ideas
+	offensive_ideas
+	economic_ideas
+	defensive_ideas
+	religious_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Kanyuva #0" = -1
+	"Kure #0" = 0
+	"Kvilyo #0" = 0
+	"Oksya #0" = -1
+	"Ozhmeg #0" = -1
+	"Sangasa #0" = -1
+	"Sektev #0" = 0
+	"Spira #0" = -1
+	"Torkan #1" = 10
+	"Tugan #0" = 0
+	"Tundava #0" = -1
+	"Vergava #0" = 0
+	"Yeh'lem #0" = 0
+}
+leader_names = {
+	"Cälil"
+	"Göbäydullina"
+	"Isxaqi"
+	"Märcani"
+	"Nasiri"
+	"Nigmät"
+	"Nurgäli"
+	"Näcmetdin"
+	"Qamay"
+	"Qol-Gäli"
+	"Qursawi"
+	"Tuqay"
+	"Yusupow"
+}
+ship_names = {
+	"Alat"
+	"Arca"
+	"Cöri"
+	"Ghiasetdin"
+	"Gärec"
+	"Nugay"
+	"Qazan"
+	"Qazansu"
+	"Qazgan"
+	"Qazi"
+	"Säyet"
+	"Säyex"
+	"Söyembikä"
+	"Tas Ayaq"
+}

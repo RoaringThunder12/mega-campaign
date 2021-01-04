@@ -1,0 +1,83 @@
+graphical_culture = asiangfx
+color = { 93 180 76 }
+revolutionary_colors = { 8 0 6 }
+historical_idea_groups = {
+	religious_ideas
+	economic_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Chödak #0" = -1
+	"Dekyi #0" = -1
+	"Dorje #1" = 10
+	"Gyeltsen #0" = 0
+	"Gyimsheng #0" = -1
+	"Gyurmé #0" = 0
+	"Hariti #0" = -1
+	"Hemangini #0" = -1
+	"Jekundag #0" = 0
+	"Jimi #0" = 0
+	"Kalya #0" = -1
+	"Langdarma #0" = 0
+	"Lhachen #0" = 0
+	"Mindruk #0" = -1
+	"Ngawang #0" = -1
+	"Nytari #0" = -1
+	"Obayamma #0" = -1
+	"Pelchen #0" = 0
+	"Pelden #0" = -1
+	"Popo #0" = 0
+	"Rani #0" = -1
+	"Rinchen #0" = 0
+	"Seupa #0" = 0
+	"Shok #0" = 0
+	"Skamar #0" = -1
+	"Sönam #0" = 0
+	"Tingngezin #0" = 0
+	"Tridaka #0" = -1
+	"Tsewang #0" = -1
+	"Tsünmo #0" = 0
+	"Wangdue #0" = -1
+	"Yanggolung #0" = -1
+}
+leader_names = {
+	"Chomphel"
+	"Gyaltshen"
+	"Gyamtsho"
+	"Lhopi"
+	"Peljor"
+	"Phuntsho"
+	"Rabgye"
+	"Tshering"
+	"Wangchuk"
+	"Wangpo"
+}
+ship_names = {
+	"Chhu"
+	"Dng Chu"
+	"Manas Chu"
+	"Mangde Chu"
+	"Mo Chu"
+	"Pa Chu"
+	"Pho Chu"
+	"Punaka"
+	"Sangkosh"
+	"Thimbu"
+	"Tongsa Chu"
+	"Towang Chu"
+}

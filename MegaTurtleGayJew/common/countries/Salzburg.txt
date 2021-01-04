@@ -1,0 +1,86 @@
+graphical_culture = westerngfx
+color = { 129 109 9 }
+revolutionary_colors = { 8 1 16 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adelheid #0" = -1
+	"Ekbert #0" = 0
+	"Ernst #1" = 10
+	"Friedrich #0" = 0
+	"Gerhard #0" = 0
+	"Gertrude #0" = -1
+	"Giovanna #0" = -1
+	"Hedwig #0" = -1
+	"Jakob #0" = -1
+	"Johann #0" = 0
+	"Jovana #0" = -1
+	"Klementia #0" = -1
+	"Kuno #0" = 0
+	"Liutfrid #0" = 0
+	"Lothar #0" = 0
+	"Luther #0" = 0
+	"Rasso #0" = 0
+	"Rothard #0" = 0
+	"Weickhard #0" = -1
+}
+leader_names = {
+	"Aigner"
+	"Amanshauser"
+	"Burgstaller"
+	"Bäck"
+	"Doppler"
+	"Feiersinger"
+	"Gruber"
+	"Macheiner"
+	"Maislinger"
+	"Mayer"
+	"Mohr"
+	"Rendl"
+	"Rohracher"
+	"Scharl"
+	"Schönswetter"
+	"Trakl"
+	"Waggerl"
+	"Witzigmann"
+}
+ship_names = {
+	"Dachstein"
+	"Gmunden"
+	"Hallein"
+	"Hallstatt"
+	"Hochkönig"
+	"Lungau"
+	"Pinzgau"
+	"Pongau"
+	"Salzach"
+	"Tennengau"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+	"Erzbischofliche Garde"
+}

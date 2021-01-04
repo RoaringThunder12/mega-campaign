@@ -1,0 +1,17 @@
+graphical_culture = asiangfx
+color = { 50 80 130 }
+monarch_names = {
+	"Dandi #0" = -1
+	"Dromtön #0" = 0
+	"Durgaraja #0" = 0
+	"Geleg #0" = -1
+	"Kanchanastambha #0" = 0
+	"Lakshmikaradevi #1" = -1
+	"Lilavati #0" = -1
+	"Madhukamarnava #0" = 0
+	"Prasadhanadevi #0" = -1
+	"Tanrivermis #0" = 0
+	"Vakpati #0" = 0
+	"Vidhyadhara #0" = 0
+	"Zangmo #0" = -1
+}

@@ -1,0 +1,22 @@
+graphical_culture = muslimgfx
+color = { 185 180 60 }
+monarch_names = {
+	"Amunet #0" = 0
+	"Artuk #0" = 0
+	"Bahir #0" = 0
+	"Baytas #0" = -1
+	"Dilek #0" = -1
+	"Dogan #0" = 0
+	"Faruk #0" = 0
+	"Gulfem #0" = -1
+	"Hatice #0" = -1
+	"Itlar #0" = 0
+	"Ituk #1" = 10
+	"Javaneh #0" = -1
+	"Kobyak #0" = -1
+	"Mahmud #0" = 0
+	"Ovlur #0" = 0
+	"Toktamis #0" = -1
+	"Yahya #0" = 0
+	"Çiltanesi #0" = -1
+}

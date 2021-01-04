@@ -1,0 +1,16 @@
+graphical_culture = indiangfx
+color = { 180 110 41 }
+monarch_names = {
+	"Akkadevi #0" = -1
+	"Angana #0" = -1
+	"Bhilpala #0" = 0
+	"Chand #1" = 10
+	"Dhangadeva #0" = 0
+	"Mahendra #0" = -1
+	"Mahidevi #0" = -1
+	"Paramardideva #0" = 0
+	"Purandaradasa #0" = 0
+	"Ratnapala #0" = -1
+	"Tongtsen #0" = -1
+	"Zam #0" = -1
+}

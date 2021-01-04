@@ -1,0 +1,101 @@
+graphical_culture = easterngfx
+color = { 152 85 92 }
+revolutionary_colors = { 5 0 10 }
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	religious_ideas
+	spy_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	germanized_pike
+	hungarian_hussar
+	polish_hussar
+	polish_musketeer
+	polish_tercio
+	polish_winged_hussar
+	slavic_stradioti
+}
+monarch_names = {
+	"Bálint #0" = -1
+	"Csaba #0" = 0
+	"Domoszló #0" = 0
+	"Emõke #0" = -1
+	"György #0" = -1
+	"Matilda #0" = -1
+	"Malgorzata #0" = -1
+	"Mária #0" = 0
+	"Márton #0" = 0
+	"Mátyás #0" = 0
+	"Móric #0" = 0
+	"Olga #0" = -1
+	"Orbán #0" = 0
+	"Panni #0" = -1
+	"Pál #1" = 10
+	"Sámuel #0" = 0
+	"Terezia #0" = -1
+	"Tibor #0" = -1
+	"Wulfhilde #0" = -1
+	"Smiechna #0" = -1
+}
+leader_names = {
+	"Alvinczy"
+	"Andrássy"
+	"Batthyány"
+	"Beleznay"
+	"Benovský"
+	"Bethlen"
+	"Bocskay"
+	"Báthory"
+	"Csák"
+	"Dessewffy"
+	"Esterházy"
+	"Festetics"
+	"Frangepán"
+	"Garay"
+	"Hadik"
+	"Horthy"
+	"Hunyadi"
+	"Kemeny"
+	"Kinizsi"
+	"Kán"
+	"Károlyi"
+	"Lackovic'"
+	"Losonci"
+	"Milványi"
+	"Mészáros"
+	"Nadasdy"
+	"Ozoray"
+	"Rozgonyi"
+	"Rákóczi"
+	"Széchenyi"
+	"Teleki"
+	"Thököly"
+	"Zichy"
+	"Zrinski"
+	"Zápolya"
+	"de Kovats"
+	"Šubic'"
+}
+ship_names = {
+	"Aranybulla"
+	"Arpad"
+	"Hunyadi Matyas"
+	"Kalman"
+	"Karoly Robert"
+	"Laszlo"
+	"Magyar"
+	"Nagy Lajos"
+	"Sigismund"
+	"Szent Istvan kiraly"
+}

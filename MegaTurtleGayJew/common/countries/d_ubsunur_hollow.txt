@@ -1,0 +1,15 @@
+graphical_culture = asiangfx
+color = { 62 128 74 }
+monarch_names = {
+	"Buyimur #1" = 10
+	"Goland #0" = -1
+	"Hogelun #0" = -1
+	"Ketbugha #0" = -1
+	"Khojin #0" = -1
+	"Khutulun #0" = -1
+	"Kulbur #0" = -1
+	"Lenchikma #0" = -1
+	"Marguz #0" = -1
+	"Suvrata #0" = -1
+	"Tooril #0" = -1
+}

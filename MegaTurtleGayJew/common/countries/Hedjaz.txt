@@ -1,0 +1,68 @@
+graphical_culture = muslimgfx
+color = { 255 215 185 }
+revolutionary_colors = { 1 0 10 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	influence_ideas
+	diplomatic_ideas
+	quantity_ideas
+	economic_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Aarif #0" = -1
+	"Abdullah #0" = -1
+	"Bhagi #0" = -1
+	"Firuz #0" = -1
+	"Hanifa #0" = -1
+	"Husam #0" = 0
+	"Kamala #0" = -1
+	"Khadija #0" = -1
+	"Mahdi #0" = 0
+	"Muzaffaraddin #0" = -1
+	"Qawurd #0" = 0
+	"Shamir #0" = 0
+	"Yahya #0" = -1
+	"Yusuf #1" = 10
+}
+leader_names = {
+	"Abbas"
+	"Chammas"
+	"Farhat"
+	"Hammoud"
+	"Ibrahim"
+	"Khalil"
+	"Mansour"
+	"Saleh"
+	"Taleb"
+	"Youssef"
+}
+ship_names = {
+	"Harrat Al-Buqum"
+	"Harrat Al-Kishb"
+	"Harrat Hadan"
+	"Harrat Khaybar"
+	"Harrat Kurama"
+	"Harrat Nawasif"
+	"Harrat Rahat"
+	"Harrat al-Unayyir"
+	"Hijaz"
+	"Jabal Abu Hasan"
+	"Jabal Baydan"
+	"Jabal Sawda"
+	"Jabal al-Jurayrah"
+	"Jeddah"
+	"Mecca"
+	"Medina"
+}

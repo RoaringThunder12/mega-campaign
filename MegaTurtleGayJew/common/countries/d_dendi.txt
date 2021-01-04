@@ -1,0 +1,21 @@
+graphical_culture = africangfx
+color = { 200 50 80 }
+monarch_names = {
+	"Aichata #0" = -1
+	"Aissata #0" = -1
+	"Babba #0" = -1
+	"Bar #0" = 0
+	"Barakissa #0" = -1
+	"Barbushe #1" = 10
+	"Biyu #0" = -1
+	"Dam #0" = 0
+	"Duna #0" = 0
+	"Genma #0" = -1
+	"Kinana #0" = -1
+	"Lawan #0" = 0
+	"Niye #0" = -1
+	"Nure #0" = -1
+	"Sekkin #0" = 0
+	"Sita #0" = 0
+	"T'item #0" = -1
+}

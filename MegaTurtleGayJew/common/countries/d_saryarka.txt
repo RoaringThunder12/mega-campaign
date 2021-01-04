@@ -1,0 +1,25 @@
+graphical_culture = asiangfx
+color = { 207 121 72 }
+monarch_names = {
+	"Baytursun #0" = 0
+	"Bhumpala #0" = 0
+	"Blush #0" = 0
+	"Bönek #0" = 0
+	"Etrek #0" = 0
+	"Ipekel #0" = -1
+	"Karacik #0" = -1
+	"Koza #0" = -1
+	"Kuntuvdi #0" = -1
+	"Könçek #0" = 0
+	"Lavor #0" = -1
+	"Nattadevi #0" = -1
+	"Paramardideva #0" = 0
+	"Peksen #0" = -1
+	"Pulad #0" = 0
+	"Sokal #1" = 10
+	"Songul #0" = -1
+	"Traillokyachandra #0" = 0
+	"Tura #0" = -1
+	"Yeldem #0" = -1
+	"Özgul #0" = -1
+}

@@ -1,0 +1,15 @@
+graphical_culture = inuitgfx
+color = { 60 95 120 }
+monarch_names = {
+	"Akgul #0" = -1
+	"Altana #0" = 0
+	"Bavasan #0" = -1
+	"Byorte #0" = -1
+	"Elbeg #0" = -1
+	"Erzhena #0" = -1
+	"Innokentii #0" = 0
+	"Khanda #0" = -1
+	"Suddhipala #1" = 10
+	"Tsymzidma #0" = -1
+	"Tsypelma #0" = -1
+}

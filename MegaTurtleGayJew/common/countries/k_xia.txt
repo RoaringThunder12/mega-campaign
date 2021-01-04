@@ -1,0 +1,22 @@
+graphical_culture = asiangfx
+color = { 110 90 230 }
+monarch_names = {
+	"Amin Dara #0" = -1
+	"Gangambika #0" = -1
+	"Hui #0" = -1
+	"Ketbugha #0" = 0
+	"Khutulun #0" = -1
+	"Kotyan #0" = 0
+	"Mai #0" = -1
+	"Pelri #0" = 0
+	"Sirma #0" = -1
+	"Skamar #0" = -1
+	"Tapar #0" = 0
+	"Trimalö #1" = -1
+	"Tsenmo #0" = -1
+	"Waihe #0" = 0
+	"Wenzao #0" = -1
+	"Zhixian #0" = -1
+	"Zhyelmo #0" = -1
+	"Çilen #0" = -1
+}

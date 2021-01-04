@@ -1,0 +1,71 @@
+graphical_culture = easterngfx
+color = { 138 110 130 }
+revolutionary_colors = { 15 0 15 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_spahi
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Ademar #0" = 0
+	"Anthe #0" = -1
+	"Artemios #0" = -1
+	"Barbara #0" = -1
+	"Dionysia #0" = -1
+	"Iouliana #0" = 0
+	"Makarios #0" = 0
+	"Paschalis #0" = 0
+	"Rhodanthe #0" = -1
+	"Theoktistos #1" = 10
+	"Zenon #0" = 0
+}
+leader_names = {
+	"Argyrus"
+	"Artavasdus"
+	"Basileus"
+	"Diogenes"
+	"Ducas"
+	"Monomachus"
+	"Morosini"
+	"Romanus"
+	"Stauracius"
+	"Stratioticus"
+	"Vataces"
+	"Zimisces"
+	"de Vendôme"
+}
+ship_names = {
+	"Dermoaros"
+	"Frangokastelo"
+	"Glalos"
+	"Koudouras"
+	"Lentas"
+	"Matala"
+	"Paleochora"
+	"Papadogiannis"
+	"Plakias"
+	"Sougia"
+}

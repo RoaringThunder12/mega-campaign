@@ -1,0 +1,15 @@
+owner = KUT
+controller = KUT
+capital = "Berau"
+is_city = yes
+culture = bornean
+religion = hinduism
+trade_goods = fish
+base_tax = 2
+base_production = 2
+base_manpower = 2
+add_core = KUT
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

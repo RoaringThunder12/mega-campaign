@@ -1,0 +1,23 @@
+graphical_culture = indiangfx
+color = { 68 208 51 }
+monarch_names = {
+	"Abhiyaza #1" = 10
+	"Agnimitra #0" = -1
+	"Amrapali #0" = -1
+	"Bapu #0" = -1
+	"Chandaladevi #0" = -1
+	"Dipit #0" = -1
+	"Eindra #0" = -1
+	"Heman #0" = -1
+	"Ingyin #0" = -1
+	"Paannsee #0" = -1
+	"Rajyapala #0" = -1
+	"Salin Minthami #0" = -1
+	"Saw Lu #0" = 0
+	"Sokkate #0" = 0
+	"Thinzar #0" = -1
+	"Thitkwa #0" = -1
+	"Yahawlaw #0" = 0
+	"Zarni #0" = 0
+	"Zayar #0" = -1
+}

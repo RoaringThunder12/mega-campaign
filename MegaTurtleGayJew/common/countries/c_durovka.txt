@@ -1,0 +1,14 @@
+graphical_culture = muslimgfx
+color = { 35 60 60 }
+monarch_names = {
+	"Chakak #0" = -1
+	"Elime #0" = -1
+	"Khalim #1" = 10
+	"Memüre #0" = -1
+	"Varpines #0" = 0
+	"Vayulla #0" = 0
+	"Volkkam #0" = 0
+	"Yuman #0" = 0
+	"0htimer #1" = 10
+	"0htirek #0" = 0
+}

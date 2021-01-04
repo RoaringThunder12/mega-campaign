@@ -1,0 +1,15 @@
+graphical_culture = asiangfx
+color = { 100 145 70 }
+monarch_names = {
+	"Daaritai #0" = 0
+	"Doregene #0" = -1
+	"Gyatso #0" = -1
+	"Jamuqa #0" = 0
+	"Ketbugha #0" = 0
+	"Khorijin #0" = -1
+	"Khulan #0" = -1
+	"Khutulun #0" = -1
+	"Qatarqa #0" = -1
+	"Qurdjaquz #1" = 10
+	"Saryk #0" = 0
+}

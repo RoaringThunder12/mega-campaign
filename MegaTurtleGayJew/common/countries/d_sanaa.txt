@@ -1,0 +1,20 @@
+graphical_culture = muslimgfx
+color = { 220 230 30 }
+monarch_names = {
+	"Faghira #0" = -1
+	"Ghalib #0" = -1
+	"Hakim #0" = 0
+	"Husam #1" = 10
+	"Mehrîban #0" = -1
+	"Mirza #0" = 0
+	"Muhammad #0" = 0
+	"Munya #0" = -1
+	"Muzaffaraddin #0" = -1
+	"Paghahan #0" = 0
+	"Parween #0" = -1
+	"Rashida #0" = -1
+	"Shararah #0" = -1
+	"Talib #0" = -1
+	"Toramana #0" = 0
+	"Zaynab #0" = -1
+}

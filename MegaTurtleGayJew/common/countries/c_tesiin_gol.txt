@@ -1,0 +1,13 @@
+graphical_culture = asiangfx
+color = { 35 75 45 }
+monarch_names = {
+	"Arghun #0" = -1
+	"Chakha #0" = -1
+	"Devapala #0" = 0
+	"Erzhena #0" = -1
+	"Hurimashi #0" = 0
+	"Mergen #0" = 0
+	"Nokha #0" = 0
+	"Quchar #1" = 10
+	"Samar #0" = -1
+}

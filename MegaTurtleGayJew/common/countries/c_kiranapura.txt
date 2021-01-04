@@ -1,0 +1,14 @@
+graphical_culture = indiangfx
+color = { 36 175 85 }
+monarch_names = {
+	"Bhogavati #1" = -1
+	"Durgaraja #0" = 0
+	"Gauri #0" = -1
+	"Hemantavarman #0" = 0
+	"Jayasimha #0" = 0
+	"Kanchanastambha #0" = 0
+	"Mukunda #0" = 0
+	"Prasannamatra #0" = 0
+	"Sultanpala #0" = -1
+	"Suvrata #1" = -1
+}

@@ -1,0 +1,99 @@
+graphical_culture = africangfx
+color = { 230 240 255 }
+revolutionary_colors = { 5 0 8 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	adal_guerilla_warfare
+	adal_gunpowder_warfare
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	westernized_adal
+}
+monarch_names = {
+	"Abeba #0" = -1
+	"Adanech #0" = -1
+	"Assefa #0" = 0
+	"Balô #0" = 0
+	"Berhanu #0" = 0
+	"Berihun #0" = -1
+	"Cheren #0" = -1
+	"China #0" = -1
+	"Falasha #0" = -1
+	"Genat #0" = -1
+	"Gondar #0" = 0
+	"Hantale #0" = -1
+	"Kyldysin #0" = 0
+	"Lishan #0" = -1
+	"Mahamed #0" = -1
+	"Michaêl #0" = 0
+	"Ogbai #0" = -1
+	"Pavel #0" = 0
+	"Selamawit #0" = -1
+	"Simeoni #0" = 0
+	"Sinder #1" = 10
+	"Zauditu #0" = -1
+}
+leader_names = {
+	"Abdallah"
+	"Abdikarim"
+	"Abubakar"
+	"Ahmad"
+	"Ayub"
+	"Dalmar"
+	"Ghedi"
+	"Hassan"
+	"Khalid"
+	"Liban"
+	"Mahad"
+	"Mosa"
+	"Muhammad"
+	"Omar"
+	"Rahim"
+	"Saad"
+	"Sadiq"
+	"Sharif"
+}
+ship_names = {
+	"Afgooye"
+	"Awash"
+	"Baraawe"
+	"Berahle"
+	"Boocame"
+	"Dallol"
+	"Dooloow"
+	"Dubti"
+	"Dulecha"
+	"Elidar"
+	"Ewa"
+	"Geedo"
+	"Gewane"
+	"Gobolka"
+	"Hawo"
+	"Jubbada"
+	"Kalabaydh"
+	"Marka"
+	"Semera"
+	"Simurobi"
+	"Yalo"
+}
+army_names = {
+	"Army of $PROVINCE$"
+}
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}

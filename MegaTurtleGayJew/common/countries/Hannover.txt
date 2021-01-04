@@ -1,0 +1,83 @@
+graphical_culture = westerngfx
+color = { 164 217 127 }
+revolutionary_colors = { 8 5 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	offensive_ideas
+	spy_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adalgar #0" = -1
+	"Albrecht #0" = -1
+	"Alisia #0" = -1
+	"Andaberta #0" = -1
+	"Arsenios #0" = 0
+	"Christine #0" = -1
+	"Dietwin #0" = 0
+	"Ekkehard #0" = 0
+	"Gerhard #1" = 10
+	"Grimoald #0" = 0
+	"Helene #0" = -1
+	"Hemma #0" = -1
+	"Hermann #0" = -1
+	"Hildegarde #0" = -1
+	"Humbert #0" = 0
+	"Judith #0" = -1
+	"Klara #0" = -1
+	"Meinwerk #0" = -1
+	"Pieternelle #0" = -1
+	"Richenza #0" = -1
+	"Tas #0" = 0
+	"Tobe #0" = 0
+	"Wilhelm #0" = 0
+}
+leader_names = {
+	"Aller"
+	"Detmold"
+	"Hamelm"
+	"Hildesheim"
+	"Kapp"
+	"Minden"
+	"Oldenburg"
+	"Salzgitter"
+	"Werden"
+	"Wernigerode"
+}
+ship_names = {
+	"Burgdorf"
+	"Deister"
+	"Georg von Calenberg"
+	"Langenhagen"
+	"Lehrte"
+	"Leine"
+	"Sarstedt"
+	"Stadthagen"
+	"Süntel"
+	"Wedemark"
+	"Weser"
+	"Wunstorf"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

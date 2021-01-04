@@ -1,0 +1,21 @@
+graphical_culture = muslimgfx
+color = { 28 183 124 }
+monarch_names = {
+	"Alp Arslan #0" = 0
+	"Balaban #0" = 0
+	"Ceylan #0" = -1
+	"Ertan #0" = 0
+	"Firuze #0" = -1
+	"Hafsa #0" = -1
+	"Hayat #0" = -1
+	"Ilknur #0" = -1
+	"Kaikaus #0" = 0
+	"Kharmandar #0" = 0
+	"Mahasti #0" = -1
+	"Oshmar #0" = 0
+	"Saruca #0" = -1
+	"Setyamka #0" = 0
+	"Sönmez #1" = 10
+	"Tura #0" = -1
+	"Özgul #0" = -1
+}

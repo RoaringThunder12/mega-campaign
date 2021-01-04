@@ -1,0 +1,12 @@
+graphical_culture = asiangfx
+color = { 186 7 57 }
+monarch_names = {
+	"Diki #0" = 0
+	"Jangchupsagön #0" = -1
+	"Jetsan #0" = 0
+	"Kipu #0" = 0
+	"Nuba #0" = 0
+	"Trakthung #0" = -1
+	"Tsangma #0" = -1
+	"Yuyi #0" = -1
+}

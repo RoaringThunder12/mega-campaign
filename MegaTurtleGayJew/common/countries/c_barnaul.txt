@@ -1,0 +1,14 @@
+graphical_culture = inuitgfx
+color = { 135 135 180 }
+monarch_names = {
+	"Asep #1" = 10
+	"Kezhapa #0" = 0
+	"Olota #0" = -1
+	"Pivtsay #0" = 0
+	"Putyayka #0" = 0
+	"Ravzhava #0" = -1
+	"Seyamka #0" = -1
+	"Shypicha #0" = 0
+	"Shyrpuzh #0" = 0
+	"Zyryan #0" = -1
+}

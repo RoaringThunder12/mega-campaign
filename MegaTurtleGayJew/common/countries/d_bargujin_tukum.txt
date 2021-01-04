@@ -1,0 +1,18 @@
+graphical_culture = inuitgfx
+color = { 59 97 122 }
+monarch_names = {
+	"Adyana #0" = 0
+	"Asaga #0" = 0
+	"Bairma #0" = -1
+	"Bidia #0" = 0
+	"Borte #0" = -1
+	"Dondok #0" = 0
+	"Eljigidei #0" = 0
+	"Eshegen #0" = 0
+	"Galsan #1" = 10
+	"Khanda #0" = -1
+	"Sugr #0" = 0
+	"Tsyrma #0" = -1
+	"Zaufishan #0" = -1
+	"Çiltanesi #0" = -1
+}

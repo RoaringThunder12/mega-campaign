@@ -1,0 +1,19 @@
+graphical_culture = inuitgfx
+color = { 26 52 24 }
+monarch_names = {
+	"Chumbulat #0" = 0
+	"Dimetheos #0" = 0
+	"Koma #0" = 0
+	"Markva #0" = -1
+	"Nalka #0" = 0
+	"Natália #0" = -1
+	"Nishkepaz #0" = -1
+	"Nuyanza #0" = 0
+	"Oshama #0" = -1
+	"Pokshayka #0" = -1
+	"Poshayka #0" = -1
+	"Rostislava #0" = -1
+	"Shukshtoroyka #0" = -1
+	"Tul #1" = 10
+	"Vechkas #0" = 0
+}

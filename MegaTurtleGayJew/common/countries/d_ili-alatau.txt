@@ -1,0 +1,24 @@
+graphical_culture = muslimgfx
+color = { 94 33 33 }
+monarch_names = {
+	"Bedugun #1" = 10
+	"Begter #0" = 0
+	"Bhimsingha #0" = 0
+	"Conchaka #0" = -1
+	"Gundes #0" = -1
+	"Ilig #0" = 0
+	"Inalchi #0" = -1
+	"Jochi #0" = 0
+	"Khadagan #0" = -1
+	"Khorchi #0" = -1
+	"Khulan #0" = -1
+	"Khutulun #0" = -1
+	"Kungcho #0" = -1
+	"Könçek #0" = 0
+	"Oronartai #0" = -1
+	"Sal #0" = -1
+	"Sirçan #0" = 0
+	"Trashigön #0" = 0
+	"Yesui #0" = -1
+	"Yildiz #0" = -1
+}

@@ -1,0 +1,16 @@
+graphical_culture = inuitgfx
+color = { 166 82 10 }
+monarch_names = {
+	"Basillike #0" = -1
+	"Biur #0" = -1
+	"Bozorg #1" = 10
+	"Hulyen #0" = -1
+	"Kanyuva #0" = -1
+	"Nuyat #0" = 0
+	"Osh #0" = -1
+	"Ozhmeg #0" = 0
+	"Peksen #0" = -1
+	"Pokshayka #0" = -1
+	"Valdava #0" = -1
+	"Varaka #0" = 0
+}

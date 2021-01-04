@@ -1,0 +1,19 @@
+graphical_culture = asiangfx
+color = { 45 80 90 }
+monarch_names = {
+	"Dechen #0" = -1
+	"Dolma #0" = -1
+	"Gedun #0" = 0
+	"Gyelmo #0" = -1
+	"Jammo #0" = -1
+	"Jigme #0" = 0
+	"Jowojé #0" = 0
+	"Kaba #0" = -1
+	"Kenagan #0" = 0
+	"Koboza #0" = -1
+	"Kona #0" = -1
+	"Taknye #0" = 0
+	"Tsünmo #0" = -1
+	"Xiaozhong #0" = 0
+	"Zhongji #0" = 0
+}

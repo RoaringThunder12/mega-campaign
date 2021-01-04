@@ -1,0 +1,22 @@
+graphical_culture = muslimgfx
+color = { 30 180 80 }
+monarch_names = {
+	"Alaeddin #0" = 0
+	"Aldar #0" = 0
+	"Anara #0" = -1
+	"Arugtai #0" = 0
+	"Balaban #0" = -1
+	"Bidia #0" = 0
+	"Gulichi #0" = 0
+	"Hasan #0" = -1
+	"Hayat #0" = -1
+	"Kirdyava #0" = -1
+	"Kutalmis #0" = -1
+	"Murad #0" = 0
+	"Ramazan #0" = 0
+	"Sinan #0" = -1
+	"Terkhen #0" = -1
+	"Tugrul #0" = -1
+	"Tura #0" = -1
+	"Zhebeg #0" = 0
+}

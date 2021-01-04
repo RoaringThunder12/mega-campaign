@@ -1,0 +1,22 @@
+graphical_culture = asiangfx
+color = { 171 36 74 }
+monarch_names = {
+	"Akar #0" = -1
+	"Bönden #0" = 0
+	"Drongnyen #0" = 0
+	"Gedun #0" = -1
+	"Khalama #0" = 0
+	"Khribang #0" = -1
+	"Khyentsé #0" = 0
+	"Könchok #0" = -1
+	"Lha #1" = -1
+	"Lukhong #0" = 0
+	"Manggyel #0" = 0
+	"Nyima #0" = -1
+	"Peldrön #0" = -1
+	"Phuntsok #0" = 0
+	"Seba #0" = -1
+	"Thridang #0" = -1
+	"Yaksherpen #0" = 0
+	"Zijid #0" = 0
+}

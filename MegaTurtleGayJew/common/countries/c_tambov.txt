@@ -1,0 +1,15 @@
+graphical_culture = muslimgfx
+color = { 14 52 32 }
+monarch_names = {
+	"Atnapi #0" = -1
+	"Malfrida #0" = -1
+	"Miliuk #1" = 10
+	"Murunza #0" = 0
+	"Ossor #0" = 0
+	"Pokshayka #0" = 0
+	"Seyamka #0" = -1
+	"Sheleme #0" = -1
+	"Tarie #0" = -1
+	"Tikshayka #0" = -1
+	"Vayulla #0" = 0
+}

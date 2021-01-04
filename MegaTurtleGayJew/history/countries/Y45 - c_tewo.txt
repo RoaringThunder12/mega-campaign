@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = mahayana
+primary_culture = tangut
+capital = 2183
+fixed_capital = 2183
+1444.11.11= {
+	monarch = {
+		name = "Suogu"
+		dynasty = "Zhuli"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1385.5.26
+		religion = mahayana
+		culture = tangut
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Dolma"
+		dynasty = "Orsini"
+		adm = 2
+		dip = 1
+		mil = 4
+		country_of_origin = Y45
+		birth_date = 1386.8.29
+		death_date = 1446.8.29
+		female = yes
+		religion = mahayana
+		culture = tibetan
+	}
+	add_queen_personality = strict_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Koboza"
+		monarch_name = "Koboza"
+		dynasty = "Zhuli"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1433.8.3
+		death_date = 1498.8.3
+		female = yes
+		claim = 89
+		religion = mahayana
+		culture = tibetan
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = pious_personality
+}
+1444.11.11= {
+	add_prestige = 75
+	add_treasury = 64
+}

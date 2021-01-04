@@ -1,0 +1,18 @@
+graphical_culture = muslimgfx
+color = { 229 175 183 }
+monarch_names = {
+	"Amalrich #0" = -1
+	"Arnaud #0" = 0
+	"Beatrix #0" = -1
+	"Gerasimos #0" = 0
+	"Gerberga #0" = -1
+	"Gotthard #0" = -1
+	"Henry #0" = -1
+	"Ingeltrude #0" = -1
+	"Isentrude #0" = -1
+	"Leopold #0" = -1
+	"Severino #1" = 10
+	"Simin #0" = -1
+	"Takoi #0" = 0
+	"Weickhard #0" = 0
+}

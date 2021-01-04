@@ -1,0 +1,18 @@
+graphical_culture = inuitgfx
+color = { 159 204 133 }
+monarch_names = {
+	"Andyamo #0" = -1
+	"Arti #0" = 0
+	"Asrava #1" = -1
+	"Biyar #0" = 0
+	"Chichayka #0" = -1
+	"Dondy #0" = -1
+	"Inzhay #0" = 0
+	"Ipekel #0" = -1
+	"Nalka #0" = 0
+	"Ovtay #0" = -1
+	"Setyamka #0" = 0
+	"Utyayka #0" = -1
+	"Virdyan #0" = -1
+	"Yugörka #0" = -1
+}

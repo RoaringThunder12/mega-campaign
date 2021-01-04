@@ -1,0 +1,18 @@
+graphical_culture = muslimgfx
+color = { 101 201 118 }
+monarch_names = {
+	"Asalup #1" = 10
+	"Chakak #0" = -1
+	"Ilempi #0" = 0
+	"Iskej #0" = 0
+	"Itris #0" = 0
+	"Kirdyava #0" = -1
+	"Lysko #1" = 10
+	"Oshypel #0" = -1
+	"Romane #0" = -1
+	"Upa #0" = 0
+	"Vartuk #0" = -1
+	"Vasl'Uk #0" = -1
+	"0htimer #0" = -1
+	"0htirek #0" = -1
+}

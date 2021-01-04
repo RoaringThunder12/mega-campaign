@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = tengri_pagan
+primary_culture = khalkha
+capital = 4681
+fixed_capital = 4681
+1444.11.11= {
+	monarch = {
+		name = "Kuchluk"
+		dynasty = "Khorinik"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 1413.3.8
+		religion = tengri_pagan
+		culture = khalkha
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = midas_touched_personality
+	queen = {
+		name = "Gunduz"
+		dynasty = "Bakanasid"
+		adm = 5
+		dip = 4
+		mil = 4
+		country_of_origin = Y38
+		birth_date = 1413.5.20
+		death_date = 1473.5.20
+		female = yes
+		religion = tengri_pagan
+		culture = karluk
+	}
+	add_queen_personality = lawgiver_personality
+	add_queen_personality = midas_touched_personality
+	heir = {
+		name = "Özlem"
+		monarch_name = "Özlem"
+		dynasty = "Semeyid"
+		adm = 2
+		dip = 1
+		mil = 3
+		birth_date = 1436.8.29
+		death_date = 1501.8.29
+		female = yes
+		claim = 89
+		religion = tengri_pagan
+		culture = karluk
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 68
+	add_treasury = 48
+}

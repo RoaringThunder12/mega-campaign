@@ -1,0 +1,26 @@
+graphical_culture = asiangfx
+color = { 120 20 20 }
+monarch_names = {
+	"Atrak #0" = 0
+	"Ayasun #0" = -1
+	"Bartan #0" = -1
+	"Begluk #0" = 0
+	"Bonyak #0" = -1
+	"Borç #1" = 10
+	"Bönek #0" = -1
+	"Dilek #0" = -1
+	"Esin #0" = -1
+	"Gulçiçek #0" = -1
+	"Hoelun #0" = -1
+	"Karacik #0" = -1
+	"Khadagan #0" = -1
+	"Lakshman #0" = -1
+	"Megujin #0" = 0
+	"Morokha #0" = 0
+	"Nakhu #0" = 0
+	"Orqina #0" = -1
+	"Sevindik #0" = -1
+	"Sirma #0" = -1
+	"Tsangmo #0" = -1
+	"Yeke #0" = -1
+}

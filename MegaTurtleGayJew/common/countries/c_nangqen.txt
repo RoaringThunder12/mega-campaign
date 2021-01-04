@@ -1,0 +1,21 @@
+graphical_culture = asiangfx
+color = { 171 10 37 }
+monarch_names = {
+	"Aktsom #0" = 0
+	"Bumphulwa #0" = -1
+	"Chömo #0" = -1
+	"Daivika #0" = 0
+	"Dronglek #0" = -1
+	"Khyentsé #0" = 0
+	"Lha #0" = -1
+	"Lhogyal #0" = -1
+	"Michewa #0" = -1
+	"Mutik #0" = 0
+	"Nyimadé #0" = 0
+	"Po #0" = 0
+	"Samten #0" = 0
+	"Saw Lu #0" = 0
+	"Thubten #0" = -1
+	"Tökarma #0" = -1
+	"Wöser #0" = 0
+}
