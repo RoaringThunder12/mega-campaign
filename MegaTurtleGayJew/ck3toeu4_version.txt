@@ -1,7 +1,0 @@
-
-
-************ -= The Paradox Converters Team =- ********************
-* Converter version 0.4 "dynamic_faith_102"
-* Compatible with CK3 1.2 and EU4 1.30
-* Built on Sat Jan  2 16:30:25 2021
-********************** + CK3 To EU4 + *****************************

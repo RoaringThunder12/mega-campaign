@@ -1,7 +1,0 @@
-graphical_culture = inuitgfx
-color = { 160 165 210 }
-monarch_names = {
-	"Bayn #0" = 0
-	"Bonyak #1" = 10
-	"Setyamka #0" = -1
-}
