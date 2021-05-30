@@ -1,0 +1,108 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 173 176 113 }
+revolutionary_colors = { 8 5 8 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_tercio
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_drill
+	prussian_frederickian
+	prussian_uhlan
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Arnulf #3" = 10
+	"Baldarich #0" = 0
+	"Baldomar #0" = 0
+	"Bouvin #1" = 10
+	"Chlotsuintha #0" = -1
+	"Dagmar #0" = -1
+	"Dietmar #0" = 0
+	"Ehrenfried #0" = 0
+	"Ekkehard #0" = 0
+	"Eufemia #0" = 0
+	"Filibert #0" = 0
+	"Gautselin #2" = 10
+	"Gerberge #0" = -1
+	"Gottschalk #0" = 0
+	"Gotzelo #1" = 10
+	"Guillaumette #0" = -1
+	"Hans #1" = 10
+	"Henrike #1" = -1
+	"Ida #0" = -1
+	"Ijsbrand #2" = 10
+	"Josselin #1" = 10
+	"Jutta #0" = -1
+	"Karl #1" = 10
+	"Katarina #0" = -1
+	"Kunigunde #1" = -1
+	"Lambert #0" = 0
+	"Lubomir #1" = 10
+	"Manfred #2" = 10
+	"Marija #0" = -1
+	"Meginhard #1" = 10
+	"Raynaud #1" = 10
+	"Reinbern #1" = 10
+	"Richenza #0" = 0
+	"Rutger #1" = 10
+	"Rycheza #0" = -1
+	"Svend #1" = 10
+	"Thyra #0" = -1
+	"Tomasina #0" = -1
+	"Wolfgang #1" = 10
+}
+leader_names = {
+	"Angenendt"
+	"Becker"
+	"Becking"
+	"Contze"
+	"Cronenberg"
+	"Dennessen"
+	"Derksen"
+	"Engelbronner"
+	"Holler"
+	"Jenster"
+	"Kroeger"
+	"Meurs"
+	"Nagel"
+	"Rundt"
+	"Sinsteden"
+	"Van Gelder"
+	"von Beinom"
+	"von Oven"
+}
+ship_names = {
+	"Adolf von Kleve"
+	"Agnes"
+	"Arnold I von Kleve"
+	"Arnold II von Kleve"
+	"Dietrich von Kleve"
+	"Elisabeth"
+	"Gerhard von Kleve"
+	"Johann I von Kleve"
+	"Johann II von Kleve"
+	"Margarete"
+	"Mathilde"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

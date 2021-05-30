@@ -1,0 +1,250 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 211 220 178 }
+revolutionary_colors = { 1 0 5 }
+historical_idea_groups = {
+	administrative_ideas
+	diplomatic_ideas
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	italian_condotta
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Arcibaldo #1" = 10
+	"Arttju #1" = 10
+	"Bassiano #1" = 10
+	"Beltrano #1" = 10
+	"Beorn #1" = 10
+	"Bina #0" = -1
+	"Buonconte #0" = -1
+	"Carulina #0" = -1
+	"Cennlachán #1" = 10
+	"Cenræd #1" = 10
+	"Conmál #1" = 10
+	"Cynehelm #1" = 10
+	"Donnucán #0" = 0
+	"Dorofei #1" = 10
+	"Dubhghall #0" = 0
+	"Eormenric #1" = 10
+	"Ercaid #1" = 10
+	"Ettore #1" = 10
+	"Eugenius #1" = 10
+	"Germano #1" = 10
+	"Glún-Iairn #1" = 10
+	"Hacon #1" = 10
+	"Hadrianus #1" = 10
+	"Jehki #1" = 10
+	"Leo #1" = 10
+	"Maksima #1" = 10
+	"Martin #6" = 10
+	"Malowuj #0" = 0
+	"Mirona #1" = 10
+	"Pascal #1" = 10
+	"Paulus #1" = 10
+	"Potto #1" = 10
+	"Raymonde #0" = -1
+	"Sechnassach #1" = 10
+	"Sohro #1" = 10
+	"Stephanus #3" = 10
+}
+leader_names = {
+	"Abano"
+	"Adria"
+	"Agno"
+	"Alvise"
+	"Anconna"
+	"Argenta"
+	"Bardolino"
+	"Barilla"
+	"Bassano"
+	"Belfuno"
+	"Belluno"
+	"Bembo"
+	"Brenta"
+	"Brescia"
+	"Casanova"
+	"Cassandro"
+	"Castiglione"
+	"Cento"
+	"Chiogga"
+	"Commachio"
+	"Contarini"
+	"Corfini"
+	"Corleone"
+	"Cornaro"
+	"Cremona"
+	"De Blazio"
+	"Di Castrozza"
+	"Dolfin"
+	"Emo"
+	"Erizzo"
+	"Ermelli"
+	"Feltre"
+	"Ferme"
+	"Ferrara"
+	"Fiume"
+	"Flangini"
+	"Foscarini"
+	"Friuli"
+	"Garda"
+	"Gardone"
+	"Giudica"
+	"Giustani"
+	"Gorizia"
+	"Grado"
+	"Grimani"
+	"Gritti"
+	"Idro"
+	"Iseo"
+	"Isonzo"
+	"Lando"
+	"Latisana"
+	"Legnago"
+	"Lido"
+	"Lignano"
+	"Lissa"
+	"Livenza"
+	"Loredano"
+	"Magno"
+	"Mantova"
+	"Meduna"
+	"Memmo"
+	"Mestre"
+	"Mincio"
+	"Modigliano"
+	"Molini"
+	"Monfalcone"
+	"Oglio"
+	"Padova"
+	"Panaro"
+	"Pesaro"
+	"Pezzini"
+	"Piave"
+	"Ponte Vechio"
+	"Pontebba"
+	"Pordenone"
+	"Pramaggiore"
+	"Priuli"
+	"Raguse"
+	"Rovereto"
+	"Rovigo"
+	"Ruzzini"
+	"San Paulo"
+	"Schio"
+	"Serio"
+	"Sugaina"
+	"Tagliamento"
+	"Tartaro"
+	"Tolmezzo"
+	"Toscani"
+	"Trento"
+	"Trevisano"
+	"Treviso"
+	"Trieste"
+	"Udine"
+	"Valieri"
+	"Verona"
+	"Vicenza"
+	"Vittorio"
+	"Zara"
+	"Zustiniani"
+}
+ship_names = {
+	"Abraham"
+	"Adam"
+	"Angeli"
+	"Archangeli"
+	"Archangelus Gabriel"
+	"Archangelus Michael"
+	"Archangelus Raphael"
+	"Cherubim"
+	"Corpus Christi"
+	"David Rex"
+	"Dominationes"
+	"Episcopus Romanus"
+	"Eva"
+	"Franciscus Assisiensis"
+	"Hierosalyma"
+	"Iesu Christus Salvator"
+	"Ioannes Baptista"
+	"Iob"
+	"Isaac"
+	"Moyses"
+	"Noe"
+	"Pater et Pastor"
+	"Pontifex Maximum"
+	"Potestates"
+	"Principatus"
+	"Salomon Rex"
+	"Sancta Birgitta"
+	"Sanctus Alexander"
+	"Sanctus Ambrosius"
+	"Sanctus Andreas"
+	"Sanctus Anselmus"
+	"Sanctus Augustinus"
+	"Sanctus Bartholomeus"
+	"Sanctus Bernardus"
+	"Sanctus Bonaventura"
+	"Sanctus Cassianus"
+	"Sanctus Cyprianus"
+	"Sanctus Dominicus"
+	"Sanctus Hieronymus"
+	"Sanctus Hilarius"
+	"Sanctus Hippolytus"
+	"Sanctus Iohannes"
+	"Sanctus Iosephus"
+	"Sanctus Isidorus"
+	"Sanctus Iudas"
+	"Sanctus Leo I"
+	"Sanctus Linus"
+	"Sanctus Mattheus"
+	"Sanctus Matthias"
+	"Sanctus Patricius"
+	"Sanctus Paulus"
+	"Sanctus Petrus"
+	"Sanctus Philippus"
+	"Sanctus Simon"
+	"Sanctus Synesius"
+	"Sanctus Thomas"
+	"Sanctus Urbanus I"
+	"Seraphim"
+	"St Albertus Magnus"
+	"St Antonius de Padova"
+	"St Basilius Magnus"
+	"St Beda Venerabilis"
+	"St Cathatina Sienensis"
+	"St Ciaranus Maior"
+	"St Ciaranus Minor"
+	"St Ephraem Syrus"
+	"St Gregorius Magnus"
+	"St Iacobus Alphei"
+	"St Iacobus Maior"
+	"St Iohannes Damascena"
+	"St Petrus Chrysologus"
+	"St Petrus Damianus"
+	"St Thomas Aquinas"
+	"Throni"
+	"Virgo Maria"
+	"Virtutes"
+}
+army_names = {
+	"Armata di $PROVINCE$"
+}

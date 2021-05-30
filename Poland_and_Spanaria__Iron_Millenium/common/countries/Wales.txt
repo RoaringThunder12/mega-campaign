@@ -1,0 +1,170 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 117 127 174 }
+revolutionary_colors = { 0 5 10 }
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+	defensive_ideas
+}
+historical_units = {
+	anglofrench_line
+	british_hussar
+	british_redcoat
+	british_square
+	gaelic_free_shooter
+	gaelic_mercenary
+	irish_charge
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_longbow
+	western_medieval_infantry
+	western_medieval_knights
+}
+monarch_names = {
+	"Bárðr #0" = 0
+	"Camila #0" = -1
+	"Caterina #0" = -1
+	"Conchobar #0" = 0
+	"Congalach #1" = 10
+	"Cynehild #0" = -1
+	"Cynyr #1" = 10
+	"Eilífr #1" = 10
+	"Geirr #0" = 0
+	"Gerðr #0" = -1
+	"Gurli #0" = -1
+	"Gyríðr #0" = 0
+	"Gyða #0" = -1
+	"Hróðólfr #1" = 10
+	"Högni #0" = 0
+	"Ilaria #0" = -1
+	"Ingibjörg #0" = -1
+	"Irmele #0" = -1
+	"Joana #0" = -1
+	"Laurènç #0" = 0
+	"Lochlann #0" = 0
+	"Lop #0" = 0
+	"Mær #0" = -1
+	"Peredyr #1" = 10
+	"Pátraic #1" = 10
+	"Ragnarr #0" = 0
+	"Refill #0" = 0
+	"Skjöldr #2" = 10
+	"Suni #0" = -1
+	"Síg #0" = -1
+	"Ulf #0" = -1
+	"Valdemar #1" = 10
+	"Valeran #1" = 10
+	"Vigfús #0" = 0
+	"Wulfflæd #0" = -1
+	"Zdravomil #0" = 0
+	"Áine #0" = -1
+	"Áskell #0" = 0
+	"Ástríðr #0" = -1
+	"Éibhleann #0" = -1
+	"Önundr #0" = 0
+	"Úlfkell #1" = 10
+	"Þorgils #1" = 10
+	"Þórdís #0" = -1
+}
+leader_names = {
+	"Bennett"
+	"Bevan"
+	"Bowen"
+	"Cadell"
+	"Cadwallader"
+	"Daniels"
+	"Davies"
+	"Davis"
+	"Edwards"
+	"Ellis"
+	"Evans"
+	"Gough"
+	"Griffiths"
+	"Gwyn"
+	"Harris"
+	"Hopkins"
+	"Howells"
+	"Hughes"
+	"Humphries"
+	"James"
+	"Jenkins"
+	"John"
+	"Jones"
+	"Lewis"
+	"Llewellyn"
+	"Lloyd"
+	"Madog"
+	"Matthews"
+	"Meredith"
+	"Merrick"
+	"Morgan"
+	"Morris"
+	"Mostyn"
+	"Owen"
+	"Parry"
+	"Phillips"
+	"Powell"
+	"Prees"
+	"Price"
+	"Pritchard"
+	"Protheroe"
+	"Pugh"
+	"Rees"
+	"Richards"
+	"Roberts"
+	"Rogers"
+	"Thomas"
+	"Vaughan"
+	"Watkins"
+	"Williams"
+}
+ship_names = {
+	"Bedwyr"
+	"Brycheiniog"
+	"Cadwaladr"
+	"Caerdydd"
+	"Caernarfon"
+	"Caradoc"
+	"Ceredigion"
+	"Conwy"
+	"Culhwch"
+	"Deheubarth"
+	"Dewi Sant"
+	"Dolbadarn"
+	"Dolwyddelan"
+	"Dyfed"
+	"Eryri"
+	"Glywysing"
+	"Gwalchmei"
+	"Gwenan Gorn"
+	"Gwydion"
+	"Gwyn"
+	"Gwynedd"
+	"Lleu"
+	"Llewellyn Fawr"
+	"Mabinogi"
+	"Math"
+	"Meirionydd"
+	"Morgannwg"
+	"Olwen"
+	"Owain Glyndwr"
+	"Penfro"
+	"Powys"
+	"Preiddeu Annwn"
+	"Pryderi"
+	"Pwyll"
+	"Rhiannon"
+	"Taff"
+	"Teifi"
+	"Teirnon"
+	"Tywi"
+	"Ynys Môn"
+}

@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = ibadi
+primary_culture = berber
+capital = 2247
+add_accepted_culture = berber
+1444.11.11= {
+	monarch = {
+		name = "Adergazuz"
+		dynasty = "Tariqid"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1388.10.6
+		religion = ibadi
+		culture = berber
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = drunkard_personality
+	queen = {
+		name = "Cantara"
+		dynasty = "Tariqid"
+		adm = 4
+		dip = 4
+		mil = 3
+		country_of_origin = Z57
+		birth_date = 1383.2.18
+		death_date = 1443.2.18
+		female = yes
+		religion = ibadi
+		culture = berber
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = malevolent_personality
+	heir = {
+		name = "Badda"
+		monarch_name = "Badda IV"
+		dynasty = "Tariqid"
+		adm = 6
+		dip = 6
+		mil = 5
+		birth_date = 1407.10.11
+		death_date = 1472.10.11
+		claim = 89
+		religion = ibadi
+		culture = berber
+	}
+	add_heir_personality = conqueror_personality
+	add_heir_personality = expansionist_personality
+}
+1444.11.11= {
+	add_prestige = 99
+	add_treasury = 67
+}

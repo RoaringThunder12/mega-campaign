@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = eastern
+religion = orthodox
+primary_culture = magnagreek
+capital = 2986
+add_accepted_culture = sardinian
+1444.11.11= {
+	monarch = {
+		name = "Rainulfu"
+		dynasty = "Troyes-Napoli"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1396.5.12
+		religion = orthodox
+		culture = magnagreek
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = silver_tongue_personality
+	queen = {
+		name = "Agata"
+		dynasty = "Charolais-Drivast"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = SAR
+		birth_date = 1399.9.8
+		death_date = 1459.9.8
+		female = yes
+		religion = orthodox
+		culture = serbian
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Hippolytos"
+		monarch_name = "Hippolytos"
+		dynasty = "Troyes-Napoli"
+		adm = 4
+		dip = 5
+		mil = 6
+		birth_date = 1425.8.19
+		death_date = 1490.8.19
+		claim = 89
+		religion = orthodox
+		culture = sicilian
+	}
+	add_heir_personality = strict_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 75
+	add_treasury = 74
+}

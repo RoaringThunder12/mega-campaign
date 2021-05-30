@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = western
+religion = sunni
+primary_culture = portugese
+capital = 1115
+religious_school = maliki_school
+add_accepted_culture = berber
+1444.11.11= {
+	monarch = {
+		name = "Ptolemee III"
+		dynasty = "Admerid"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1392.8.3
+		religion = sunni
+		culture = portugese
+	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Hawa"
+		dynasty = "Bainunk-Pakala"
+		adm = 4
+		dip = 2
+		mil = 4
+		country_of_origin = Z37
+		birth_date = 1401.4.20
+		death_date = 1461.4.20
+		female = yes
+		religion = sunni
+		culture = senegambian
+	}
+	add_queen_personality = calm_personality
+	add_queen_personality = careful_personality
+	heir = {
+		name = "Ptolemee"
+		monarch_name = "Ptolemee IV"
+		dynasty = "Admerid"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1411.10.2
+		death_date = 1476.10.2
+		claim = 89
+		religion = sunni
+		culture = portugese
+	}
+	add_heir_personality = lawgiver_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 83
+	add_treasury = 53
+}

@@ -1,0 +1,152 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 232 149 18 }
+revolutionary_colors = { 5 13 0 }
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	innovativeness_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Barbara #0" = -1
+	"Blažena #0" = -1
+	"Bratislav #1" = 10
+	"Charles #0" = 0
+	"Ctibor #1" = 10
+	"Dilek #0" = -1
+	"Dobroslav #1" = 10
+	"Drahoslav #0" = -1
+	"Elisabeth #1" = -1
+	"Emmerich #0" = 0
+	"Fahriya #1" = -1
+	"Guichard #0" = 0
+	"Hromislav #3" = 10
+	"Inga #0" = -1
+	"Ivan #1" = 10
+	"Jadwiga #0" = -1
+	"Jaromír #1" = 10
+	"Jaropluk #2" = 10
+	"Jaroslav #1" = 10
+	"Jolanta #0" = -1
+	"Krasislav #1" = 10
+	"Marija #0" = -1
+	"Miloš #0" = 0
+	"Miroslav #1" = 10
+	"Miroslava #0" = -1
+	"Mojmír #1" = 10
+	"Ostrivoj #0" = 0
+	"Pravoslav #2" = 10
+	"Rostislav #1" = 10
+	"Ruslav #0" = 0
+	"Slavko #0" = 0
+	"Slávka #0" = -1
+	"Spitihnev #0" = 0
+	"Svatopluk #4" = 10
+	"Svetluša #0" = -1
+	"Séamas #0" = 0
+	"Velemír #0" = 0
+	"Vladan #1" = 10
+	"Vlastibor #1" = 10
+	"Vojmil #1" = 10
+	"Vratko #3" = 10
+	"Vyšemíra #0" = 0
+	"Zemislav #2" = 10
+	"Živoslava #0" = -1
+}
+leader_names = {
+	"Berka"
+	"Capek"
+	"Harant"
+	"Haugvicové z Biskupic"
+	"Jiskra"
+	"Kaspar"
+	"Kolowrat"
+	"Komenský"
+	"Mansfeld"
+	"Petrasch"
+	"Pilchramb"
+	"Purkyne"
+	"Píka"
+	"Reiner"
+	"Schwarzenberg"
+	"Sokol"
+	"Syrový"
+	"Thurn"
+	"Velen"
+	"Veliký"
+	"Zajíc"
+	"Zelezný"
+	"z Boskovic"
+	"z Brandýsa"
+	"z Ditrichštejna"
+	"z Falkensteina"
+	"z Husi"
+	"z Kunštátu a Podebrad"
+	"z Lichtenštejna"
+	"z Nostic"
+	"z Otradovic"
+	"z Pardubic"
+	"z Pernštejna"
+	"z Polzic"
+	"z Rozmberka"
+	"z Rozmitálu"
+	"z Vartemberka"
+	"z Veleslavína"
+	"ze Lvovic"
+	"ze Svamberka"
+	"ze Zerotína"
+	"Žerotínové"
+}
+ship_names = {
+	"Bystrý"
+	"Cechy"
+	"Ctirad"
+	"Hvezda"
+	"Jan Hus"
+	"Jan Zizka"
+	"Kníze Bretislav"
+	"Král Boleslav"
+	"Král Karel"
+	"Král Premysl"
+	"Libuse"
+	"Morava"
+	"Nejsvetejsí Trojice"
+	"Neporazitelný"
+	"Odvázný"
+	"Orel"
+	"Panna Maria Vitezná"
+	"Premysl Orac"
+	"Prokop Holý"
+	"Rychlý"
+	"Sipka"
+	"Slezsko"
+	"Sokol"
+	"Svatá Anezká"
+	"Svatá Ludmila"
+	"Svatý Jan Nepomucký"
+	"Svatý Jirí"
+	"Svatý Mikulás"
+	"Svatý Vaclav"
+}
+preferred_religion = protestant

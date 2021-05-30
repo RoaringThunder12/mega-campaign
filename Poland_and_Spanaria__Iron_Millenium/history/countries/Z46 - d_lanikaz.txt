@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = eastern
+religion = sunni
+primary_culture = ostyaki
+capital = 4689
+religious_school = hanafi_school
+add_accepted_culture = ostyaki
+1444.11.11= {
+	monarch = {
+		name = "Osh"
+		dynasty = "of Koriakovsky"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 1378.7.25
+		religion = sunni
+		culture = ostyaki
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Megurka"
+		dynasty = "Mamkin-Degelen"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = Z46
+		birth_date = 1379.5.21
+		death_date = 1439.5.21
+		female = yes
+		religion = sunni
+		culture = ostyaki
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = secretive_personality
+	heir = {
+		name = "Osh"
+		monarch_name = "Osh II"
+		dynasty = "of Koriakovsky"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 1411.11.20
+		death_date = 1476.11.20
+		claim = 89
+		religion = sunni
+		culture = ostyaki
+	}
+	add_heir_personality = kind_hearted_personality
+	add_heir_personality = secretive_personality
+}
+1444.11.11= {
+	add_prestige = 77
+	add_treasury = 0
+}

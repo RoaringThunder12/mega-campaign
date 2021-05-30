@@ -1,0 +1,150 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 20 188 118 }
+revolutionary_colors = { 5 9 10 }
+historical_idea_groups = {
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adolf #0" = 0
+	"Agnes #0" = -1
+	"Amadeus #0" = 0
+	"Angioletta #0" = -1
+	"Anna #0" = -1
+	"Arnold #0" = 0
+	"Aubry #0" = -1
+	"Bartosz #2" = 10
+	"Berta #0" = -1
+	"Bia #0" = -1
+	"Blahomíra #0" = -1
+	"Chrabroš #0" = 0
+	"Cloutilda #0" = -1
+	"Dieter #0" = 0
+	"Ekkehard #0" = 0
+	"Ellijnore #0" = -1
+	"Felicità #0" = -1
+	"Flora #0" = -1
+	"Frida #0" = -1
+	"Georg #0" = 0
+	"Gerlach #3" = 10
+	"Giselbert #1" = 10
+	"Gottfried #0" = 0
+	"Gotzelo #1" = 10
+	"Guntram #1" = 10
+	"Gunzelin #0" = 0
+	"Helena #0" = -1
+	"Heribert #1" = 10
+	"Hugo #0" = -1
+	"Iwo #0" = 0
+	"Jutte #0" = -1
+	"Klementia #0" = 0
+	"Lambert #1" = 10
+	"Liutfrid #1" = 10
+	"Louis #1" = 10
+	"Ludwig #0" = 0
+	"Maria #1" = -1
+	"Marie #0" = -1
+	"Martin #0" = 0
+	"Matthias #1" = 10
+	"Michael #0" = 0
+	"Nadbor #1" = 10
+	"Osterhild #0" = -1
+	"Petronia #0" = -1
+	"Prelimír #0" = 0
+	"Reinhold #0" = 0
+	"Robert #0" = -1
+	"Sieghard #0" = 0
+	"Thomas #0" = 0
+	"Tiuduricu #0" = 0
+	"Viktor #4" = 10
+	"Virtyava #0" = -1
+	"Vratislava #0" = -1
+	"Willa #0" = -1
+	"Woislava #0" = -1
+	"Wolfram #0" = 0
+	"Wolislawa #0" = -1
+	"Þorgils #1" = 10
+	"Lucja #0" = -1
+}
+leader_names = {
+	"Adler"
+	"Alers"
+	"Bake"
+	"Beckröge"
+	"Bergius"
+	"Berninghausen"
+	"Boelken"
+	"Bollheim"
+	"Brill"
+	"Delius"
+	"Drewers"
+	"Engels"
+	"Ficke"
+	"Foukhard"
+	"Geffken"
+	"Gildemeister"
+	"Grovermann"
+	"Happach"
+	"Heimbruch"
+	"Hinke"
+	"Kindt"
+	"Krefting"
+	"Köhne"
+	"Laporte"
+	"Löning"
+	"Meyer"
+	"Oelrichs"
+	"Ordemann"
+	"Reiners"
+	"Rohde"
+	"Sanders"
+	"Schulken"
+	"Steinwachs"
+	"Stucken"
+	"Truernitt"
+	"von Bobert"
+	"von Cappeln"
+	"von Holten"
+	"von Horn"
+	"von Meinertzhagen"
+}
+ship_names = {
+	"Anticipation Of A New Lover's Arrival"
+	"Dressed Up To Party"
+	"Furious Purpose"
+	"Geelbeen"
+	"Honorius"
+	"Jever"
+	"Johann Dove"
+	"Roland"
+	"Tagenbare"
+	"The Confessor"
+	"Weserwelle"
+	"Willehad"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

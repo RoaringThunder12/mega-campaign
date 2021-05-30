@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = ibadi
+primary_culture = berber
+capital = 2247
+1444.11.11= {
+	add_prestige = 99
+	add_treasury = 67
+}

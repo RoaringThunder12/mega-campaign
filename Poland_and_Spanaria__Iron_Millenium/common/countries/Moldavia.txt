@@ -1,0 +1,99 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 136 157 23 }
+revolutionary_colors = { 15 8 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+	quality_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Agáta #1" = -1
+	"Ambrus #1" = 10
+	"Antonija #0" = -1
+	"Boleslav #0" = 0
+	"Dengizikh #0" = 0
+	"Edit #1" = -1
+	"Euphemia #0" = -1
+	"Gyula #0" = 0
+	"Hedwig #1" = -1
+	"Iacoba #0" = 0
+	"Irén #0" = 0
+	"Karan #0" = -1
+	"Katalin #0" = -1
+	"Kisa #0" = 0
+	"Marietta #0" = -1
+	"Mihály #1" = 10
+	"Miklós #0" = 0
+	"Márta #0" = -1
+	"Márton #1" = 10
+	"Mátyás #1" = 10
+	"Nándor #0" = 0
+	"Pál #1" = 10
+	"Sibel #0" = -1
+	"Svjetlana #0" = -1
+	"Tamás #1" = 10
+	"Toghrïl #0" = 0
+	"Vladislav #0" = 0
+	"Árpád #1" = 10
+	"Özgul #0" = -1
+}
+leader_names = {
+	"Callimachi"
+	"Campineanu"
+	"Cantacuzino"
+	"Cantemir"
+	"Caragea"
+	"Craiovescu"
+	"Duca"
+	"Ghica"
+	"Ilias"
+	"Lupu"
+	"Mavrocordat"
+	"Moruzi"
+	"Movila"
+	"Musatin"
+	"Norocea"
+	"Racovita"
+	"Ruset"
+	"Sturdza"
+	"Sutu"
+	"Voda"
+}
+ship_names = {
+	"Athleta Christi"
+	"Baia"
+	"Bogdan I"
+	"Iuga"
+	"Moldova"
+	"Râul Prut"
+	"Stefan cel Mare"
+	"Suceava"
+	"Târgul Moldovei"
+	"Vaslui"
+}
+army_names = {
+	"Oastea de $PROVINCE$"
+}

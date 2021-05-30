@@ -1,0 +1,133 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 187 79 86 }
+revolutionary_colors = { 6 9 6 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	reformed_mughal_mansabdar
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ajitapida #1" = 10
+	"Amro #1" = -1
+	"Anangapida #1" = 10
+	"Ayasun #0" = -1
+	"Bhaadar #0" = -1
+	"Bhairabendranarayan #0" = 0
+	"Candrabhattarikadevi #1" = -1
+	"Cippatajayapida #1" = 10
+	"Gyelwé #1" = 10
+	"Hrista #0" = 0
+	"Jayapida #1" = 10
+	"Kering #0" = -1
+	"Kishan #1" = -1
+	"Kurukulla #0" = -1
+	"Kuvalayapida #1" = 10
+	"Lalitadiyta-Muktapida #1" = 10
+	"Lalitapida #1" = 10
+	"Laxman #0" = -1
+	"Lha #0" = -1
+	"Nyendrak #0" = -1
+	"Padmini #2" = -1
+	"Partap #1" = 10
+	"Prabhavati #0" = -1
+	"Prithvyapida #1" = 10
+	"Raksita #1" = 10
+	"Rambhadra Singh Dev #1" = 10
+	"Rasaladevi #2" = -1
+	"Rashida #0" = -1
+	"Samanta #0" = 0
+	"Samgramapida #1" = 10
+	"Seupa #0" = -1
+	"Shukladhwaj #2" = 10
+	"Siyaka #2" = 10
+	"Somalladevi #1" = -1
+	"Tripta #1" = -1
+	"Utpalapida #1" = 10
+	"Vajraditya #1" = 10
+	"Yongten #0" = -1
+}
+leader_names = {
+	"Ahluwalia"
+	"Bahadur"
+	"Bara"
+	"Bhangalia"
+	"Bhatia"
+	"Bhatta"
+	"Chandral"
+	"Chattar"
+	"Chauhan"
+	"Das"
+	"Dev"
+	"Gahunia"
+	"Gami"
+	"Jamwal"
+	"Jivan"
+	"Kamboh"
+	"Katoch"
+	"Khan"
+	"Khatri"
+	"Khokhar"
+	"Kisthwaria"
+	"Lal"
+	"Makhdum"
+	"Mian"
+	"Minha"
+	"Naga"
+	"Naru"
+	"Pahore"
+	"Pakhral"
+	"Parmanand"
+	"Pundir"
+	"Rai"
+	"Ramgarhia"
+	"Rathore"
+	"Samma"
+	"Saran"
+	"Shergill"
+	"Singh"
+	"Sodhi"
+	"Sohal"
+	"Soomrah"
+	"Suleria"
+}
+ship_names = {
+	"Beas"
+	"Chenab"
+	"Devi"
+	"Gayatri"
+	"Guru"
+	"Indus"
+	"Jalsena"
+	"Jhelum"
+	"Lakshmi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Parvati"
+	"Radha"
+	"Ratri"
+	"Ravi"
+	"Sagar"
+	"Sarasvati"
+	"Sita"
+	"Sutlej"
+}

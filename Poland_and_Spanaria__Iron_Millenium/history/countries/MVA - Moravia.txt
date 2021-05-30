@@ -1,0 +1,56 @@
+government = republic
+add_government_reform = free_city
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = slovak
+capital = 4726
+mercantilism = 25
+1444.11.11= {
+	monarch = {
+		name = "Jaropluk II"
+		dynasty = "Calatravid"
+		adm = 5
+		dip = 5
+		mil = 3
+		birth_date = 1391.3.10
+		religion = catholic
+		culture = slovak
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Jolanta"
+		dynasty = "Piast-Bielsko"
+		adm = 4
+		dip = 3
+		mil = 5
+		country_of_origin = MVA
+		birth_date = 1391.8.4
+		death_date = 1451.8.4
+		female = yes
+		religion = catholic
+		culture = polish
+	}
+	add_queen_personality = inspiring_leader_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Ruslav"
+		monarch_name = "Ruslav"
+		dynasty = "Calatravid"
+		adm = 4
+		dip = 6
+		mil = 4
+		birth_date = 1394.6.23
+		death_date = 1459.6.23
+		claim = 89
+		religion = catholic
+		culture = slovak
+	}
+	add_heir_personality = embezzler_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 77
+	add_treasury = 76
+}

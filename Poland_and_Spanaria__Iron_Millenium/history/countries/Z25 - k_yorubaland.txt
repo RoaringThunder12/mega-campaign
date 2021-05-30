@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+technology_group = sub_saharan
+religion = sunni
+primary_culture = yorumba
+capital = 1146
+religious_school = hanbali_school
+add_accepted_culture = yorumba
+1444.11.11= {
+	monarch = {
+		name = "Alayemore"
+		dynasty = "Gabou-Ilorin"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 1422.4.17
+		religion = sunni
+		culture = yorumba
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+	queen = {
+		name = "Oluwafunmilayo"
+		dynasty = "Mahin"
+		adm = 5
+		dip = 3
+		mil = 4
+		country_of_origin = Z25
+		birth_date = 1421.5.16
+		death_date = 1481.5.16
+		female = yes
+		religion = sunni
+		culture = yorumba
+	}
+	add_queen_personality = careful_personality
+	add_queen_personality = righteous_personality
+	heir = {
+		name = "Tokunbo"
+		monarch_name = "Tokunbo"
+		dynasty = "Gabou-Ilorin"
+		adm = 1
+		dip = 2
+		mil = 0
+		birth_date = 1440.12.12
+		death_date = 1505.12.12
+		claim = 89
+		religion = sunni
+		culture = yorumba
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = naive_personality
+}
+1444.11.11= {
+	add_prestige = 71
+	add_treasury = 0
+}

@@ -1,0 +1,85 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 153 138 161 }
+revolutionary_colors = { 5 0 1 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Abas #0" = 0
+	"Abdul-Wahad #0" = 0
+	"Adhid #0" = 0
+	"Amir #1" = 10
+	"Ashraf #0" = 0
+	"Binyamin #0" = 0
+	"Boutros #4" = 10
+	"Fatima #0" = -1
+	"Gorduya #0" = 0
+	"Gulnaz #0" = -1
+	"Gulpari #0" = -1
+	"Ibrahim #0" = 0
+	"Isa #0" = 0
+	"Jalila #0" = -1
+	"Jawdat #0" = 0
+	"Karima #0" = -1
+	"Madiha #0" = -1
+	"Mahsa #0" = -1
+	"Mahwash #0" = -1
+	"Majid #1" = 10
+	"Mehri #0" = -1
+	"Muaddam #0" = 0
+	"Musa #1" = 10
+	"Nazy #0" = -1
+	"Noushin #0" = -1
+	"Rajiya #0" = -1
+	"Sadiya #0" = -1
+	"Salahaddin #1" = 10
+	"Samira #0" = -1
+	"Seyfullah #1" = 10
+	"Taimur #0" = 0
+	"Zahra #0" = -1
+}
+leader_names = {
+	"Agha"
+	"Ahmad"
+	"Akif"
+	"Husain"
+	"Javid"
+	"Necip"
+	"Nuri"
+	"Rahman"
+	"Resid"
+	"Zaki"
+}
+ship_names = {
+	"Faydhi"
+	"Fazil"
+	"Jamal"
+	"Kadri"
+	"Midhat"
+	"Nadhif"
+	"Nadhim"
+	"Namiq"
+	"Omer"
+	"Sirri"
+}

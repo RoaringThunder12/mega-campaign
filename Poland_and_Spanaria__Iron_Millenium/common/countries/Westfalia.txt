@@ -1,0 +1,93 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 231 230 138 }
+revolutionary_colors = { 13 0 13 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adam #0" = 0
+	"Anna #0" = -1
+	"Bertold #0" = 0
+	"Bertrada #0" = -1
+	"Bia #0" = 0
+	"Biljana #0" = -1
+	"Boddic #2" = 10
+	"Bruno #1" = 10
+	"Enguerrand #1" = 10
+	"Esiko #0" = 0
+	"Freawine #0" = 0
+	"Giselmar #0" = 0
+	"Grigorii #0" = 0
+	"Irminburg #0" = -1
+	"Jadviga #0" = -1
+	"Luidolf #1" = 10
+	"Norbert #0" = -1
+	"Otto #1" = 10
+	"Reginbern #0" = -1
+	"Sigfrid #2" = 10
+	"Sophie #0" = -1
+	"Theoderic #1" = 10
+	"Thiedburga #0" = -1
+	"Ulfcytel #0" = 0
+	"Ulfo #0" = 0
+	"Wenzel #1" = 10
+	"Wichmann #1" = 10
+	"Widukind #1" = 10
+	"Winfrida #0" = -1
+	"Wlencing #1" = 10
+	"Wulfflæd #0" = -1
+}
+leader_names = {
+	"Aller"
+	"Detmold"
+	"Hamelm"
+	"Hildesheim"
+	"Kapp"
+	"Minden"
+	"Oldenburg"
+	"Salzgitter"
+	"Werden"
+	"Wernigerode"
+}
+ship_names = {
+	"Burgdorf"
+	"Deister"
+	"Georg von Calenberg"
+	"Langenhagen"
+	"Lehrte"
+	"Leine"
+	"Sarstedt"
+	"Stadthagen"
+	"Süntel"
+	"Wedemark"
+	"Weser"
+	"Wunstorf"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+	"Königliche Garde"
+}

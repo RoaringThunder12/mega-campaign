@@ -1,0 +1,95 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 62 175 151 }
+revolutionary_colors = { 0 1 0 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+}
+historical_units = {
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_mandelaku
+	african_mossi_horsemen
+	african_spearmen
+	african_tuareg_cavalry
+	african_western_franchise_warfare
+	niger_kongolese_gunpowder_warfare
+	songhai_tribal_warfare
+	westernized_niger_kongolese
+}
+monarch_names = {
+	"Aaqila #0" = -1
+	"Aarifa #0" = -1
+	"Aeesha #0" = -1
+	"Agwillul #1" = 10
+	"Ajeddig #0" = 0
+	"Al'a'addin #0" = 0
+	"Amdegh #0" = 0
+	"Aoua #0" = -1
+	"Asirem #1" = 10
+	"Az'regh #0" = 0
+	"Basimah #0" = 0
+	"Faghissa #0" = -1
+	"Halima #0" = -1
+	"Ibrahim #0" = 0
+	"Igider #0" = 0
+	"Igmi #0" = 0
+	"Issam #0" = 0
+	"Kaba #1" = 10
+	"Kamal #1" = 10
+	"Khalid #0" = 0
+	"Kumba #1" = 10
+	"Mennad #0" = 0
+	"Misagenes #5" = 10
+	"Misibsen #0" = 0
+	"Mukhtar #2" = 10
+	"Mustafa #0" = 0
+	"Niakhaté #1" = 10
+	"Runge #1" = 10
+	"Sadiqa #0" = -1
+	"Tacfin #1" = 10
+	"Takama #0" = -1
+	"Taweckint #0" = -1
+	"Tawzalt #0" = -1
+	"Tayyurt #0" = -1
+	"Temzi #0" = -1
+	"Tizemt #0" = -1
+	"Yaghmurasen #1" = 10
+	"Zafir #0" = 0
+	"Zubayda #0" = -1
+}
+leader_names = {
+	"Amadou"
+	"Compaore"
+	"Diallo"
+	"Diarra"
+	"Keita"
+	"Lamizana"
+	"Modibo"
+	"Ouedraogo"
+	"Toure"
+	"Zerbo"
+}
+ship_names = {
+	"Akoi"
+	"Alayaman"
+	"Ali-Fay"
+	"Biyo-Kumoy"
+	"Biyu"
+	"Kinkin"
+	"Ku"
+	"Kukuray"
+	"Nintasanay"
+	"Takoi"
+	"Yama-Karaway"
+	"Za Kuroy"
+	"Zakoi"
+}

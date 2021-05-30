@@ -1,0 +1,101 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 228 243 104 }
+revolutionary_colors = { 15 8 10 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	adal_guerilla_warfare
+	adal_gunpowder_warfare
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	westernized_adal
+}
+monarch_names = {
+	"Abanoub #0" = 0
+	"Abdulraham #0" = 0
+	"Abu-Bakr #0" = 0
+	"Acenith #0" = -1
+	"Agathos #0" = 0
+	"Akunna #1" = 10
+	"Asanet #0" = 0
+	"Azenet #0" = -1
+	"Biktor #1" = 10
+	"Chizoba #1" = 10
+	"Delbar #0" = -1
+	"Gabrielia #1" = -1
+	"Habil #0" = 0
+	"Haroun #0" = 0
+	"Ingir #0" = 0
+	"Jalila #0" = -1
+	"Jamila #0" = -1
+	"Jawdat #1" = 10
+	"Lazaros #1" = 10
+	"Mahdi #0" = 0
+	"Maj #0" = -1
+	"Mekonnen #0" = -1
+	"Muzaffaraddin #0" = 0
+	"Mília #0" = -1
+	"Nabila #0" = -1
+	"Nikephoros #1" = 10
+	"Nura #0" = -1
+	"Pamin #0" = 0
+	"Rana #0" = -1
+	"Ridwan #0" = 0
+	"Safiya #0" = -1
+	"Samuel #1" = 10
+	"Sharif #0" = 0
+	"Simin #0" = -1
+	"Tanaz #0" = -1
+	"Taweret #0" = -1
+	"Thuriya #0" = -1
+	"Toholjo #0" = 0
+	"Walid #0" = 0
+	"Yahya #0" = 0
+	"Youkhanna #0" = 0
+	"Zaia #0" = 0
+}
+leader_names = {
+	"Amarar"
+	"Balawat"
+	"Banu Amir"
+	"Beni-Amer"
+	"Bisharin"
+	"Hadendowa"
+	"Hallenga"
+	"Hamran"
+	"Hederab"
+	"Nabtab"
+}
+ship_names = {
+	"Asayita"
+	"Aura"
+	"Awash"
+	"Berahle"
+	"Chifra"
+	"Dallol"
+	"Dubti"
+	"Dulecha"
+	"Elidar"
+	"Ewa"
+	"Gewane"
+	"Koneba"
+	"Mille"
+	"Semera"
+	"Simurobi"
+	"Yalo"
+}

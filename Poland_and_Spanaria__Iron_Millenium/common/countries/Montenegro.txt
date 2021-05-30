@@ -1,0 +1,100 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 39 108 140 }
+revolutionary_colors = { 5 14 0 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	maritime_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Adelheid #0" = -1
+	"Andrea #1" = 10
+	"Ardizzone #0" = 0
+	"Athanasia #0" = -1
+	"Barbara #0" = -1
+	"Berengario #0" = 0
+	"Boso #1" = 10
+	"Branimira #0" = 0
+	"Burgondo #0" = 0
+	"Cyneswith #0" = -1
+	"Everardo #1" = 10
+	"Ghiberto #0" = 0
+	"Grana #1" = -1
+	"Ivan #2" = 10
+	"Josif #1" = 10
+	"Kenna #0" = -1
+	"Keratza #0" = -1
+	"Luka #0" = 0
+	"Matija #0" = -1
+	"Mihailo #1" = 10
+	"Milutin #1" = 10
+	"Miroslav #0" = -1
+	"Mislav #1" = 10
+	"Oberto #0" = 0
+	"Petar #1" = 10
+	"Pilitrud #0" = -1
+	"Seisyll #0" = 0
+	"Uros #0" = 0
+	"Violante #0" = 0
+	"Vladimir #2" = 10
+	"Vlastimir #1" = 10
+	"Vukan #2" = 10
+	"Æthelburg #0" = -1
+}
+leader_names = {
+	"Balsic"
+	"Baulica"
+	"Berici"
+	"Bivolici"
+	"Boljevic"
+	"Buca"
+	"Crnojevic"
+	"Drago"
+	"Grblji"
+	"Komanin"
+	"Kornecanin"
+	"Kosaca"
+	"Lukovici"
+	"Martinovitci"
+	"Njegos"
+	"Pastrovici"
+	"Petrovici"
+	"Radari"
+	"Srdjici"
+	"Sundecic"
+}
+ship_names = {
+	"Balsa I"
+	"Cetinje"
+	"Crna Gora"
+	"Duklja"
+	"Jadransko more"
+	"Jovan Vladimir"
+	"Mihajlo I"
+	"Podgorica"
+	"Vojislavljevic"
+	"Zeta"
+}

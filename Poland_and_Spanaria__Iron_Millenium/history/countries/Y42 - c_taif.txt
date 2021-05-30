@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = hejazi_culture
+capital = 4277
+fixed_capital = 4277
+religious_school = hanbali_school
+add_accepted_culture = hejazi_culture
+1444.11.11= {
+	monarch = {
+		name = "Jerjer"
+		dynasty = "Kemaladdin"
+		adm = 6
+		dip = 3
+		mil = 4
+		birth_date = 1388.11.8
+		religion = sunni
+		culture = hejazi_culture
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Kyriake"
+		dynasty = "Makedon-Kafartab"
+		adm = 4
+		dip = 5
+		mil = 2
+		country_of_origin = Y42
+		birth_date = 1396.9.2
+		death_date = 1456.9.2
+		female = yes
+		religion = sunni
+		culture = greek
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Alam"
+		monarch_name = "Alam"
+		dynasty = "Kemaladdin"
+		adm = 6
+		dip = 4
+		mil = 4
+		birth_date = 1413.7.26
+		death_date = 1478.7.26
+		claim = 89
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_heir_personality = careful_personality
+	add_heir_personality = drunkard_personality
+}
+1444.11.11= {
+	add_prestige = 81
+	add_treasury = 65
+}

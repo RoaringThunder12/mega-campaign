@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+technology_group = sub_saharan
+religion = ibadi
+primary_culture = kanuri
+capital = 1152
+add_accepted_culture = berber
+1444.11.11= {
+	monarch = {
+		name = "Hume"
+		dynasty = "Gazargamo-Zamtam"
+		adm = 3
+		dip = 5
+		mil = 3
+		birth_date = 1397.8.16
+		religion = ibadi
+		culture = kanuri
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = silver_tongue_personality
+	queen = {
+		name = "Dikwa"
+		dynasty = "Gazargamo-Munio"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = Z12
+		birth_date = 1426.10.15
+		death_date = 1486.10.15
+		female = yes
+		religion = ibadi
+		culture = kanuri
+	}
+	add_queen_personality = benevolent_personality
+	add_queen_personality = lawgiver_personality
+	heir = {
+		name = "Selma"
+		monarch_name = "Selma"
+		dynasty = "Gazargamo-Zamtam"
+		adm = 6
+		dip = 5
+		mil = 4
+		birth_date = 1417.8.22
+		death_date = 1482.8.22
+		claim = 89
+		religion = ibadi
+		culture = kanuri
+	}
+	add_heir_personality = craven_personality
+	add_heir_personality = well_connected_personality
+}
+1444.11.11= {
+	add_prestige = 69
+	add_treasury = 59
+}

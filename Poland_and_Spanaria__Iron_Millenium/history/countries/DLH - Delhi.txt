@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 2
+technology_group = indian
+religion = jain
+primary_culture = rajput
+capital = 4500
+add_accepted_culture = rajput
+1444.11.11= {
+	monarch = {
+		name = "Shrimitradevi"
+		dynasty = "Bhuyikadevi"
+		adm = 3
+		dip = 6
+		mil = 4
+		birth_date = 1394.7.30
+		female = yes
+		religion = jain
+		culture = rajput
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = midas_touched_personality
+	queen = {
+		name = "Bhumpala"
+		dynasty = "Narayanapalid"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = DLH
+		birth_date = 1418.7.22
+		death_date = 1478.7.22
+		religion = jain
+		culture = rajput
+	}
+	add_queen_personality = bold_fighter_personality
+	add_queen_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Anupapala"
+		monarch_name = "Anupapala"
+		dynasty = "Narayanapalid"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 1413.9.27
+		death_date = 1478.9.27
+		claim = 89
+		religion = jain
+		culture = rajput
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 74
+	add_treasury = 58
+}

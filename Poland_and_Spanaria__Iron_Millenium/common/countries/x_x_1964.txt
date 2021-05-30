@@ -1,0 +1,107 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 39 27 221 }
+historical_idea_groups = {
+	economic_ideas
+	offensive_ideas
+	exploration_ideas
+	defensive_ideas
+	administrative_ideas
+	maritime_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	anglofrench_line
+	chevauchee
+	dutch_maurician
+	french_bluecoat
+	french_caracolle
+	french_cuirassier
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_men_at_arms
+}
+
+monarch_names = {
+	"Agnese #0" = -1
+	"Aimeric #0" = 0
+	"Ainès #0" = -1
+	"Alaïs #0" = -1
+	"Alpaïs #0" = -1
+	"Amalric #0" = 0
+	"Ancelmes #0" = 0
+	"Anfòs #0" = 0
+	"Arnaut #0" = 0
+	"Arsenda #0" = -1
+	"Baudoïn #2" = 10
+	"Belleassez #0" = -1
+	"Berenguela #0" = -1
+	"Bernat #0" = 0
+	"Berthe #0" = -1
+	"Blanca #0" = -1
+	"Blasi #0" = -1
+	"Brunissenda #0" = -1
+	"Bòna #0" = -1
+	"Bóthildr #0" = -1
+	"Carlòta #0" = -1
+	"Charles #0" = 0
+	"Clara #0" = -1
+	"Cloutilda #0" = -1
+	"Constància #0" = -1
+	"Dirk #0" = 0
+	"Doumenge #1" = 10
+	"Dragana #0" = -1
+	"Dàvi #0" = 0
+	"Emmanuèl #0" = 0
+	"Enric #0" = -1
+	"Ermengarda #0" = -1
+	"Ermengau #0" = 0
+	"Filip #0" = -1
+	"Filipa #0" = -1
+	"Folquet #4" = 10
+	"Francesa #1" = -1
+	"Frederi #1" = 10
+	"Gautier #0" = 0
+	"Geneviva #0" = -1
+	"Gersenda #0" = -1
+	"Gisla #0" = -1
+	"Gniewomir #0" = 0
+	"Godafres #0" = -1
+	"Gui #1" = 10
+	"Guichard #0" = 0
+	"Guigone #0" = -1
+	"Heloise #0" = -1
+	"Holmfrid #0" = -1
+	"Isabèla #0" = -1
+	"Ives #0" = 0
+	"Jaufret #0" = 0
+	"Jean #0" = 0
+	"Joan #0" = 0
+	"Joana #0" = -1
+	"Julian #0" = 0
+	"Juliana #0" = -1
+	"Laura #0" = -1
+	"Marthe #0" = -1
+	"Matias #0" = 0
+	"Patricia #0" = -1
+	"Petronilha #0" = -1
+	"Raimond #0" = 0
+	"Raimonda #0" = -1
+	"Rainaut #1" = 10
+	"Richènda #0" = -1
+	"Robèrt #0" = 0
+	"Rosèla #0" = -1
+	"Sancho #0" = 0
+	"Skuld #0" = -1
+	"Spanarius #2" = 10
+	"Staurakios #0" = 0
+	"Ubert #1" = 10
+	"Violent #0" = -1
+}

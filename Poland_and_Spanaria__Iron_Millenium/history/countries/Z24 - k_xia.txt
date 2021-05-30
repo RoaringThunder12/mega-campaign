@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 2
+technology_group = chinese
+religion = nestorian
+primary_culture = khalkha
+capital = 698
+mercantilism = 15
+add_accepted_culture = khalkha
+1444.11.11= {
+	monarch = {
+		name = "Aepak"
+		dynasty = "Borjigin-Semey"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 1406.9.8
+		religion = nestorian
+		culture = khalkha
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	queen = {
+		name = "Karma"
+		dynasty = "Kallistos"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Z24
+		birth_date = 1406.8.15
+		death_date = 1466.8.15
+		female = yes
+		religion = nestorian
+		culture = tibetan
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = kind_hearted_personality
+	heir = {
+		name = "Eltut"
+		monarch_name = "Eltut"
+		dynasty = "Borjigin-Semey"
+		adm = 6
+		dip = 4
+		mil = 5
+		birth_date = 1426.11.21
+		death_date = 1491.11.21
+		claim = 89
+		religion = nestorian
+		culture = khalkha
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = well_connected_personality
+}
+1444.11.11= {
+	add_prestige = 94
+	add_treasury = 0
+}
