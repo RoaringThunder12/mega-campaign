@@ -1,0 +1,13 @@
+owner=FRA
+controller=FRA
+add_core=FRA
+add_core=X07
+trade_goods = grain
+life_rating = 32
+terrain = woods
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

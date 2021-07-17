@@ -1,0 +1,8 @@
+owner=BNG
+controller=BNG
+add_core=BUR
+add_core=IDO
+trade_goods = grain
+life_rating = 30
+terrain = marsh
+naval_base = 2

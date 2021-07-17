@@ -1,0 +1,7 @@
+owner=ENG
+controller=ENG
+add_core=AOT
+add_core=FJV
+trade_goods = fish
+life_rating = 15
+terrain = plains

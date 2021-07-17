@@ -1,0 +1,393 @@
+2197 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 420
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1680
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 273
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 63
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 352
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 39217
+	}
+
+}
+2198 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 88
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8170
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 11
+	}
+
+}
+2199 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3121
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 53
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 178
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = sunni
+		size= 436
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = sunni
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = sunni
+		size= 27
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = sunni
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = sunni
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = sunni
+		size= 7509
+	}
+
+}
+2200 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1678
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 365
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = sunni
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = sunni
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = sunni
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = sunni
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = sunni
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = sunni
+		size= 610
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 4
+	}
+
+}

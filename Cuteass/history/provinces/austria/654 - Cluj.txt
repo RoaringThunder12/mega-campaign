@@ -1,0 +1,14 @@
+owner=HUN
+controller=HUN
+add_core=HUN
+add_core=ROM
+add_core=SIE
+trade_goods = grain
+life_rating = 35
+terrain = woods
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

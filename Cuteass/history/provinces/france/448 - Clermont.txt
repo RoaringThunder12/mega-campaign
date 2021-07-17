@@ -1,0 +1,14 @@
+owner=FRA
+controller=FRA
+add_core=FRA
+add_core=OCC
+add_core=PRO
+trade_goods = coal
+life_rating = 32
+terrain = hills
+state_building=
+{
+	level=1
+	building = luxury_furniture_factory
+	upgrade = yes
+}

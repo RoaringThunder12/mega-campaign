@@ -1,0 +1,7 @@
+owner=DEC
+controller=DEC
+add_core=HND
+trade_goods = tobacco
+life_rating = 32
+terrain = plains
+naval_base = 2

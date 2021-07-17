@@ -1,0 +1,7 @@
+owner=X27
+controller=X27
+add_core=TKS
+add_core=X27
+trade_goods = grain
+life_rating = 35
+terrain = steppe

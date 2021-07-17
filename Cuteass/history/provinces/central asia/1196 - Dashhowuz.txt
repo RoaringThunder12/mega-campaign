@@ -1,0 +1,9 @@
+owner=RUS
+controller=RUS
+add_core=TKS
+add_core=TRX
+add_core=X40
+trade_goods = wool
+life_rating = 35
+terrain = plains
+colonial=2

@@ -1,0 +1,6 @@
+owner=MJP
+controller=MJP
+add_core=MJP
+trade_goods = timber
+life_rating = 30
+terrain = plains

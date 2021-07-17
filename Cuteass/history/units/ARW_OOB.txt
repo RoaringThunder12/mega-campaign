@@ -1,0 +1,14 @@
+#Sphere of Influence
+
+ARW = {
+	value = 0
+	level = 2
+}
+X56 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

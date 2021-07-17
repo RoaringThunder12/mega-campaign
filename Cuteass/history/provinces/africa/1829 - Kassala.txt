@@ -1,0 +1,5 @@
+owner=DAR
+controller=DAR
+trade_goods = tropical_wood
+life_rating = 30
+terrain = plains

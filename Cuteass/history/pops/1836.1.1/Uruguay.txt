@@ -1,0 +1,554 @@
+2344 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 245
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 257
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 80
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 3996
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = sunni
+		size= 1301
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 617
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 4075
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 3356
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 48
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 201
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 6949
+	}
+
+}
+2345 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 138
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1322
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 192
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1355
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 1099
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 15
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 132
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 3821
+	}
+
+}
+2346 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 495
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 522
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 103
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 1854
+	}
+
+}
+2347 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 29
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1518
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 109
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 223
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1581
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 1213
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 17
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = sunni
+		size= 1289
+	}
+
+}

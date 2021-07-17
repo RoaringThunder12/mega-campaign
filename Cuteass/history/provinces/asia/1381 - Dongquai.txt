@@ -1,0 +1,9 @@
+owner=DAI
+controller=DAI
+add_core=CAM
+add_core=CHA
+add_core=DAI
+add_core=IDO
+trade_goods = cotton
+life_rating = 30
+terrain = hills

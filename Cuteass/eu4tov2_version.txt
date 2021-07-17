@@ -1,0 +1,7 @@
+
+
+************ -= The Paradox Game Converters Group =- *****************
+* Converter version 1.0S "Stettin"
+* Compatible with EU4 [v1.0-v1.31] and Vic2 [v3]
+* Built on Wed Jul 14 08:45:58 2021
+************************** + EU4 To Vic2 + ***************************

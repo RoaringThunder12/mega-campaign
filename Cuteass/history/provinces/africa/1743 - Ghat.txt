@@ -1,0 +1,8 @@
+owner=MOR
+controller=MOR
+add_core=MOR
+add_core=TLC
+add_core=X03
+trade_goods = wool
+life_rating = 25
+terrain = desert

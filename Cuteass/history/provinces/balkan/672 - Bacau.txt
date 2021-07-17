@@ -1,0 +1,8 @@
+owner=X04
+controller=X04
+add_core=ROM
+add_core=SIE
+add_core=X04
+trade_goods = grain
+life_rating = 35
+terrain = woods

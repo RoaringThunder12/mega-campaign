@@ -1,0 +1,1507 @@
+1369 = {
+	slaves=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 8428
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 19579
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 29794
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 3192
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 660
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 511
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 2681
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 147968
+	}
+
+}
+1370 = {
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 2906
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 5811
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 1090
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 276
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 116
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 1830
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 133246
+	}
+
+}
+1371 = {
+	slaves=
+	{
+		culture = zhuang
+		religion = mahayana
+		size= 1652
+	}
+
+	soldiers=
+	{
+		culture = zhuang
+		religion = mahayana
+		size= 3241
+	}
+
+	artisans=
+	{
+		culture = zhuang
+		religion = mahayana
+		size= 1157
+	}
+
+	clergymen=
+	{
+		culture = zhuang
+		religion = mahayana
+		size= 188
+	}
+
+	bureaucrats=
+	{
+		culture = zhuang
+		religion = mahayana
+		size= 43
+	}
+
+	officers=
+	{
+		culture = zhuang
+		religion = mahayana
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = zhuang
+		religion = mahayana
+		size= 486
+	}
+
+	farmers=
+	{
+		culture = zhuang
+		religion = mahayana
+		size= 51055
+	}
+
+	slaves=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 218
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 428
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 1463
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 238
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 55
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 614
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 4568
+	}
+
+}
+1372 = {
+	slaves=
+	{
+		culture = lao
+		religion = animist
+		size= 419
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = animist
+		size= 573
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = animist
+		size= 286
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = animist
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = animist
+		size= 14
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = animist
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = animist
+		size= 27172
+	}
+
+	slaves=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 320
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 15
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 134
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 1066
+	}
+
+	slaves=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 535
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 2071
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 389
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 98
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 870
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 31592
+	}
+
+}
+1373 = {
+	slaves=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 1870
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 1517
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 3033
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 569
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 144
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 1274
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 67358
+	}
+
+}
+1374 = {
+	slaves=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 2806
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 2319
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 4639
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 870
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 220
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 1948
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 103070
+	}
+
+}
+1375 = {
+	slaves=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 9204
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 25404
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 38658
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 2071
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 525
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 663
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 2320
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 197287
+	}
+
+}
+1376 = {
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 11673
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 972
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 247
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 207
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 1089
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 105175
+	}
+
+}
+1377 = {
+	slaves=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 915
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 632
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 2212
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 118
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 30
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 27540
+	}
+
+	slaves=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 1025
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 707
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 7165
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 384
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 98
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 430
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 25533
+	}
+
+}
+1378 = {
+	slaves=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 993
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 397
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 1392
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 167
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 16827
+	}
+
+	slaves=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 902
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 361
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 3918
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 210
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 53
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 470
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 12110
+	}
+
+}
+1379 = {
+	soldiers=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 275
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 13
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 13014
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 304
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 882
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 166
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 42
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 278
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 13509
+	}
+
+}
+1380 = {
+	slaves=
+	{
+		culture = khmer
+		religion = hindu
+		size= 3784
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 2007
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = hindu
+		size= 2007
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = hindu
+		size= 376
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = hindu
+		size= 95
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = hindu
+		size= 421
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 91601
+	}
+
+	slaves=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 3216
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 1705
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 5417
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 1016
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 257
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 108
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 1138
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 72399
+	}
+
+}
+1381 = {
+	soldiers=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 303
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 341
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 7
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = hindu
+		size= 14408
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 436
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 9
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = animist
+		size= 1497
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 292
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 2090
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 174
+	}
+
+	bureaucrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 44
+	}
+
+	officers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 390
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 11588
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 251
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = hindu
+		size= 564
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = hindu
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = hindu
+		size= 12
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = hindu
+		size= 105
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 11556
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 227
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 1586
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 33
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 296
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 9064
+	}
+
+}
+1382 = {
+	soldiers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 1205
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = hindu
+		size= 431
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = hindu
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = hindu
+		size= 20
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = hindu
+		size= 271
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 19493
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 1036
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 1171
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 220
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 55
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 737
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 15235
+	}
+
+}
+1383 = {
+	soldiers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 843
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = hindu
+		size= 302
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = hindu
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = hindu
+		size= 14
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = hindu
+		size= 190
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 13644
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 725
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 820
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 39
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 516
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 10664
+	}
+
+}

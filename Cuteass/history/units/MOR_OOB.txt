@@ -1,0 +1,1213 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+ADE = {
+	value = 0
+	level = 2
+}
+ALS = {
+	value = 0
+	level = 2
+}
+AOT = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRS = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 50
+	level = 2
+}
+FRA = {
+	value = 7
+	level = 2
+}
+GAM = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIM = {
+	value = 9
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MDS = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MMA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOL = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 101
+	influence_value = 12
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = -100
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMB = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 83
+	influence_value = 8
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 191
+	influence_value = 35
+	level = 4
+}
+X46 = {
+	value = 87
+	influence_value = 9
+	level = 2
+}
+X47 = {
+	value = 0
+	level = 2
+}
+X48 = {
+	value = 0
+	level = 2
+}
+X49 = {
+	value = 4
+	level = 2
+}
+X50 = {
+	value = 0
+	level = 2
+}
+X53 = {
+	value = 28
+	level = 2
+}
+X56 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Tabat Alami"
+	date="1745.11.7"
+	type=land
+	personality="stalwart"
+	background="brownnoser"
+}
+
+leader = {
+	name="Idris Sellami"
+	date="1753.2.5"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Idris Skah"
+	date="1761.6.3"
+	type=sea
+	personality="gallant"
+	background="drillmaster"
+}
+
+leader = {
+	name="Bakr Arazi"
+	date="1770.4.5"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="Free Company"
+	location=1731
+	regiment = {
+		name="1st Tangier Irregulars"
+		type=irregular
+		home=1686
+	}
+	regiment = {
+		name="2nd Tangier Irregulars"
+		type=irregular
+		home=1686
+	}
+	regiment = {
+		name="3rd Tangier Irregulars"
+		type=irregular
+		home=1686
+	}
+}
+
+army = {
+	name="Moorish Battalion"
+	location=2136
+	regiment = {
+		name="4th Tangier Irregulars"
+		type=irregular
+		home=1686
+	}
+	regiment = {
+		name="5th Tangier Irregulars"
+		type=irregular
+		home=1686
+	}
+	regiment = {
+		name="6th Tangier Irregulars"
+		type=irregular
+		home=1686
+	}
+	regiment = {
+		name="1st Algiers Irregulars"
+		type=irregular
+		home=1700
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1685
+	ship = {
+		name="1st Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Moroccan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Algiers Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Algiers Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Azores Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tangier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ifni Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Algiers Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Safi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Madeira Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Casablanca Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Madeira Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Melilla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Casablanca Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Agadir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Azores Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tetouan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Madeira Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1692
+	regiment = {
+		name="1st Cádiz Irregulars"
+		type=irregular
+		home=512
+	}
+	regiment = {
+		name="1st Marrakesh Irregulars"
+		type=irregular
+		home=1690
+	}
+	regiment = {
+		name="1st Casablanca Artillery"
+		type=artillery
+		home=1691
+	}
+	regiment = {
+		name="1st Oran Artillery"
+		type=artillery
+		home=1704
+	}
+	regiment = {
+		name="1st Bizerte Irregulars"
+		type=irregular
+		home=1726
+	}
+	regiment = {
+		name="3rd Marrakesh Artillery"
+		type=artillery
+		home=1690
+	}
+}
+
+army = {
+	name="17th Army"
+	location=1707
+	regiment = {
+		name="1st Gafsa Irregulars"
+		type=irregular
+		home=1727
+	}
+	regiment = {
+		name="1st Tindouf Irregulars"
+		type=irregular
+		home=1716
+	}
+	regiment = {
+		name="1st Sawira Artillery"
+		type=artillery
+		home=1693
+	}
+	regiment = {
+		name="1st Figuig Artillery"
+		type=artillery
+		home=1697
+	}
+	regiment = {
+		name="2nd Sawira Artillery"
+		type=artillery
+		home=1693
+	}
+	regiment = {
+		name="1st Safi Irregulars"
+		type=irregular
+		home=2563
+	}
+}
+
+army = {
+	name="8th Army"
+	location=502
+	regiment = {
+		name="1st Bougie Irregulars"
+		type=irregular
+		home=1701
+	}
+	regiment = {
+		name="1st Chenachene Irregulars"
+		type=irregular
+		home=1717
+	}
+	regiment = {
+		name="1st Gabes Irregulars"
+		type=irregular
+		home=1730
+	}
+	regiment = {
+		name="1st Rashidia Artillery"
+		type=artillery
+		home=1698
+	}
+	regiment = {
+		name="1st Ajdir Artillery"
+		type=artillery
+		home=1688
+	}
+}
+
+army = {
+	name="9th Army"
+	location=2136
+	regiment = {
+		name="1st Marrakesh Artillery"
+		type=artillery
+		home=1690
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1731
+	regiment = {
+		name="2nd Marrakesh Artillery"
+		type=artillery
+		home=1690
+	}
+	regiment = {
+		name="1st Rabat Artillery"
+		type=artillery
+		home=1685
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2746
+	ship = {
+		name="10th Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Agadir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gabes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Agadir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Agadir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Madeira Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2746
+	ship = {
+		name="1st Oran Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bizerte Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gibraltar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Balearic Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ajdir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Balearic Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Safi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Madeira Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1694
+	regiment = {
+		name="1st Warzazat Irregulars"
+		type=irregular
+		home=1699
+	}
+	regiment = {
+		name="1st Warzazat Artillery"
+		type=artillery
+		home=1699
+	}
+	regiment = {
+		name="1st Mustaghanim Irregulars"
+		type=irregular
+		home=1706
+	}
+	regiment = {
+		name="2nd Warzazat Artillery"
+		type=artillery
+		home=1699
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2767
+	ship = {
+		name="1st Melilla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Madeira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Casablanca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bone Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bone Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Gibraltar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Granada Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mustaghanim Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2747
+	ship = {
+		name="1st Alicante Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Canary Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Madeira Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2923
+	ship = {
+		name="1st Ifni Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rabat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bone Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cádiz Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="13th Fleet"
+	location=2924
+	ship = {
+		name="2nd Canary Islands Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Azores Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tangier Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tetouan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cádiz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Valencia Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2924
+	ship = {
+		name="3rd Azores Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Algiers Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Algiers Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Oran Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Safi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Safi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ajdir Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2753
+	ship = {
+		name="4th Safi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Agadir Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2753
+	ship = {
+		name="1st Malta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tangier Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Algiers Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Safi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Oran Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ajdir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Moroccan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Oran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Oran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tangier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Wujda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Azores Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Oran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Safi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Oran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Oran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Valencia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rabat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cádiz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cartagena Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tangier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Paraná Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tangier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Wujda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Buenos Aires Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Safi Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1727
+	regiment = {
+		name="2nd Gafsa Irregulars"
+		type=irregular
+		home=1727
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1725
+	ship = {
+		name="2nd Moroccan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Moroccan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Moroccan Clipper Transport"
+		type=clipper_transport
+	}
+}
+

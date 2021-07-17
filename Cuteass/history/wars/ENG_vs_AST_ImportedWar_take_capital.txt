@@ -1,0 +1,16 @@
+name = "British-Australian Imperialist War"
+
+1774.4.17 = {
+	add_attacker = ENG
+	add_attacker = CLM
+	add_attacker = NZL
+	add_defender = AST
+
+	war_goal = {
+		casus_belli = annex_core_country
+		actor = ENG
+		receiver = AST
+		country = AST
+		state_province_id = 2485
+	}
+}

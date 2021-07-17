@@ -1,0 +1,7 @@
+owner=RUS
+controller=RUS
+add_core=CHG
+add_core=TKS
+trade_goods = sulphur
+life_rating = 35
+terrain = forest

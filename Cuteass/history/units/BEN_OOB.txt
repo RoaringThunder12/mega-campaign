@@ -1,0 +1,26 @@
+#Sphere of Influence
+
+BEN = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

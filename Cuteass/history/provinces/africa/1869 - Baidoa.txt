@@ -1,0 +1,7 @@
+owner=X45
+controller=ARA
+add_core=SOM
+add_core=X45
+trade_goods = cotton
+life_rating = 15
+terrain = farmlands

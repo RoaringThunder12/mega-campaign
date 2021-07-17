@@ -1,0 +1,9 @@
+owner=MNX
+controller=MNX
+add_core=CHI
+add_core=MNX
+add_core=X12
+add_core=YAN
+trade_goods = coal
+life_rating = 32
+terrain = woods

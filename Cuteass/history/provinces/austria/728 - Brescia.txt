@@ -1,0 +1,8 @@
+owner=X53
+controller=X53
+add_core=ITA
+add_core=MOD
+add_core=X53
+trade_goods = silk
+life_rating = 35
+terrain = farmlands

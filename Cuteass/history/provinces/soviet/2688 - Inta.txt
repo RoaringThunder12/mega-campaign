@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=FIN
+add_core=SCA
+add_core=X29
+trade_goods = fish
+life_rating = 15
+terrain = arctic

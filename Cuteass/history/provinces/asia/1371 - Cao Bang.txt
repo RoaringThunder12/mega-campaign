@@ -1,0 +1,6 @@
+owner=MNX
+controller=MNX
+add_core=CHI
+trade_goods = grain
+life_rating = 30
+terrain = mountain

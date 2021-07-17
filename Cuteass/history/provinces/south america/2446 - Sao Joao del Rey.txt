@@ -1,0 +1,7 @@
+owner=X56
+controller=X56
+add_core=BRZ
+add_core=X14
+trade_goods = tropical_wood
+life_rating = 35
+terrain = plains

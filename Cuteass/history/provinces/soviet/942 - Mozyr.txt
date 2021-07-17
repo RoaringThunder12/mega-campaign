@@ -1,0 +1,8 @@
+owner=RUS
+controller=PLC
+add_core=PLC
+add_core=POL
+add_core=RUS
+trade_goods = cattle
+life_rating = 35
+terrain = marsh

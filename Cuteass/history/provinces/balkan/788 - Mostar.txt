@@ -1,0 +1,9 @@
+owner=CRO
+controller=CRO
+add_core=CRO
+add_core=HRE
+add_core=SER
+add_core=YUG
+trade_goods = grain
+life_rating = 35
+terrain = hills

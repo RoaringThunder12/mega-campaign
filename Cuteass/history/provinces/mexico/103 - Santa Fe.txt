@@ -1,0 +1,7 @@
+owner=USA
+controller=USA
+add_core=OHK
+trade_goods = fruit
+life_rating = 35
+terrain = woods
+colonial=2

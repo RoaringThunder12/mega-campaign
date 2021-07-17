@@ -1,0 +1,8 @@
+owner=SRD
+controller=SRD
+add_core=ITA
+add_core=SIC
+add_core=SRD
+trade_goods = sulphur
+life_rating = 35
+terrain = hills

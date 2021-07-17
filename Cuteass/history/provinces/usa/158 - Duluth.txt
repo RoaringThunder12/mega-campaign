@@ -1,0 +1,8 @@
+owner=USA
+controller=USA
+add_core=CYN
+add_core=SIO
+trade_goods = iron
+life_rating = 35
+terrain = forest
+colonial=2

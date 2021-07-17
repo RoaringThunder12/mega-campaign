@@ -1,0 +1,298 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 443
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 646
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = sunni
+		size= 653
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = sunni
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = sunni
+		size= 90
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = sunni
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = sunni
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = sunni
+		size= 838
+	}
+
+}
+1973 = {
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 203
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 102
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 5
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 9807
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = catholic
+		size= 179
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = catholic
+		size= 280
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = catholic
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = catholic
+		size= 8347
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = catholic
+		size= 706
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = catholic
+		size= 115
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 35
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 148
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 6919
+	}
+
+}

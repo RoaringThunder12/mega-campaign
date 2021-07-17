@@ -1,0 +1,8 @@
+owner=X47
+controller=MNX
+add_core=KHA
+add_core=KLK
+add_core=MGL
+trade_goods = timber
+life_rating = 32
+terrain = plains

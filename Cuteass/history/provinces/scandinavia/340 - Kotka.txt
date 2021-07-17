@@ -1,0 +1,10 @@
+owner=RUS
+controller=RUS
+add_core=FIN
+add_core=POM
+add_core=SCA
+add_core=SWE
+trade_goods = timber
+life_rating = 35
+terrain = farmlands
+naval_base = 2

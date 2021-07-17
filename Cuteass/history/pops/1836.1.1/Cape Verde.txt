@@ -1,0 +1,51 @@
+1876 = {
+	soldiers=
+	{
+		culture = morado
+		religion = sunni
+		size= 563
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = sunni
+		size= 805
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = sunni
+		size= 302
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = sunni
+		size= 56
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = sunni
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = sunni
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = sunni
+		size= 18182
+	}
+
+}

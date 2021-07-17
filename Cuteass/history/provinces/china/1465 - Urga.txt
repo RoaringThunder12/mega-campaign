@@ -1,0 +1,8 @@
+owner=X48
+controller=X48
+add_core=BRY
+add_core=X48
+add_core=YAK
+trade_goods = cattle
+life_rating = 32
+terrain = hills

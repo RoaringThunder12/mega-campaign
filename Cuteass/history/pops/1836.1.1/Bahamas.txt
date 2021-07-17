@@ -1,0 +1,193 @@
+2219 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 811
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 82
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 3345
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 397
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 73
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 144
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = sunni
+		size= 625
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = sunni
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = sunni
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = sunni
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = sunni
+		size= 12
+	}
+
+}

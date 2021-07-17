@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=X47
+add_core=XIN
+add_core=YRK
+trade_goods = coal
+life_rating = 35
+terrain = plains

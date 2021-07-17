@@ -1,0 +1,13 @@
+owner=RUS
+controller=RUS
+add_core=NOG
+add_core=RUS
+trade_goods = fruit
+life_rating = 35
+terrain = hills
+state_building=
+{
+	level=1
+	building = luxury_clothes_factory
+	upgrade = yes
+}

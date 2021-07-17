@@ -1,0 +1,204 @@
+1098 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 1251
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 3806
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 353
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 87
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 685
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 20942
+	}
+
+}
+1099 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 857
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 2608
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 60
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 470
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 14349
+	}
+
+}
+1100 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 1606
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 32
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 193
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 5407
+	}
+
+}
+1101 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 2063
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 41
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 248
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = orthodox
+		size= 8118
+	}
+
+}

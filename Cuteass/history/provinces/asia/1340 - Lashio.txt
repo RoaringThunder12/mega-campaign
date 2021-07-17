@@ -1,0 +1,10 @@
+owner=X43
+controller=X43
+add_core=BUR
+add_core=IDO
+add_core=LNA
+add_core=MMA
+add_core=SHA
+trade_goods = tropical_wood
+life_rating = 35
+terrain = mountain

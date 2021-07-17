@@ -1,0 +1,51 @@
+2126 = {
+	soldiers=
+	{
+		culture = morado
+		religion = sunni
+		size= 1176
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = sunni
+		size= 1023
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = sunni
+		size= 384
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = sunni
+		size= 71
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = sunni
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = sunni
+		size= 215
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = sunni
+		size= 22626
+	}
+
+}

@@ -1,0 +1,365 @@
+1979 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 653
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 7
+	}
+
+}
+2239 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2142
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 236
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 488
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 8645
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 660
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 7
+	}
+
+}
+2243 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 8339
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 803
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 41
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7
+	}
+
+}

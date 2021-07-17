@@ -1,0 +1,8 @@
+owner=USA
+controller=USA
+add_core=MSC
+add_core=PUE
+trade_goods = cattle
+life_rating = 35
+terrain = steppe
+colonial=2

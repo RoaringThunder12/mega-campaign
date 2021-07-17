@@ -1,0 +1,15 @@
+name = "Ming-Iman Imperialist War"
+
+1778.8.14 = {
+	add_attacker = MNX
+	add_defender = X13
+	add_defender = JAP
+
+	war_goal = {
+		casus_belli = annex_core_country
+		actor = MNX
+		receiver = X13
+		country = X13
+		state_province_id = 1082
+	}
+}

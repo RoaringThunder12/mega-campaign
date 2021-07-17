@@ -1,0 +1,9 @@
+owner=MOR
+controller=MOR
+add_core=ADU
+add_core=GRA
+add_core=MOR
+trade_goods = fish
+life_rating = 35
+terrain = mountain
+naval_base = 1

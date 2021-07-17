@@ -1,0 +1,9 @@
+owner=X50
+controller=X50
+add_core=CRO
+add_core=HRE
+add_core=X50
+add_core=YUG
+trade_goods = cotton
+life_rating = 35
+terrain = hills

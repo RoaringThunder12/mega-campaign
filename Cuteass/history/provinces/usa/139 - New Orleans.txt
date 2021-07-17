@@ -1,0 +1,12 @@
+owner=USA
+controller=USA
+trade_goods = grain
+life_rating = 35
+terrain = plains
+naval_base = 1
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

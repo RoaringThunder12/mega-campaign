@@ -1,0 +1,878 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+ALS = {
+	value = 0
+	level = 2
+}
+AOT = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 126
+	influence_value = 19
+	level = 3
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRS = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = -21
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -20
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 12
+	level = 2
+}
+FRA = {
+	value = 50
+	level = 3
+}
+GAM = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIM = {
+	value = 9
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MDS = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -176
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MIX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MMA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 28
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = 0
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOL = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 11
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 123
+	influence_value = 18
+	level = 3
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMB = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = -12
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 234
+	influence_value = 46
+	level = 3
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = -63
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X47 = {
+	value = 0
+	level = 2
+}
+X48 = {
+	value = 0
+	level = 2
+}
+X49 = {
+	value = 0
+	level = 2
+}
+X50 = {
+	value = 0
+	level = 2
+}
+X53 = {
+	value = 0
+	level = 2
+}
+X56 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Lorenzo Teles de Meneses"
+	date="1749.7.15"
+	type=land
+	personality="persistant"
+	background="war_college"
+}
+
+leader = {
+	name="Diogo de Távora"
+	date="1750.11.15"
+	type=land
+	personality="gallant"
+	background="drillmaster"
+}
+
+leader = {
+	name="Tadros de Almeida"
+	date="1761.3.14"
+	type=land
+	personality="charismatic"
+	background="drillmaster"
+}
+
+leader = {
+	name="Pedro de Correia"
+	date="1779.1.24"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Martinho de Tavares"
+	date="1779.4.6"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=2214
+	ship = {
+		name="1st Santo Domingo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Santo Domingo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Barbados Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Barbados Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cap Haitien Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Camagüey Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Santo Domingo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Santo Domingo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Puerto Rico Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bacalar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Santo Domingo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Camagüey Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st La Vega Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Santo Domingo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Barbados Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Puerto Rico Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Barbados Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Barbados Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Port Au Prince Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Newcastle-upon-Tyne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Puerto Rico Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Fortaleza Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Buccaneer Battalion"
+	location=2216
+	regiment = {
+		name="1st Cap Haitien Infantry"
+		type=infantry
+		home=2215
+	}
+	regiment = {
+		name="1st Jagua Infantry"
+		type=infantry
+		home=2210
+	}
+	regiment = {
+		name="1st Havana Infantry"
+		type=infantry
+		home=2209
+	}
+	regiment = {
+		name="3rd Jagua Infantry"
+		type=infantry
+		home=2210
+	}
+}
+
+army = {
+	name="Yucatan Company"
+	location=2216
+	regiment = {
+		name="1st Port Au Prince Infantry"
+		type=infantry
+		home=2213
+	}
+	regiment = {
+		name="1st Jamaica Infantry"
+		type=infantry
+		home=2217
+	}
+	regiment = {
+		name="2nd Jagua Infantry"
+		type=infantry
+		home=2210
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2209
+	regiment = {
+		name="1st Havana Artillery"
+		type=artillery
+		home=2209
+	}
+	regiment = {
+		name="1st Jagua Artillery"
+		type=artillery
+		home=2210
+	}
+	regiment = {
+		name="1st Santiago de Cuba Artillery"
+		type=artillery
+		home=2212
+	}
+	regiment = {
+		name="2nd Jagua Artillery"
+		type=artillery
+		home=2210
+	}
+	regiment = {
+		name="1st La Vega Artillery"
+		type=artillery
+		home=2216
+	}
+	regiment = {
+		name="2nd Havana Artillery"
+		type=artillery
+		home=2209
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2973
+	ship = {
+		name="1st Santo Domingo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Santo Domingo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Barbados Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Santo Domingo Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2970
+	ship = {
+		name="1st Jamaica Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tampa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st New Orleans Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tampa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Santiago de Cuba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Barbados Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Barbados Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Santo Domingo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Santiago de Cuba Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2969
+	ship = {
+		name="1st Port Au Prince Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cap Haitien Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2209
+	ship = {
+		name="1st Jamaica Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd La Vega Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Barbados Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Puerto Rico Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Barbados Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Vega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bacalar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Barbados Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Barbados Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Puerto Rico Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tampico Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cap Haitien Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cap Haitien Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Barbados Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Acapulco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Puerto Rico Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Barbados Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Vega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Puerto Rico Clipper Transport"
+		type=clipper_transport
+	}
+}
+

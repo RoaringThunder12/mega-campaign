@@ -1,0 +1,6 @@
+owner=X43
+controller=X43
+add_core=HND
+trade_goods = wool
+life_rating = 32
+terrain = mountain

@@ -1,0 +1,9 @@
+owner=RUS
+controller=RUS
+add_core=KHA
+add_core=KLK
+add_core=MGL
+trade_goods = grain
+life_rating = 32
+terrain = hills
+colonial=2

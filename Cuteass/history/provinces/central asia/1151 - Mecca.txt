@@ -1,0 +1,10 @@
+owner=NEJ
+controller=NEJ
+add_core=ADE
+add_core=ARA
+add_core=HDJ
+add_core=NEJ
+add_core=X17
+trade_goods = grain
+life_rating = 35
+terrain = desert

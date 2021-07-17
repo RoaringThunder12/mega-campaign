@@ -1,0 +1,6 @@
+owner=USA
+controller=USA
+add_core=FLR
+trade_goods = fruit
+life_rating = 35
+terrain = steppe

@@ -1,0 +1,9 @@
+owner=MOR
+controller=MOR
+add_core=MOR
+add_core=TLC
+add_core=X03
+trade_goods = fruit
+life_rating = 35
+terrain = plains
+naval_base = 2

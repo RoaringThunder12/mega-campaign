@@ -1,0 +1,9 @@
+owner=MNX
+controller=MNX
+add_core=KHA
+add_core=KLK
+add_core=MGL
+add_core=X12
+trade_goods = grain
+life_rating = 32
+terrain = hills

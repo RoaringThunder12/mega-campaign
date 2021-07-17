@@ -1,0 +1,8 @@
+owner=USA
+controller=USA
+add_core=APA
+add_core=X09
+trade_goods = iron
+life_rating = 35
+terrain = desert
+colonial=2

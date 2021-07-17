@@ -1,0 +1,7 @@
+owner=POR
+controller=MJP
+add_core=X52
+trade_goods = fish
+life_rating = 30
+terrain = plains
+colonial=2

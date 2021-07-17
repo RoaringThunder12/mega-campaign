@@ -1,0 +1,158 @@
+2241 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 705
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 99
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 367
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 2987
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 6
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 124
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 528
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 6
+	}
+
+}

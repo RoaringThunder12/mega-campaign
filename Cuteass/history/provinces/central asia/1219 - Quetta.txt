@@ -1,0 +1,5 @@
+owner=SIN
+controller=SIN
+trade_goods = wool
+life_rating = 35
+terrain = hills

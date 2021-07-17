@@ -1,0 +1,7 @@
+owner=ARM
+controller=ARM
+add_core=PER
+add_core=TAB
+trade_goods = cattle
+life_rating = 35
+terrain = hills

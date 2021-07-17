@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=NOG
+add_core=RUS
+add_core=X05
+trade_goods = fruit
+life_rating = 35
+terrain = hills

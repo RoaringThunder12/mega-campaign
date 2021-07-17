@@ -1,0 +1,9 @@
+owner=X26
+controller=X26
+add_core=GER
+add_core=HRE
+add_core=TER
+add_core=X26
+trade_goods = iron
+life_rating = 40
+terrain = farmlands

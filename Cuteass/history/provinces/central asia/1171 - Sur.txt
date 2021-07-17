@@ -1,0 +1,9 @@
+owner=NEJ
+controller=NEJ
+add_core=ARA
+add_core=NEJ
+add_core=OMA
+add_core=X17
+trade_goods = fruit
+life_rating = 35
+terrain = mountain

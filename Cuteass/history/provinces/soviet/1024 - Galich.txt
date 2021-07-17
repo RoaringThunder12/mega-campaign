@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=FIN
+add_core=SCA
+add_core=X29
+trade_goods = timber
+life_rating = 35
+terrain = plains

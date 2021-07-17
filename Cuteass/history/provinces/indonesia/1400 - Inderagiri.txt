@@ -1,0 +1,9 @@
+owner=PHG
+controller=MLC
+add_core=MLC
+add_core=MLY
+add_core=PHG
+add_core=PLB
+trade_goods = grain
+life_rating = 30
+terrain = jungle

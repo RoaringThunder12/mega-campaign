@@ -1,0 +1,7 @@
+owner=RUS
+controller=RUS
+add_core=X15
+trade_goods = fish
+life_rating = 20
+terrain = mountain
+colonial=2

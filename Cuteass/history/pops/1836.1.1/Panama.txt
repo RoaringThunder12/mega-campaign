@@ -1,0 +1,423 @@
+1723 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 782
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 113
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 2019
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 3
+	}
+
+}
+2204 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3332
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 95
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 481
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 24
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 152
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 8612
+	}
+
+}
+2205 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 29
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1409
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 222
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 4453
+	}
+
+}
+2206 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 224
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5184
+	}
+
+}
+2208 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 712
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 232
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 1707
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 3
+	}
+
+}

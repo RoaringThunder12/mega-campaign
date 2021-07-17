@@ -1,0 +1,9 @@
+owner=SUL
+controller=FRA
+add_core=MGD
+add_core=PHI
+add_core=SUL
+trade_goods = iron
+life_rating = 30
+terrain = hills
+naval_base = 1

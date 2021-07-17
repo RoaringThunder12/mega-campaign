@@ -1,0 +1,9 @@
+owner=ENG
+controller=ENG
+add_core=ENG
+add_core=ENL
+add_core=NOL
+trade_goods = fish
+life_rating = 35
+terrain = farmlands
+naval_base = 2

@@ -1,0 +1,780 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+ALS = {
+	value = 0
+	level = 2
+}
+AOT = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 155
+	influence_value = 26
+	level = 3
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRS = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = -83
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = -100
+	level = 2
+}
+DEC = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GAM = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIM = {
+	value = 9
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MDS = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MMA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = -277
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = 169
+	influence_value = 29
+	level = 4
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOL = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+NZL = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAN = {
+	value = -4
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 6
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = -119
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMB = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SRD = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUK = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = -12
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = -28
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X47 = {
+	value = 0
+	level = 2
+}
+X48 = {
+	value = 0
+	level = 2
+}
+X49 = {
+	value = 0
+	level = 2
+}
+X50 = {
+	value = 0
+	level = 2
+}
+X53 = {
+	value = 0
+	level = 2
+}
+X56 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Qasim Baibars"
+	date="1757.12.2"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Qasim Inâl"
+	date="1758.10.6"
+	type=land
+	personality="persistant"
+	background="generals_aide"
+}
+
+leader = {
+	name="J0nbul0t III al-Qazdughli"
+	date="1771.6.2"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="T0m0n Bay Baibars"
+	date="1771.6.4"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="al-Hasan Zangi"
+	date="1771.6.6"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="K0j0k Inâl"
+	date="1771.6.8"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="al-Musta'in Baibars"
+	date="1771.6.11"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+
+#Armies
+army = {
+	name="Crimean Company"
+	location=1151
+	regiment = {
+		name="1st Tobruk Irregulars"
+		type=irregular
+		home=1737
+	}
+	regiment = {
+		name="2nd Tobruk Irregulars"
+		type=irregular
+		home=1737
+	}
+	regiment = {
+		name="1st Cairo Irregulars"
+		type=irregular
+		home=1745
+	}
+	regiment = {
+		name="2nd Cairo Irregulars"
+		type=irregular
+		home=1745
+	}
+	regiment = {
+		name="2nd Alexandria Irregulars"
+		type=irregular
+		home=1751
+	}
+}
+
+army = {
+	name="1st Army"
+	location=905
+	regiment = {
+		name="3rd Cairo Irregulars"
+		type=irregular
+		home=1745
+	}
+	regiment = {
+		name="1st Bawiti Artillery"
+		type=artillery
+		home=1759
+	}
+	regiment = {
+		name="1st Luxor Irregulars"
+		type=irregular
+		home=1767
+	}
+	regiment = {
+		name="1st Giza Artillery"
+		type=artillery
+		home=1750
+	}
+}
+
+army = {
+	name="20th Army"
+	location=905
+	regiment = {
+		name="1st Alexandria Irregulars"
+		type=irregular
+		home=1751
+	}
+	regiment = {
+		name="1st Tabuk Irregulars"
+		type=irregular
+		home=1154
+	}
+	regiment = {
+		name="1st Alexandria Artillery"
+		type=artillery
+		home=1751
+	}
+	regiment = {
+		name="1st Ziqaziq Irregulars"
+		type=irregular
+		home=1749
+	}
+	regiment = {
+		name="1st Mansura Artillery"
+		type=artillery
+		home=1748
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1151
+	regiment = {
+		name="1st Aswan Artillery"
+		type=artillery
+		home=1766
+	}
+	regiment = {
+		name="1st Cairo Artillery"
+		type=artillery
+		home=1745
+	}
+	regiment = {
+		name="1st Matruh Artillery"
+		type=artillery
+		home=1752
+	}
+}
+
+army = {
+	name="Free Company"
+	location=905
+	regiment = {
+		name="1st Dumyat Irregulars"
+		type=irregular
+		home=1746
+	}
+	regiment = {
+		name="1st Giza Irregulars"
+		type=irregular
+		home=1750
+	}
+	regiment = {
+		name="1st Tanta Irregulars"
+		type=irregular
+		home=1747
+	}
+	regiment = {
+		name="2nd Dumyat Irregulars"
+		type=irregular
+		home=1746
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2771
+	ship = {
+		name="1st Dumyat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Dumyat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Dumyat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Suez Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2777
+	ship = {
+		name="1st Benghazi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Dumyat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sirt Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2766
+	ship = {
+		name="1st Suez Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Dumyat Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=905
+	ship = {
+		name="4th Dumyat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Suez Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=1736
+	ship = {
+		name="1st Al Arish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sidi Barrani Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Matruh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Darna Man'o'war"
+		type=manowar
+	}
+}
+

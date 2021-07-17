@@ -1,0 +1,40 @@
+vassal=
+{
+	first="FRA"
+	second="X56"
+	start_date="1525.2.23"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ENG"
+	second="CLM"
+	start_date="1764.5.22"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ENG"
+	second="NZL"
+	start_date="1774.1.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ENG"
+	second="WSI"
+	start_date="1778.5.22"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="POR"
+	second="BOL"
+	start_date="1588.9.2"
+	end_date="1936.1.1"
+}
+

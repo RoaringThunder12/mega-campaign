@@ -1,0 +1,8 @@
+owner=MEX
+controller=MEX
+add_core=AZT
+add_core=MTL
+add_core=TRS
+trade_goods = wool
+life_rating = 35
+terrain = woods

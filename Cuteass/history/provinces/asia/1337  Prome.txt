@@ -1,0 +1,8 @@
+owner=X43
+controller=BUR
+add_core=BUR
+add_core=IDO
+add_core=X38
+trade_goods = grain
+life_rating = 30
+terrain = jungle

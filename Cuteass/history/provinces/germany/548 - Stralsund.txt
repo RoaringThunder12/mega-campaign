@@ -1,0 +1,8 @@
+owner=POM
+controller=POM
+add_core=POM
+add_core=SCA
+add_core=SWE
+trade_goods = fish
+life_rating = 40
+terrain = plains

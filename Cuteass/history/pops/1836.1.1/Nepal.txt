@@ -1,0 +1,347 @@
+1326 = {
+	soldiers=
+	{
+		culture = rajput
+		religion = jain
+		size= 5471
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = jain
+		size= 9764
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = jain
+		size= 814
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = jain
+		size= 54
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = jain
+		size= 173
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = jain
+		size= 1823
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = jain
+		size= 79600
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = theravada
+		size= 1209
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = theravada
+		size= 972
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = theravada
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = theravada
+		size= 5
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = theravada
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = theravada
+		size= 181
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = theravada
+		size= 19127
+	}
+
+}
+1327 = {
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 2749
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1671
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 139
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 16
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 468
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 32059
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = jain
+		size= 1376
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = jain
+		size= 3344
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = jain
+		size= 279
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = jain
+		size= 34
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = jain
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = jain
+		size= 937
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = jain
+		size= 12541
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = theravada
+		size= 799
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = theravada
+		size= 243
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = theravada
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = theravada
+		size= 2
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = theravada
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = theravada
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = theravada
+		size= 9659
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 2088
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = hindu
+		size= 1513
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = hindu
+		size= 126
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = hindu
+		size= 15
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = hindu
+		size= 423
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 24020
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = jain
+		size= 966
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = jain
+		size= 2931
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = jain
+		size= 244
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = jain
+		size= 30
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = jain
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = jain
+		size= 820
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = jain
+		size= 8000
+	}
+
+}

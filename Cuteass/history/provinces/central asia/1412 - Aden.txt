@@ -1,0 +1,8 @@
+owner=NEJ
+controller=NEJ
+add_core=ADE
+add_core=ARA
+add_core=NEJ
+trade_goods = fish
+life_rating = 35
+terrain = mountain

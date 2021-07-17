@@ -1,0 +1,8 @@
+owner=SPA
+controller=SPA
+add_core=SPA
+add_core=VGO
+add_core=X52
+trade_goods = iron
+life_rating = 35
+terrain = hills

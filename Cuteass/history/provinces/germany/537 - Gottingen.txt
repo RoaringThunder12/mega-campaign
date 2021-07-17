@@ -1,0 +1,12 @@
+owner=LOT
+controller=LOT
+add_core=HAN
+add_core=HRE
+add_core=LOT
+add_core=PLC
+add_core=SRB
+add_core=THU
+add_core=X32
+trade_goods = grain
+life_rating = 40
+terrain = woods

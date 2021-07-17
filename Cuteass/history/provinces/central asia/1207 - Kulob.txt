@@ -1,0 +1,7 @@
+owner=X43
+controller=X43
+add_core=AFG
+add_core=TKS
+trade_goods = grain
+life_rating = 35
+terrain = mountain

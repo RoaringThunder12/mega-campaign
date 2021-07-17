@@ -1,0 +1,9 @@
+owner=X50
+controller=FRA
+add_core=CRO
+add_core=HRE
+add_core=SER
+add_core=YUG
+trade_goods = cattle
+life_rating = 35
+terrain = hills
