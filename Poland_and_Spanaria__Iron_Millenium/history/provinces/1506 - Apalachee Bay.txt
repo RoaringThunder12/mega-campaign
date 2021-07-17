@@ -1,3 +1,0 @@
-discovered_by = CHE
-discovered_by = CRE
-discovered_by = north_american

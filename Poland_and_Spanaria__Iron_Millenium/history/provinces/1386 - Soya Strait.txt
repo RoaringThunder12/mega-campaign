@@ -1,3 +1,0 @@
-discovered_by = ANU
-discovered_by = chinese
-discovered_by = nomad_group
