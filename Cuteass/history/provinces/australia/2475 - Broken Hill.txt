@@ -1,7 +1,0 @@
-owner=AST
-controller=AST
-add_core=AST
-add_core=AUE
-trade_goods = grain
-life_rating = 30
-terrain = plains

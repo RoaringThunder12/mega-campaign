@@ -1,8 +1,0 @@
-owner=X27
-controller=X27
-add_core=PER
-add_core=TRX
-add_core=X27
-trade_goods = cotton
-life_rating = 35
-terrain = hills

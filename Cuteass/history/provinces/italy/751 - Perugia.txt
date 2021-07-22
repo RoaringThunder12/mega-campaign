@@ -1,8 +1,0 @@
-owner=VEN
-controller=CRO
-add_core=LGB
-add_core=URB
-trade_goods = fruit
-life_rating = 35
-terrain = hills
-fort = 1

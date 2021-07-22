@@ -1,6 +1,0 @@
-owner=X56
-controller=X56
-add_core=GRI
-trade_goods = coffee
-life_rating = 35
-terrain = jungle

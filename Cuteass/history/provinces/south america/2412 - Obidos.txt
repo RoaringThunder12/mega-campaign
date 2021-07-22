@@ -1,6 +1,0 @@
-owner=X56
-controller=X56
-add_core=TPQ
-trade_goods = tropical_wood
-life_rating = 35
-terrain = jungle

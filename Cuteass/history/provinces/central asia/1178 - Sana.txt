@@ -1,6 +1,0 @@
-owner=NEJ
-controller=NEJ
-add_core=ADE
-trade_goods = grain
-life_rating = 35
-terrain = plains

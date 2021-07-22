@@ -1,7 +1,0 @@
-owner=PHG
-controller=PHG
-add_core=JAV
-add_core=PSA
-trade_goods = grain
-life_rating = 30
-terrain = plains

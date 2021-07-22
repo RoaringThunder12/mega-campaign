@@ -1,9 +1,0 @@
-owner=RUS
-controller=RUS
-add_core=NOG
-add_core=SHY
-add_core=TKS
-add_core=X05
-trade_goods = wool
-life_rating = 35
-terrain = steppe

@@ -1,9 +1,0 @@
-owner=RUS
-controller=RUS
-add_core=X47
-add_core=XIN
-add_core=YRK
-trade_goods = fish
-life_rating = 25
-terrain = steppe
-colonial=2

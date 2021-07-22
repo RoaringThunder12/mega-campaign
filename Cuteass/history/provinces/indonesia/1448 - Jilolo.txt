@@ -1,8 +1,0 @@
-owner=POR
-controller=POR
-add_core=TTE
-trade_goods = fish
-life_rating = 30
-terrain = plains
-colonial=2
-naval_base = 2

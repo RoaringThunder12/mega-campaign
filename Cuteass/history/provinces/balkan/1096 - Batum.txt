@@ -1,6 +1,0 @@
-owner=BYZ
-controller=BYZ
-trade_goods = tea
-life_rating = 35
-terrain = hills
-naval_base = 1

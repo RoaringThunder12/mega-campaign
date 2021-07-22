@@ -1,8 +1,0 @@
-owner=JAP
-controller=JAP
-add_core=AKM
-add_core=JAP
-add_core=MRI
-trade_goods = timber
-life_rating = 35
-terrain = hills

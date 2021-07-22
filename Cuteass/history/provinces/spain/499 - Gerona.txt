@@ -1,9 +1,0 @@
-owner=SPA
-controller=SPA
-add_core=FRA
-add_core=OCC
-add_core=PRO
-add_core=X52
-trade_goods = fruit
-life_rating = 35
-terrain = mountain

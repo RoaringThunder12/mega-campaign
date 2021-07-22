@@ -1,9 +1,0 @@
-owner=SPA
-controller=SPA
-add_core=ADU
-add_core=GRA
-add_core=SPA
-add_core=X52
-trade_goods = fruit
-life_rating = 35
-terrain = farmlands

@@ -1,9 +1,0 @@
-owner=PLC
-controller=PLC
-add_core=LAT
-add_core=UBD
-add_core=X30
-trade_goods = fish
-life_rating = 35
-terrain = woods
-naval_base = 1

@@ -1,9 +1,0 @@
-owner=X48
-controller=X48
-add_core=KHA
-add_core=KLK
-add_core=MGL
-add_core=X48
-trade_goods = grain
-life_rating = 35
-terrain = mountain

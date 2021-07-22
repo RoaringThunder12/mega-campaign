@@ -1,9 +1,0 @@
-owner=RUS
-controller=RUS
-add_core=SHY
-add_core=TKS
-add_core=X47
-trade_goods = grain
-life_rating = 35
-terrain = woods
-colonial=2

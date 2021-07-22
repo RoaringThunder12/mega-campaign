@@ -1,9 +1,0 @@
-owner=CRO
-controller=CRO
-add_core=CRO
-add_core=HRE
-add_core=YUG
-trade_goods = iron
-life_rating = 35
-terrain = hills
-naval_base = 1

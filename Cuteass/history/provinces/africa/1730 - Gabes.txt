@@ -1,9 +1,0 @@
-owner=MOR
-controller=MOR
-add_core=MOR
-add_core=TUN
-add_core=X03
-trade_goods = grain
-life_rating = 35
-terrain = plains
-naval_base = 2

@@ -1,8 +1,0 @@
-owner=AST
-controller=AST
-add_core=AST
-add_core=AUP
-trade_goods = grain
-life_rating = 30
-terrain = hills
-naval_base = 2

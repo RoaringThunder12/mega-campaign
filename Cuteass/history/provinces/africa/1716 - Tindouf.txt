@@ -1,5 +1,0 @@
-owner=MOR
-controller=MOR
-trade_goods = fruit
-life_rating = 10
-terrain = desert

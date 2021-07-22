@@ -1,7 +1,0 @@
-owner=USA
-controller=USA
-add_core=CCW
-add_core=NTZ
-trade_goods = cotton
-life_rating = 35
-terrain = farmlands

@@ -1,7 +1,0 @@
-owner=PHG
-controller=PHG
-add_core=X52
-trade_goods = grain
-life_rating = 30
-terrain = plains
-naval_base = 1

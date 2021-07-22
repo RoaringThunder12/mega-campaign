@@ -1,8 +1,0 @@
-owner=CRO
-controller=CRO
-add_core=CRO
-add_core=GRE
-add_core=X19
-trade_goods = timber
-life_rating = 35
-terrain = hills

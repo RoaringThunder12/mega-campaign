@@ -1,7 +1,0 @@
-owner=MEX
-controller=MEX
-add_core=APA
-add_core=X08
-trade_goods = grain
-life_rating = 35
-terrain = woods

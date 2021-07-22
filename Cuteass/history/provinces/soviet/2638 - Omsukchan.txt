@@ -1,7 +1,0 @@
-owner=RUS
-controller=RUS
-add_core=X15
-trade_goods = grain
-life_rating = 20
-terrain = arctic
-colonial=2

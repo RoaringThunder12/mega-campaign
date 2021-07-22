@@ -1,7 +1,0 @@
-owner=DAR
-controller=DAR
-add_core=ETH
-add_core=JIM
-trade_goods = coffee
-life_rating = 30
-terrain = mountain

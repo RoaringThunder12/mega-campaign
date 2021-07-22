@@ -1,7 +1,0 @@
-owner=X39
-controller=X39
-add_core=HND
-add_core=X39
-trade_goods = opium
-life_rating = 32
-terrain = plains

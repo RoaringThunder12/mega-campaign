@@ -1,7 +1,0 @@
-owner=SUN
-controller=FRA
-add_core=LUW
-add_core=MAL
-trade_goods = grain
-life_rating = 30
-terrain = hills

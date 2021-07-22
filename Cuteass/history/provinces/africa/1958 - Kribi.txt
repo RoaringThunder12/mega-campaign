@@ -1,6 +1,0 @@
-owner=FRA
-controller=REB
-trade_goods = coffee
-life_rating = 15
-terrain = hills
-colonial=2

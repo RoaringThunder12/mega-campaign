@@ -1,8 +1,0 @@
-owner=DEC
-controller=DEC
-add_core=HND
-add_core=MYS
-add_core=SRI
-trade_goods = dye
-life_rating = 32
-terrain = plains

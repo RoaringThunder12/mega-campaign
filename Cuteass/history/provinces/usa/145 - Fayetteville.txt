@@ -1,7 +1,0 @@
-owner=USA
-controller=USA
-add_core=WCY
-trade_goods = timber
-life_rating = 35
-terrain = woods
-colonial=2

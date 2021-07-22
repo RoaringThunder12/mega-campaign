@@ -1,8 +1,0 @@
-owner=SPA
-controller=SPA
-add_core=GRA
-add_core=SPA
-add_core=X52
-trade_goods = grain
-life_rating = 35
-terrain = farmlands

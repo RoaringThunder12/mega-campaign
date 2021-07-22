@@ -1,5 +1,0 @@
-owner=JAP
-controller=JAP
-trade_goods = coal
-life_rating = 20
-terrain = plains

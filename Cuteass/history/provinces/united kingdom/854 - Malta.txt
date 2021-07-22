@@ -1,7 +1,0 @@
-owner=MOR
-controller=MOR
-add_core=MLT
-trade_goods = fish
-life_rating = 35
-terrain = hills
-naval_base = 1

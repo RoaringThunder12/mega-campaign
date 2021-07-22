@@ -1,9 +1,0 @@
-owner=SPA
-controller=SPA
-add_core=ADU
-add_core=GLC
-add_core=GRA
-add_core=POR
-trade_goods = fish
-life_rating = 35
-terrain = hills

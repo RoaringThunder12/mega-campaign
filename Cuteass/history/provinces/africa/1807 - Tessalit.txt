@@ -1,6 +1,0 @@
-owner=MOR
-controller=DAR
-add_core=TLC
-trade_goods = grain
-life_rating = 10
-terrain = desert

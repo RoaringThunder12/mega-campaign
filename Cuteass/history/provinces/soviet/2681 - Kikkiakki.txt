@@ -1,8 +1,0 @@
-owner=RUS
-controller=RUS
-add_core=CHG
-add_core=TKS
-add_core=X54
-trade_goods = timber
-life_rating = 15
-terrain = arctic

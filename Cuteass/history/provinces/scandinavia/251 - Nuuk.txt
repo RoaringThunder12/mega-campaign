@@ -1,6 +1,0 @@
-owner=HLL
-controller=HLL
-trade_goods = fish
-life_rating = 35
-terrain = arctic
-naval_base = 2

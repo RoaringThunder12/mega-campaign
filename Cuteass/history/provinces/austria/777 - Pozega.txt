@@ -1,8 +1,0 @@
-owner=X50
-controller=X50
-add_core=CZH
-add_core=HRE
-add_core=SLV
-trade_goods = fruit
-life_rating = 35
-terrain = hills

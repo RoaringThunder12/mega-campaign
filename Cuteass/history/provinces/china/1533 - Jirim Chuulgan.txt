@@ -1,9 +1,0 @@
-owner=MNX
-controller=MNX
-add_core=KHA
-add_core=KRC
-add_core=MGL
-add_core=X11
-trade_goods = timber
-life_rating = 32
-terrain = plains

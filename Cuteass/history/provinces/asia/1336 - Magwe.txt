@@ -1,8 +1,0 @@
-owner=X43
-controller=BUR
-add_core=BUR
-add_core=IDO
-add_core=X38
-trade_goods = tropical_wood
-life_rating = 35
-terrain = jungle

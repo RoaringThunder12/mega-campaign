@@ -1,7 +1,0 @@
-owner=X27
-controller=X27
-add_core=ARA
-add_core=X16
-trade_goods = iron
-life_rating = 35
-terrain = mountain

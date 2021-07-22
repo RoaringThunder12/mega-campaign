@@ -1,8 +1,0 @@
-owner=RUS
-controller=X27
-add_core=AFG
-add_core=TKS
-trade_goods = wool
-life_rating = 35
-terrain = hills
-colonial=2

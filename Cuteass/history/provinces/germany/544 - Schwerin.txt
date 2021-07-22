@@ -1,9 +1,0 @@
-owner=POM
-controller=POM
-add_core=POM
-add_core=SCA
-add_core=SWE
-trade_goods = grain
-life_rating = 40
-terrain = woods
-naval_base = 2

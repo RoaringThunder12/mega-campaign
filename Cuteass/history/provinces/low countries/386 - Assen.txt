@@ -1,9 +1,0 @@
-owner=HLL
-controller=HLL
-add_core=HLL
-add_core=HRE
-add_core=NET
-add_core=X23
-trade_goods = wool
-life_rating = 35
-terrain = farmlands

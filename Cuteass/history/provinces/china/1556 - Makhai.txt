@@ -1,6 +1,0 @@
-owner=X47
-controller=MNX
-add_core=TIB
-trade_goods = grain
-life_rating = 32
-terrain = hills

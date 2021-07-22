@@ -1,9 +1,0 @@
-owner=VEN
-controller=VEN
-add_core=FER
-add_core=HRE
-add_core=ITA
-trade_goods = grain
-life_rating = 35
-terrain = farmlands
-naval_base = 1

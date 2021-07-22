@@ -1,8 +1,0 @@
-owner=MOR
-controller=MOR
-add_core=ADU
-add_core=GRA
-add_core=MOR
-trade_goods = iron
-life_rating = 35
-terrain = mountain

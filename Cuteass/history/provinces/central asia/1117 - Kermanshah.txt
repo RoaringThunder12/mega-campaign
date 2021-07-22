@@ -1,6 +1,0 @@
-owner=ARM
-controller=ARM
-add_core=ARA
-trade_goods = wool
-life_rating = 35
-terrain = hills

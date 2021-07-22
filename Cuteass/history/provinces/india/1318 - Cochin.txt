@@ -1,9 +1,0 @@
-owner=DEC
-controller=DEC
-add_core=DEC
-add_core=HND
-add_core=MYS
-trade_goods = grain
-life_rating = 32
-terrain = hills
-naval_base = 1

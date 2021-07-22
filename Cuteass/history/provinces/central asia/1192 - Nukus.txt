@@ -1,9 +1,0 @@
-owner=RUS
-controller=RUS
-add_core=AFG
-add_core=TKS
-add_core=TRX
-trade_goods = opium
-life_rating = 35
-terrain = steppe
-colonial=2

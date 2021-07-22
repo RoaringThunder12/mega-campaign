@@ -1,8 +1,0 @@
-owner=PHG
-controller=PHG
-add_core=MLY
-add_core=PHG
-add_core=PLB
-trade_goods = grain
-life_rating = 30
-terrain = hills

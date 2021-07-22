@@ -1,8 +1,0 @@
-owner=SPA
-controller=SPA
-add_core=X52
-trade_goods = grain
-life_rating = 15
-terrain = hills
-colonial=2
-naval_base = 1

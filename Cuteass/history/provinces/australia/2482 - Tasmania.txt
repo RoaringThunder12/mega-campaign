@@ -1,9 +1,0 @@
-owner=AST
-controller=AST
-add_core=ABO
-add_core=AST
-add_core=AUP
-add_core=AUW
-trade_goods = timber
-life_rating = 30
-terrain = plains

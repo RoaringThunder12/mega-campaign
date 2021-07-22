@@ -1,9 +1,0 @@
-owner=LOT
-controller=LOT
-add_core=HRE
-add_core=LOT
-add_core=PLC
-add_core=POL
-trade_goods = cattle
-life_rating = 40
-terrain = plains

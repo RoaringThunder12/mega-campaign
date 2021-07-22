@@ -1,8 +1,0 @@
-owner=PHG
-controller=PHG
-add_core=JAV
-add_core=PLB
-add_core=PSA
-trade_goods = tobacco
-life_rating = 30
-terrain = plains

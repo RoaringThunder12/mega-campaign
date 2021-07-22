@@ -1,7 +1,0 @@
-owner=AUG
-controller=AUG
-add_core=GER
-add_core=HRE
-trade_goods = cattle
-life_rating = 40
-terrain = farmlands
