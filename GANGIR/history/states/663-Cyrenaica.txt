@@ -11,6 +11,8 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = TUN
+		add_core_of = SUD
+		add_core_of = MOR
 	}
 
 	provinces={

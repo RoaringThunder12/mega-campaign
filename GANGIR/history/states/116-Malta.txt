@@ -3,21 +3,17 @@ state=
 	id=116
 	name="STATE_116"
 	manpower = 100000
-	state_category = small_island
-	history= {
+	
+	state_category = rural
+
+	history={
 		owner = TUN
-		add_core_of = TUN
-		victory_points = {
-			12003 50
-		}
 		buildings = {
-			infrastructure = 2
-			air_base = 3
-			12003 = {
-				naval_base = 5
-				coastal_bunker = 1
-			}
+			infrastructure = 1
 		}
+		add_core_of = TUN
+		add_core_of = SUD
+		add_core_of = MOR
 	}
 	provinces= { 12003 }
 

@@ -8,17 +8,12 @@ state={
 
 	history={
 		owner = TUN
-		victory_points = {
-			1149 50
-		}
 		buildings = {
 			infrastructure = 1
-			air_base = 3
-			1149 = {
-				naval_base = 5
-			}
 		}
 		add_core_of = TUN
+		add_core_of = SUD
+		add_core_of = MOR
 	}
 
 	provinces={
