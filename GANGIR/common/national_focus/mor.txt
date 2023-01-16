@@ -69,9 +69,20 @@ focus_tree = {
 		icon = GFX_focus_generic_monarchy_2
 		x = 8
 		y = 0
-		cost = 20
+		cost = 52
 		search_filters = {
 			FOCUS_FILTER_FRA_POLITICAL_VIOLENCE
+		}
+		completion_reward = {
+			add_political_power = 120
+			declare_war_on = {
+			target = SUD
+			type = annex_everything
+			}
+			declare_war_on = {
+			target = TUN
+			type = annex_everything
+			}
 		}
 	}
 

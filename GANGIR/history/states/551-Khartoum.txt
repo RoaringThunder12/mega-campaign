@@ -3,7 +3,14 @@ state={
 	id=551
 	name = "STATE_551"
 	manpower = 300000
-	
+		resources={
+		rubber = 30
+		steel = 50
+		tungsten = 20
+		aluminium = 30
+		oil = 20
+		chromium = 20
+	}
 	state_category = rural
 
 	history={
@@ -11,6 +18,7 @@ state={
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
+			arms_factory = 4
 		}
 		add_core_of = SUD
 	}

@@ -2,7 +2,7 @@
 state={
 	id=447
 	name="STATE_447"
-	manpower = 1300000
+	manpower = 10300000
 	
 	state_category = town
 
@@ -10,11 +10,11 @@ state={
 		owner = SUD
 		
 		victory_points = {
-			4076 10 
+			4076 50
 		}
 		
 		victory_points = {
-			1071 1 
+			1071 5
 		}		
 		buildings = {
 			infrastructure = 3 #was: 5

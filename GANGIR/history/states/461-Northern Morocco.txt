@@ -2,8 +2,15 @@
 state={
 	id=461
 	name="STATE_461"
-	manpower = 1300000
-	
+	manpower = 10300000
+		resources={
+		rubber = 30
+		steel = 50
+		tungsten = 20
+		aluminium = 30
+		oil = 20
+		chromium = 20
+	}
 	state_category = rural
 	
 	history={
@@ -15,6 +22,8 @@ state={
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
+			arms_factory = 4
+			dockyard = 2
 			air_base = 4
 			7069 = {
 				naval_base = 4

@@ -7,12 +7,18 @@ state={
 	history={
 		owner = MOR
 		add_core_of = MOR
+			victory_points = {
+			11969 50
+		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
 			arms_factory = 2
 			dockyard = 3
 			air_base = 6
+			11969 = {
+				naval_base = 5
+			}
 		}
 	}
 

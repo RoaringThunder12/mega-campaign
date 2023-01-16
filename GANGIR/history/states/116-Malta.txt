@@ -8,13 +8,13 @@ state=
 		owner = TUN
 		add_core_of = TUN
 		victory_points = {
-			12003 5 
+			12003 50
 		}
 		buildings = {
 			infrastructure = 2
 			air_base = 3
 			12003 = {
-				naval_base = 3
+				naval_base = 5
 				coastal_bunker = 1
 			}
 		}
