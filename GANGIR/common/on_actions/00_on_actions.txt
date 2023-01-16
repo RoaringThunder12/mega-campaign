@@ -5,6 +5,19 @@ on_actions = {
 			country_event = { 
 				id = Startup.1 }
 			}
+		}
 	}
-} 
+    on_startup = {
+        effect = {
+            every_country = {
+                limit = {
+                    tag = MOR 
+					tag = SUD
+                }
+				country_event = { 
+					id = Startup.1 }
+			}
+		}
+	}
+}
 

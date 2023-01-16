@@ -5,7 +5,12 @@ country_event = {
 	title = "1v1" 
 	desc = "Fuck you"
 	picture = GFX_news_event_004
-	fire_only_once = yes
+	fire_only_once = yes 
+	trigger = {
+		date < 1936.01.05
+		is_ai = no
+		always = yes
+	}
 	
 	option = {
 		name = "War is Coming"
@@ -15,4 +20,3 @@ country_event = {
 		}
 		
 	}
-}

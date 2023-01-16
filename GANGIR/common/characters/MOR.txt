@@ -1,15 +1,171 @@
 characters={
-	AUS_kurt_schuschnigg={
-		name=AUS_kurt_schuschnigg
+	GER_adolf_hitler={
+		name=GER_adolf_hitler
 		portraits={
 			civilian={
-				large=GFX_portrait_AUS_kurt_schuschnigg
+				large=GFX_portrait_GER_adolf_hitler
 			}
 		}
 		country_leader={
-			ideology=centrism
+			ideology=nazism
+			traits={ dictator }
 			expire="1965.1.1.1"
 			id=-1
+		}
+	}
+	
+		JAP_emperor_hirohito={
+		name=JAP_emperor_hirohito
+		portraits={
+			civilian={
+				large=GFX_portrait_JAP_emperor_hirohito
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			traits={ warrior_code emperor_showa imperial_sanction }
+			expire="1989.1.1.1"
+			id=700
+		}
+		
+	}
+	
+		ITA_benito_mussolini = {
+		name = ITA_benito_mussolini
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ITA_benito_mussolini
+			}
+		}
+
+		country_leader = {
+			ideology = fascism_ideology
+			traits = { il_duce }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+
+		corps_commander = {
+			traits={}
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+			visible = {
+				has_completed_focus = ITA_capo_supremo
+			}
+		}
+	}
+		ITA_giovanni_messe = {
+		name = ITA_giovanni_messe
+		portraits = {
+			army = {
+				small = GFX_idea_giovanni_messe
+				large = GFX_portrait_ITA_giovanni_messe
+			}
+		}
+
+		advisor = {
+			cost = 150
+			slot = theorist
+			idea_token = giovanni_messe
+			ledger = army
+			allowed = {
+				ITA_is_italian_tag = yes
+			}
+			available = {
+				if = {
+					limit = { has_dlc = "By Blood Alone" }
+					OR = {
+						NOT = { has_government = communism }
+						has_completed_focus = ITA_common_ground
+					}
+				}
+			}
+			traits = {
+				mobile_warfare_expert
+			}
+		}
+		
+		corps_commander = {
+			traits = { armor_officer war_hero }
+			skill = 4
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 4
+			legacy_id = 0
+		}
+	}
+		GER_erwin_rommel={
+		name=GER_erwin_rommel
+		portraits={
+			army={
+				large=GFX_portrait_GER_erwin_rommel
+				small="GFX_idea_erwin_rommel"
+			}
+		}
+		advisor={
+			slot = high_command
+			idea_token = erwin_rommel
+			ledger = army
+			allowed = {
+				original_tag = GER
+			}
+			available = {
+				has_completed_focus = GER_army_innovation
+			}
+			traits = {
+				army_armored_3
+			}
+			cost = 200
+			ai_will_do = {
+				factor = 8.000
+			}
+		}
+		
+		corps_commander={
+			traits={ trait_reckless media_personality armor_officer war_hero trickster }
+			skill=4
+			attack_skill=4
+			defense_skill=4
+			planning_skill=2
+			logistics_skill=3
+			legacy_id=4
+		}
+	}
+	
+		JAP_tomoyuki_yamashita={
+		name=JAP_tomoyuki_yamashita
+		portraits={
+			army={
+				small="GFX_idea_tomoyuki_yamashita"
+				large=GFX_portrait_JAP_tomoyuki_yamashita
+			}
+		}
+		advisor={
+			cost = 150
+			slot = theorist
+			idea_token = tomoyuki_yamashita
+			ledger = army
+			allowed = {
+				original_tag = JAP
+			}
+			traits = {
+				grand_battle_plan_expert
+			}
+		}
+
+		corps_commander={
+			traits={ brilliant_strategist politically_connected trickster trait_engineer }
+			skill=5
+			attack_skill=4
+			defense_skill=5
+			planning_skill=3
+			logistics_skill=4
+			legacy_id=0
 		}
 	}
 }

@@ -33,6 +33,17 @@ focus_tree = {
 		}
 		prerequisite = { focus = MOR_roaringsduelmod  }
 		mutually_exclusive = { focus = MOR_novus_romanium  focus = MOR_japanese_expedition  }
+		completion_reward = {
+			set_cosmetic_tag = GER
+			set_politics = {
+				ruling_party = fascism
+				elections_allowed = no
+			}
+			set_political_party = {
+				ideology = fascism 
+				popularity = 100
+			}
+		}
 	}
 
 	#Novus Romanium
@@ -47,6 +58,17 @@ focus_tree = {
 		}
 		prerequisite = { focus = MOR_roaringsduelmod  }
 		mutually_exclusive = { focus = MOR_afrika_korps  focus = MOR_japanese_expedition  }
+		completion_reward = {
+			set_cosmetic_tag = ITA
+			set_politics = {
+				ruling_party = fascism   
+				elections_allowed = no
+			}
+			set_political_party = {
+				ideology = fascism 
+				popularity = 100
+			}
+		}
 	}
 
 	#Japanese Expedition
@@ -61,6 +83,17 @@ focus_tree = {
 		}
 		prerequisite = { focus = MOR_roaringsduelmod  }
 		mutually_exclusive = { focus = MOR_afrika_korps  focus = MOR_novus_romanium  }
+		completion_reward = {
+			set_cosmetic_tag = JAP
+			set_politics = {
+				ruling_party = fascism   
+				elections_allowed = no
+			}
+			set_political_party = {
+				ideology = fascism 
+				popularity = 100
+			}
+		}
 	}
 
 	#Roaring's Duel Mod!

@@ -1,14 +1,24 @@
-MOR = {
-	color = rgb { 128  128  128 }
-	color_ui = rgb { 128  128  128 }
+MOR_GER = {
+	color = rgb { 112 98 99 }
+	color_ui = rgb { 112 98 99 }
 }
-
-TUN = {
-	color = rgb { 255  255  255 }
-	color_ui = rgb { 255  255  255 }
+MOR_JAP = {
+	color = rgb { 255 224 226 }
+	color_ui = rgb { 80  165  10 }
 }
-
-SUD = {
-	color = rgb { 38  127  0 }
-	color_ui = rgb { 38  127  0 }
+MOR_ITA = {
+	color = rgb { 138 193 0 }
+	color_ui = rgb { 138 193 0 }
+}
+SUD_USA = {
+	color = rgb { 0 148 255 }
+	color_ui = rgb { 0 148 255 }
+}
+SUD_SOV = {
+	color = rgb { 124 1 25 }
+	color_ui = rgb { 124 1 25 }
+}
+SUD_ENG = {
+	color = rgb { 255 127 127 }
+	color_ui = rgb { 255 127 127 }
 }
