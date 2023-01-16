@@ -1,0 +1,22 @@
+state = {
+
+	id = 405
+	name = "STATE_405" #Tashkent
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+	provinces = {
+		1459 4629 7682 10488 11687 
+	}
+	local_supplies = 2.0 
+	
+}

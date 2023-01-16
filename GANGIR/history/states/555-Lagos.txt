@@ -1,0 +1,22 @@
+
+state={
+	id=555
+	name="STATE_555" #Kuril Islands
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+	provinces={
+		1399 1515 13037 
+	}
+
+	local_supplies=0.0 
+}

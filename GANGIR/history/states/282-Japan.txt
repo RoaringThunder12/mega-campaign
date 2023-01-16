@@ -1,0 +1,23 @@
+
+state={
+	id=282
+	name="STATE_282" # Kanto
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		993 1097 1113 1182 4000 4100 4184 4188 7016 9998 11908 
+	}
+
+	local_supplies=0.0 
+}

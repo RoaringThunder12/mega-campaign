@@ -1,0 +1,22 @@
+
+state={
+	id=28
+	name="STATE_28" # Alsace-Lorraine
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+	provinces={
+		549 678 1346 3629 6529 9503 9559 11502 
+	}
+
+	local_supplies=14.0 
+}

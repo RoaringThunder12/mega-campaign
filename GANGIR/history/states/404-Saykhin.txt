@@ -1,0 +1,21 @@
+state = {
+	id = 404
+	name = "STATE_404" # Kyzyl Orda
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces = {
+		        4578 4636 4686 7392 7556 7597 7600 7657 7777 10148 10353 10366 10452 10506 10601 12329 12340 12397  
+	}
+	local_supplies = 0.0 
+}

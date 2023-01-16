@@ -1,0 +1,22 @@
+
+state = {
+	id = 560
+	name = "STATE_560" # Nikolayevsk
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+	provinces = {
+		1724 1772 1807 1842 3664 4290 4844 7748 7871 9659 10571 10577 10590 12559 12569 12638 
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=535
+	name="STATE_535" # Koshinetsu
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+	provinces={
+		998 7102 7217 10015 10032 
+	}
+
+	local_supplies=0.0 
+}

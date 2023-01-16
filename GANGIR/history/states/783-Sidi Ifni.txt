@@ -1,0 +1,23 @@
+
+state={
+	id=783
+	name="STATE_783" # Sidi Ifni
+	manpower = 300000
+	
+	state_category = rural
+
+	history={
+		owner = MOR
+		add_core_of = MOR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		12857
+	}
+
+	local_supplies=0.0 
+}

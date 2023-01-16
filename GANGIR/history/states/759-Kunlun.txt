@@ -1,0 +1,20 @@
+state={
+	id=759
+	name="STATE_759"
+	provinces={
+		1698 1943 2074 4947 5736 10315 
+	}
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+	local_supplies=0.0 
+}

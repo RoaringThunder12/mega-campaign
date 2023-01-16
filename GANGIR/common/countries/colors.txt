@@ -1,0 +1,19 @@
+MOR = {
+	color = rgb { 128  128  128 }
+	color_ui = rgb { 128  128  128 }
+}
+
+TUN = {
+	color = rgb { 255  255  255 }
+	color_ui = rgb { 255  255  255 }
+}
+
+SUD = {
+	color = rgb { 38  127  0 }
+	color_ui = rgb { 38  127  0 }
+}
+
+LBA = {
+	color = rgb { 0  0  0 }
+	color_ui = rgb { 0  0  0 }
+}

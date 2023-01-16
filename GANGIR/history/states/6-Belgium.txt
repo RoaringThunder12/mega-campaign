@@ -1,0 +1,22 @@
+
+state={
+	id=6
+	name="STATE_6" # Flanders
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+	provinces={
+		516 3576 6446 6560 6598 9574 11419 13068 
+	}
+
+	local_supplies=0.0 
+}

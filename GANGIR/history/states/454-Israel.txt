@@ -1,0 +1,23 @@
+
+state={
+	id=454
+	name="STATE_454" #Palestine
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		1015 1065 1086 1201 4088 4206 7107 7176 11970 1
+	}
+
+	local_supplies=0.0 
+}

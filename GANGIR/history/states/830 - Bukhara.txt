@@ -1,0 +1,22 @@
+state = {
+
+	id = 830
+	name = "STATE_830" #Bukhara
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+	provinces={
+		1573 1623 7639 7775 10205 10470 10671 12161 12239 12722
+	}
+
+	local_supplies = 2.0 
+}

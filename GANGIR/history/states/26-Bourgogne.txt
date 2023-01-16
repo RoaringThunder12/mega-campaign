@@ -1,0 +1,22 @@
+
+state={
+	id=26
+	name="STATE_26" # Auveregne
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+	provinces={
+		590 769 3594 3754 6644 6773 6789 9593 9607 9748 11576 
+	}
+
+	local_supplies=6.0 
+}

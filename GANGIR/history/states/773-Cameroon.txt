@@ -1,0 +1,23 @@
+
+state={
+	id=773
+	name="STATE_773" # Cameroon
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		2080 5036 5054 6039 7963 9137 11194 
+	}
+
+	local_supplies=0.0 
+}

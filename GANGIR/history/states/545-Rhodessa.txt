@@ -1,0 +1,26 @@
+state={
+	id=545
+	
+	state_category = pastoral
+	
+	name="STATE_545"
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+	provinces={
+		1874 2151 2216 4851 7842 10929
+	}
+	manpower=1171336
+	buildings_max_level_factor=1.000
+
+	local_supplies=3.0 
+}

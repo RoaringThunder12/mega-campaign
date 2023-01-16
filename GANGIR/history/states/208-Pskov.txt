@@ -1,0 +1,23 @@
+
+state={
+	id=208
+	name="STATE_208" # Luga
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		104 126 181 3120 6139 6197 9097 9098 11032 11080 11139 11186 
+	}
+
+	local_supplies=0.0 
+}

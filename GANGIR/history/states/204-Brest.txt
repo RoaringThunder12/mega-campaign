@@ -1,0 +1,23 @@
+
+state={
+	id=204
+	name="STATE_204" # Bobruysk
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		304 331 360 386 3350 3759 6373 11313 
+	}
+
+	local_supplies=0.0 
+}

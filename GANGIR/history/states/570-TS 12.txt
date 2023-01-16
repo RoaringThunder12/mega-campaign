@@ -1,0 +1,23 @@
+
+state={
+	id=570
+	name="STATE_570" # Novosibirsk
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		1733 1790 1860 4366 4734 4806 4840 4866 7274 7687 7722 7825 10555 10652 12606 12679 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,24 @@
+
+state={
+	id=481
+	name="STATE_481" # Durango
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		1945 4946 7921 8003 8057 10853 10871 10895 12804 
+	}
+	
+
+	local_supplies=6.0 
+}

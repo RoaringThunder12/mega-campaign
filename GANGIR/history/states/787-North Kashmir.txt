@@ -1,0 +1,21 @@
+state={
+	id=787
+	name="STATE_787" # Northern Kashmir
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+	provinces={
+		1910 2041 2084 10821 
+	}
+
+	local_supplies=0.0 
+}

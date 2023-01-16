@@ -1,0 +1,22 @@
+state = {
+	id = 822
+	name = "STATE_822" #Chukotka
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces = {
+		4744 5264 13062 13063 
+	}
+
+	local_supplies = 0.0 
+}

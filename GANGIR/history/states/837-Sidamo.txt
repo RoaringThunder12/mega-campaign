@@ -1,0 +1,22 @@
+state = {
+	id = 837 # Sidamo (including Gammu Gofa)
+	name = "STATE_837"
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces = {
+ 		8019 8062 13246 13247
+ 	}
+
+	local_supplies = 0.0 
+}

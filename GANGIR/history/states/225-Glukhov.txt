@@ -1,0 +1,23 @@
+
+state={
+	id=225
+	name="STATE_225" # Sumy
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		463 501 522 3225 3455 3520 6565 9477 9566 11462 11553 
+	}
+
+	local_supplies=0.0 
+}

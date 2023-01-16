@@ -1,0 +1,22 @@
+
+state={
+	id=266
+	name="STATE_266" # Tehran
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+	provinces={
+		4580 7602 10385 10768 10837 
+	}
+
+	local_supplies=0.0 
+}

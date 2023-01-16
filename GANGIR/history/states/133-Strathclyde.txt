@@ -1,0 +1,23 @@
+
+state={
+	id=133
+	name="STATE_133" # Lanark
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		3273 6320 6350 6385 6395 9237 9350 11218 
+	}
+
+	local_supplies=0.0 
+}

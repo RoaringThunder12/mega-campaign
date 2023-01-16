@@ -1,0 +1,22 @@
+
+state={
+	id=851
+	name="STATE_851" # Var (Split-off from former Provence now Bouches-du-Rhône)
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+	provinces={
+		911 956 3928 3961
+	}
+
+	local_supplies=0.0 
+}

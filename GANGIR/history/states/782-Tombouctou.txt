@@ -1,0 +1,23 @@
+
+state={
+	id=782
+	name="STATE_782" # Tombouctou
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		1115 2068 10725 10868
+	}
+
+	local_supplies=0.0 
+}

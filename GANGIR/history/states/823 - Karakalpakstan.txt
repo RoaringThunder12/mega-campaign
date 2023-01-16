@@ -1,0 +1,22 @@
+state = {
+
+	id = 823
+	name = "STATE_823" #Karakalpakstan
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces = {
+		1479 1576 1614 1721 4488 4618 7541 10348 12233 12471 12474 13207 
+	}
+	local_supplies = 0.0 
+}

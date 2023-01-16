@@ -1,0 +1,23 @@
+state = {
+	id = 838 # Illubabor-Kaffa
+	name = "STATE_838"
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+
+	provinces = {
+ 		7912 13244 13245
+ 	}
+
+	local_supplies = 0.0 
+}

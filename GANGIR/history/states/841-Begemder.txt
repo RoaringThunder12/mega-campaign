@@ -1,0 +1,23 @@
+state = {
+	id = 841 # Begemder
+	name = "STATE_841"
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+
+	provinces = {
+ 		1984 2040 13137 13241
+ 	}
+
+	local_supplies = 0.0 
+}

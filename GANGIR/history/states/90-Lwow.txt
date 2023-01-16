@@ -1,0 +1,22 @@
+state={
+	id=90
+	name="STATE_90" # Kielce
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		562 3458 3497 3586 6416 11430 11532 
+	}
+
+	local_supplies=0.0 
+}
