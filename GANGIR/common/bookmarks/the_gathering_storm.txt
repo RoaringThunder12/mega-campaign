@@ -1,0 +1,33 @@
+bookmarks = {
+	bookmark = {
+		name = "Axis V Allies"
+		desc = "GATHERING_STORM_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
+		
+		MOR = {
+			history = FRA_BLITZKRIEG_DESC
+			ideology = Facist
+			focuses = {
+				MOR_afrika_korps
+				MOR_novus_romanium
+				MOR_japanese_expedition
+			}
+		}
+		SUD = {
+			history = USA_BLITZKRIEG_DESC
+			ideology = democratic
+			focuses = {
+				SUD_united_states_army
+				SUD_the_british_commonwealth
+				SUD_the_red_expedition
+			}
+		}
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
